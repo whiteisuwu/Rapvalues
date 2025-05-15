@@ -95,7 +95,7 @@ return {
     ["Dual Loveclaw Blade"] = 375,
     ["Cupid's Bow"] = 644,
     ["Dual Sinister Blasters"] = 860,
-    ["Zodiac Parasol"] = 627,
+    ["Zodiac Parasol"] = 527,
     ["Dual Vaporwave Crusher"] = 828,
     ["Dual Nebula Yoru"] = 637,
     ["Mothyx Scissors"] = 890,
