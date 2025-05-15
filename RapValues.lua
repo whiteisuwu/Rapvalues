@@ -15,7 +15,7 @@ return {
     ["Seraphim"] = 51900,
     ["Mummy's Curse"] = 40300,
     ["Serpent"] = 28700,
-    ["Chroma Ninja Katana"] = 29400,
+    ["Chroma Ninja Katana"] = 27400,
     ["Forsaken Riftide"] = 42700,
     ["Noob"] = 27500,
     ["Chroma Seal"] = 24600,
