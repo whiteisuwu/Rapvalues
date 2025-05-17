@@ -1,5 +1,5 @@
-return = {
-    ["Seraphim"] = { rap = 500000, type = "None" },
-    ["Seraphim"] = { rap = 700000, type = "Finisher" },
-    ["Hybrid Blade"] = { rap = 2000, type = "Both" },
+return {
+    ["Seraphim_None"]        = 500000,
+    ["Seraphim_Finisher"]    = 700000,
+    ["Seraphim_SwordAccessory"] = 650000,
 }
