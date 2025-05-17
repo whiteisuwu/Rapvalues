@@ -1,5 +1,5 @@
 return {
-    ["Seraphim_None"]        = 500000,
-    ["Seraphim_Finisher"]    = 700000,
-    ["Seraphim_SwordAccessory"] = 650000,
+    ["Heart Bow_None"]        = 500000,
+    ["Seraphim_None"]    = 700000,
+    ["Monarch Shield Emote_SwordAccessory"] = 650000,
 }
