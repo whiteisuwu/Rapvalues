@@ -171,7 +171,6 @@ return {
     ["Singularity Expulsion_None"] = 15,
     ["Sinister Shaft_None"] = 139,
     ["Sinister Smurk_None"] = 52,
-    ["Snow Globe_None"] = 37,
     ["Snowstorm Burst_None"] = 35,
     ["Snowveil Flake_None"] = 56,
     ["Solar Planets_None"] = 44,
