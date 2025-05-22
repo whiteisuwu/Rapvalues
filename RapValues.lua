@@ -368,7 +368,7 @@ return {
     ["Voidshard Blade_None"] = 139,
     ["Voidshard Bow_None"] = 334,
     ["Voltfire Blade_None"] = 147,
-    ["Voltfire Lash_None"] = 817,
+    ["Voltfire Lash_None"] = 648,
     ["Wavelight Greatblade_None"] = 92,
     ["Wispwind Reaper_None"] = 512,
     ["Wisteria Blade_None"] = 143,
