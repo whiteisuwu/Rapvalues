@@ -315,7 +315,6 @@ return {
     ["Red Ninja Katana_None"] = 6500,
     ["Red Ninja Star_None"] = 2100,
     ["Resurrection Blade_None"] = 89,
-    ["Resurrection Scythe_None"] = 864,
     ["Rose Blade_None"] = 570,
     ["Rose Bow_None"] = 486,
     ["Rosefire Blade_None"] = 84,
