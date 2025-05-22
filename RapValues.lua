@@ -140,7 +140,7 @@ return {
     ["Dual Mothyx Blade_None"] = 445,
     ["Dual Nebula Blade_None"] = 302,
     ["Dual Nebula Blasters_Finisher"] = 9400,
-    ["Dual Nebula Blasters_None"] = 1000,
+    ["Dual Nebula Blasters_None"] = 800,
     ["Dual Nebula Katana_None"] = 398,
     ["Dual Nebula Scythe_None"] = 347,
     ["Dual Nebula Yoru_None"] = 678,
