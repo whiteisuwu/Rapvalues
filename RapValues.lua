@@ -81,7 +81,7 @@ return {
     ["Dual Bloodline Blade_None"] = 333,
     ["Dual Bloodline Scythe_None"] = 633,
     ["Dual Blossom Blade_None"] = 383,
-    ["Dual Blossom Scythe_None"] = 838,
+    ["Dual Blossom Scythe_None"] = 600,
     ["Dual Bubble Blade_None"] = 564,
     ["Dual Bubble Blasters_None"] = 1900,
     ["Dual Butterfly Blade_None"] = 353,
