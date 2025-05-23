@@ -208,7 +208,6 @@ return {
     ["Dual Zephyr Scythe_None"] = 455,
     ["Dual Zodiac Blade_None"] = 307,
     ["Eclipse Blaster_None"] = 491,
-    ["Eclipse Gleam_None"] = 378,
     ["Emerald Blade_None"] = 131,
     ["Emerald Parasol_None"] = 772,
     ["Empyrean Fortress_None"] = 190,
