@@ -335,7 +335,7 @@ return {
     ["Shadow Mirage_None"] = 566,
     ["Shadow Monarch Blade_None"] = 151,
     ["Shadow Monarch Bow_None"] = 307,
-    ["Shark_None"] = 7200,
+    ["Shark_None"] = 5200,
     ["Shatterflight Bird_None"] = 0,
     ["Singularity Katana_None"] = 77,
     ["Singularity Scythe_None"] = 72,
