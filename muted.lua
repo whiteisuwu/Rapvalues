@@ -3,6 +3,7 @@ return {
     "Bubble Blaster_None",
     "Chroma Ninja Katana_Finisher",
     "Dual Leviathan Set_None",
+    "Dual Nebula Blasters_None",
     "Green Ninja Katana_Finisher",
     "Nebula Blade_None",
     "Serpent's Cataclysm_None",
