@@ -11,6 +11,7 @@ return {
     "Dual Nebula Blasters_None",
     "Festive Bow_None",
     "Firebloom Scythe Emote_None",
+    "Floating Sword_None",
     "Green Ninja Katana_Finisher",
     "Moonflower Greatsword Emote_None",
     "Mummy's Curse_None",
