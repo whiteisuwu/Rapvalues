@@ -14,6 +14,7 @@ return {
     "Nebula Blade_None",
     "Red Ninja Katana_Finisher",
     "Resurrection Scythe_None",
+    "Runic Redblade_None",
     "Serpent's Cataclysm_None",
     "Shark_None",
     "Snow Globe_None",
