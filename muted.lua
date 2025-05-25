@@ -23,6 +23,7 @@ return {
     "Resurrection Scythe_None",
     "Rocket Tree_None",
     "Runic Redblade_None",
+    "Serpent Emote_None",
     "Serpent's Cataclysm_None",
     "Shark_None",
     "Snow Globe_None",
