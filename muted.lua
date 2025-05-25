@@ -1,5 +1,6 @@
 return {
     "Bubble Blaster_None",
+    "Chroma Ninja Katana_Finisher",
     "Dual Leviathan Set_None",
     "Green Ninja Katana_Finisher",
     "Nebula Blade_None",
