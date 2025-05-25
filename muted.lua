@@ -7,6 +7,7 @@ return {
     "Dual Loveclaw Blade_None",
     "Dual Nebula Blasters_Finisher",
     "Dual Nebula Blasters_None",
+    "Firebloom Scythe Emote_None",
     "Green Ninja Katana_Finisher",
     "Nebula Blade_None",
     "Red Ninja Katana_Finisher",
