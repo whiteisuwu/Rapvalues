@@ -17,6 +17,7 @@ return {
     "Moonflower Greatsword Emote_None",
     "Mummy's Curse_None",
     "Nebula Blade_None",
+    "Permafrost Staff_None",
     "Red Ninja Katana_Finisher",
     "Resurrection Scythe_None",
     "Rocket Tree_None",
