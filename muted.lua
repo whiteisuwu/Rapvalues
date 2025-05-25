@@ -6,6 +6,7 @@ return {
     "Dual Nebula Blasters_None",
     "Green Ninja Katana_Finisher",
     "Nebula Blade_None",
+    "Resurrection Scythe_None",
     "Serpent's Cataclysm_None",
     "Shark_None",
     "Snow Globe_None",
