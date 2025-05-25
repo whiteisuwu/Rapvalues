@@ -3,6 +3,7 @@ return {
     "Blue Ninja Katana_Finisher",
     "Bubble Blaster_None",
     "Chroma Ninja Katana_Finisher",
+    "Dual Blossom Blades Emote_None",
     "Dual Leviathan Set_None",
     "Dual Loveclaw Blade_None",
     "Dual Nebula Blasters_Finisher",
