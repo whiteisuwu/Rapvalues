@@ -14,6 +14,7 @@ return {
     "Festive Bow_None",
     "Firebloom Scythe Emote_None",
     "Floating Sword_None",
+    "Floppy Chicken_None",
     "Green Ninja Katana_Finisher",
     "Jolly Scythe Set_None",
     "Moonflower Greatsword Emote_None",
