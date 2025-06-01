@@ -17,6 +17,7 @@ return {
     "Floating Sword_None",
     "Floppy Chicken_None",
     "Green Ninja Katana_Finisher",
+    "Hollow Oath Katana_None",
     "Jolly Scythe Set_None",
     "Moonflower Greatsword Emote_None",
     "Mummy's Curse_None",
