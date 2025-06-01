@@ -2,6 +2,7 @@ return {
     "Astraea Guidance_None",
     "Blue Ninja Katana_Finisher",
     "Bubble Blaster_None",
+    "Cat Paw Emote_None",
     "Chroma Ninja Katana Emote_None",
     "Chroma Ninja Katana_Finisher",
     "Chroma Ninja Katana_None",
