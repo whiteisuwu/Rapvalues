@@ -21,6 +21,7 @@ return {
     "Green Ninja Katana_Finisher",
     "Hollow Oath Katana_None",
     "Jolly Scythe Set_None",
+    "Kraken Pit_None",
     "Moonflower Greatsword Emote_None",
     "Mummy's Curse_None",
     "Nebula Blade_None",
