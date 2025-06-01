@@ -26,6 +26,7 @@ return {
     "Mummy's Curse_None",
     "Nebula Blade_None",
     "Noob_None",
+    "Paw Punch_None",
     "Permafrost Staff_None",
     "Red Ninja Katana_Finisher",
     "Resurrection Scythe_None",
