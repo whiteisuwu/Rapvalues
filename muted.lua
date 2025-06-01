@@ -12,6 +12,7 @@ return {
     "Dual Blossom Blades Emote_None",
     "Dual Kraken Scythe Emote_None",
     "Dual Kraken Scythe_None",
+    "Dual Krampus Blade_None",
     "Dual Leviathan Set_None",
     "Dual Loveclaw Blade_None",
     "Dual Nebula Blasters_Finisher",
