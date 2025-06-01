@@ -34,6 +34,7 @@ return {
     "Runic Redblade_None",
     "Serpent Emote_None",
     "Serpent's Cataclysm_None",
+    "Serpent_None",
     "Shark_None",
     "Shatterflight Bird_None",
     "Snow Globe_None",
