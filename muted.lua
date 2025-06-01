@@ -29,6 +29,7 @@ return {
     "Serpent Emote_None",
     "Serpent's Cataclysm_None",
     "Shark_None",
+    "Shatterflight Bird_None",
     "Snow Globe_None",
     "Thorned Sovereign_None",
     "Voltfire Lash_None",
