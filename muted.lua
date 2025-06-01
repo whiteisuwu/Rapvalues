@@ -8,6 +8,7 @@ return {
     "Devil Greatsword Emote_None",
     "Divinity Scythe_None",
     "Dual Blossom Blades Emote_None",
+    "Dual Kraken Scythe_None",
     "Dual Leviathan Set_None",
     "Dual Loveclaw Blade_None",
     "Dual Nebula Blasters_Finisher",
