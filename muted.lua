@@ -1,4 +1,5 @@
 return {
+    "Floppy Chicken_None",
     "Paw Punch_None",
     "Resurrection Scythe_None",
 }
