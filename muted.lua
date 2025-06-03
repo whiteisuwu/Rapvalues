@@ -1,6 +1,7 @@
 return {
     "Black Ninja Katana_None",
     "Bubble Blaster_None",
+    "Cat Paw Emote_None",
     "Cat Paw_None",
     "Chroma Ninja Katana_Finisher",
     "Dual Kraken Scythe Emote_None",
