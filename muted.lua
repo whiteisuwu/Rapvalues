@@ -9,6 +9,7 @@ return {
     "Pink Ninja Katana_None",
     "Resurrection Scythe_None",
     "Serpent's Cataclysm_None",
+    "Serpent_None",
     "Thorned Sovereign_None",
     "Yin Yang Scythe_None",
 }
