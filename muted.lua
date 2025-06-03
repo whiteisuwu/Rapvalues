@@ -13,6 +13,7 @@ return {
     "Resurrection Scythe_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
+    "Snow Globe_None",
     "Thorned Sovereign_None",
     "Yin Yang Scythe_None",
 }
