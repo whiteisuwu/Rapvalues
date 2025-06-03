@@ -1,4 +1,5 @@
 return {
+    "Bubble Blaster_None",
     "Chroma Ninja Katana_Finisher",
     "Floppy Chicken_None",
     "Hollow Oath Katana Emote_None",
