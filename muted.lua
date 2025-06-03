@@ -11,6 +11,7 @@ return {
     "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
     "Kraken Pit_None",
+    "Mummy's Curse_None",
     "Paw Punch_None",
     "Pink Ninja Katana_Finisher",
     "Pink Ninja Katana_None",
