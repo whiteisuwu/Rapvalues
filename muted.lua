@@ -4,6 +4,7 @@ return {
     "Chroma Ninja Katana_Finisher",
     "Dual Nebula Blasters_None",
     "Floppy Chicken_None",
+    "Forsaken Riftide_None",
     "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
     "Kraken Pit_None",
