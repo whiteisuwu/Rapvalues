@@ -5,6 +5,7 @@ return {
     "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
     "Kraken Pit_None",
+    "Noob_None",
     "Paw Punch_None",
     "Pink Ninja Katana_None",
     "Resurrection Scythe_None",
