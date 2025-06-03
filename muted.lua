@@ -4,4 +4,5 @@ return {
     "Paw Punch_None",
     "Pink Ninja Katana_None",
     "Resurrection Scythe_None",
+    "Thorned Sovereign_None",
 }
