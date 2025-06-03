@@ -3,6 +3,7 @@ return {
     "Floppy Chicken_None",
     "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
+    "Kraken Pit_None",
     "Paw Punch_None",
     "Pink Ninja Katana_None",
     "Resurrection Scythe_None",
