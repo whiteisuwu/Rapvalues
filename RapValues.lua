@@ -1,3 +1,18 @@
 return {
-
+        ["Shatterflight Bird Emote_None"] = 980,
+        ["Dual Kraken Blade Emote_None"] = 81,
+        ["Kraken Scythe Emote_None"] = 160,
+        ["Dual Kraken Scythe Emote_None"] = 348,
+        ["Oblivion Pike Emote_None"] = 0,
+        ["Dual Final Phase Emote_None"] = 0,
+        ["Dual Purity Blade Emote_None"] = 0,
+        ["Purity Bow Emote_None"] = 0,
+        ["Venom's Wrath_None"] = 118,
+        ["Astral Enlightenment_None"] = 180,
+        ["Ethereal_None"] = 550,
+        ["Necrotic Ruler_None"] = 665,
+        ["Eternal Clockwork_None"] = 3500,
+        ["Penguin Emote_None"] = 7200,
+        ["Polar Bear Emote_None"] = 4400,
+        ["Serpent Emote_None"] = 7500,
 }
