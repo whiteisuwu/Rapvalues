@@ -1,5 +1,5 @@
 return {
-    ["Abyssal Shield Emote_None"] = 138,
+    ["Abyssal Shield Emote_None"] = 1,
     ["Ace Emote_None"] = 482,
     ["Aetherial Lance Emote_None"] = 236,
     ["Angel Greatsword Emote_None"] = 699,
