@@ -1,5 +1,6 @@
 return {
     "Cat Paw Emote_None",
+    "Cat Paw_None",
     "Chroma Ninja Katana_Finisher",
     "Chroma Scythe_None",
     "Dual Kraken Scythe Emote_None",
