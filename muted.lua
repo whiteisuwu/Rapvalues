@@ -12,6 +12,7 @@ return {
     "Noob_None",
     "Paw Punch_None",
     "Pink Ninja Katana_Finisher",
+    "Pink Ninja Katana_None",
     "Red Ninja Katana_Finisher",
     "Serpent Emote_None",
     "Thorned Sovereign_None",
