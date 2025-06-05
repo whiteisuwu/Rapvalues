@@ -7,4 +7,5 @@ return {
     "Paw Punch_None",
     "Red Ninja Katana_Finisher",
     "Thorned Sovereign_None",
+    "Yin Yang Scythe_None",
 }
