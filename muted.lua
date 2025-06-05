@@ -5,6 +5,7 @@ return {
     "Chroma Ninja Katana_Finisher",
     "Chroma Scythe_None",
     "Dual Kraken Scythe Emote_None",
+    "Dual Kraken Scythe_None",
     "Dual Nebula Blasters_Finisher",
     "Dual Nebula Blasters_None",
     "Floppy Chicken_None",
