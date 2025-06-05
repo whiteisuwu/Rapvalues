@@ -15,6 +15,7 @@ return {
     "Pink Ninja Katana_None",
     "Red Ninja Katana_Finisher",
     "Serpent Emote_None",
+    "Serpent_None",
     "Shark_None",
     "Shatterflight Bird_None",
     "Thorned Sovereign_None",
