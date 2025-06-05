@@ -10,6 +10,7 @@ return {
     "Forsaken Riftide_None",
     "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
+    "Kraken Pit_None",
     "Mummy's Curse_None",
     "Nebula Blade_None",
     "Noob_None",
