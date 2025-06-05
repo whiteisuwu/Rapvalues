@@ -7,6 +7,7 @@ return {
     "Dual Nebula Blasters_None",
     "Floppy Chicken_None",
     "Forsaken Riftide_None",
+    "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
     "Noob_None",
     "Paw Punch_None",
