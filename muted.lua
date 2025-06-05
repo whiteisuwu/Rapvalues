@@ -8,6 +8,7 @@ return {
     "Noob_None",
     "Paw Punch_None",
     "Red Ninja Katana_Finisher",
+    "Serpent Emote_None",
     "Thorned Sovereign_None",
     "Yin Yang Scythe_None",
 }
