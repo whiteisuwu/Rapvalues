@@ -6,5 +6,6 @@ return {
     "Paw Punch_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
+    "Soulrender Scythe Emote_None",
     "Yin Yang Scythe_None",
 }
