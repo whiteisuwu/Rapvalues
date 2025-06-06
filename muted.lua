@@ -5,5 +5,6 @@ return {
     "Paw Punch_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
+    "Wonderwisp Greatsword_None",
     "Yin Yang Scythe_None",
 }
