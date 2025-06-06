@@ -2,6 +2,7 @@ return {
     "Cat Paw_None",
     "Chroma Blade Explosion_None",
     "Chroma Ninja Katana_Finisher",
+    "Eclipse Gleam_None",
     "Floppy Chicken_None",
     "Green Ninja Katana_Finisher",
     "Hollow Oath Katana_None",
