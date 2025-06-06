@@ -8,6 +8,7 @@ return {
     "Hollow Oath Katana_None",
     "Noob_None",
     "Paw Punch_None",
+    "Pyramid Scheme_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
     "Shatterflight Bird_None",
