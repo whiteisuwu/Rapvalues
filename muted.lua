@@ -2,5 +2,6 @@ return {
     "Chroma Blade Explosion_None",
     "Floppy Chicken_None",
     "Serpent's Cataclysm_None",
+    "Serpent_None",
     "Yin Yang Scythe_None",
 }
