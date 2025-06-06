@@ -1,4 +1,5 @@
 return {
+    "Bubble Blaster_None",
     "Cat Paw_None",
     "Chroma Blade Explosion_None",
     "Chroma Ninja Katana_Finisher",
