@@ -12,6 +12,7 @@ return {
     "Green Ninja Katana_Finisher",
     "Hollow Oath Katana_None",
     "Hollow Oath_None",
+    "Kraken Scythe_None",
     "Mummy's Curse_None",
     "Noob_None",
     "Paw Punch_None",
