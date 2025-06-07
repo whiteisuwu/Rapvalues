@@ -16,7 +16,6 @@ return {
     "Hollow Oath_None",
     "Kraken Pit_None",
     "Kraken Scythe_None",
-    "Moon Discovery_None",
     "Mummy's Curse_None",
     "Noob_None",
     "Paw Punch_None",
