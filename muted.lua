@@ -14,6 +14,7 @@ return {
     "Noob_None",
     "Paw Punch_None",
     "Pyramid Scheme_None",
+    "Red Ninja Katana_Finisher",
     "Serpent's Cataclysm_None",
     "Serpent_None",
     "Shatterflight Bird_None",
