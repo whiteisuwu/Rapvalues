@@ -719,6 +719,7 @@ return {
     ["Rosefire Blade_None"] = 76,
     ["Rosefire Scythe Emote_None"] = 200,
     ["Rosefire Scythe_None"] = 260,
+    ["Rose Gift_None"] = 6500,
     ["Royal Explosion_None"] = 430,
     ["Royal Throne_None"] = 1000,
     ["Runic Blade_None"] = 128,
