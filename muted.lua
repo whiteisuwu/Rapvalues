@@ -5,4 +5,5 @@ return {
     "Floppy Chicken_None",
     "Noob_None",
     "Paw Punch_None",
+    "Serpent's Cataclysm_None",
 }
