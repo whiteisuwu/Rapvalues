@@ -15,6 +15,7 @@ return {
     "Pink Ninja Katana_Finisher",
     "Pink Ninja Katana_None",
     "Polar Bear Pop_None",
+    "Red Ninja Katana_Finisher",
     "Red Ninja Katana_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
