@@ -6,6 +6,7 @@ return {
     "Dual Gleaming Scythe_None",
     "Final Phase_None",
     "Floppy Chicken_None",
+    "Forsaken Riftide_None",
     "Noob_None",
     "Oblivion Pike_None",
     "Paw Punch_None",
