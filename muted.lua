@@ -9,5 +9,6 @@ return {
     "Paw Punch_None",
     "Pink Ninja Katana_Finisher",
     "Serpent's Cataclysm_None",
+    "Serpent_None",
     "Snowball Launcher_None",
 }
