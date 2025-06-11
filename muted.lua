@@ -7,4 +7,5 @@ return {
     "Oblivion Pike_None",
     "Paw Punch_None",
     "Serpent's Cataclysm_None",
+    "Snowball Launcher_None",
 }
