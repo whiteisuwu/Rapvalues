@@ -10,6 +10,7 @@ return {
     "Oblivion Pike_None",
     "Paw Punch_None",
     "Pink Ninja Katana_Finisher",
+    "Pink Ninja Katana_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
     "Shatterflight Bird_None",
