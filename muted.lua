@@ -12,5 +12,6 @@ return {
     "Pink Ninja Katana_Finisher",
     "Serpent's Cataclysm_None",
     "Serpent_None",
+    "Shatterflight Bird_None",
     "Snowball Launcher_None",
 }
