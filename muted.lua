@@ -1,4 +1,5 @@
 return {
+    "Astraea Staff_None",
     "Bubble Blaster_None",
     "Chroma Ninja Katana_Finisher",
     "Dual Gleaming Scythe_None",
