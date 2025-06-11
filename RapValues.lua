@@ -1,5 +1,6 @@
 return {
     ["Abyssal Astrology_None"] = 115,
+    ["TUNG TUNG TUNG SAHUR_None"] = 1150,
     ["Abyssal Blade_None"] = 849,
     ["Abyssal Shield Emote_None"] = 1,
     ["Abyssal Shield_None"] = 476,
