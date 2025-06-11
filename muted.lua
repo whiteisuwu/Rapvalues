@@ -9,6 +9,7 @@ return {
     "Final Phase_None",
     "Floppy Chicken_None",
     "Forsaken Riftide_None",
+    "Green Ninja Katana_Finisher",
     "Noob_None",
     "Oblivion Pike_None",
     "Paw Punch_None",
