@@ -18,5 +18,6 @@ return {
     "Serpent_None",
     "Shatterflight Bird_None",
     "Snowball Launcher_None",
+    "Yin Yang Parasol_None",
     "Yin Yang Scythe_None",
 }
