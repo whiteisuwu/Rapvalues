@@ -7,6 +7,7 @@ return {
     "Noob_None",
     "Oblivion Pike_None",
     "Paw Punch_None",
+    "Pink Ninja Katana_Finisher",
     "Serpent's Cataclysm_None",
     "Snowball Launcher_None",
 }
