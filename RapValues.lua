@@ -731,7 +731,7 @@ return {
     ["Rose Bloom_None"] = 27,
     ["Rose Bow Emote_None"] = 1,
     ["Rose Bow_None"] = 415,
-    ["Rose Gift_None"] = 6500,
+    ["Rose Gift_None"] = 5500,
     ["Rosefire Blade_None"] = 76,
     ["Rosefire Scythe Emote_None"] = 1,
     ["Rosefire Scythe_None"] = 247,
