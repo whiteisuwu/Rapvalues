@@ -24,6 +24,7 @@ return {
     "Red Ninja Katana_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
+    "Shark_None",
     "Shatterflight Bird_None",
     "Snowball Launcher_None",
     "Yin Yang Parasol_None",
