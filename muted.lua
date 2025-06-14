@@ -14,6 +14,7 @@ return {
     "Forsaken Riftide_None",
     "Green Ninja Katana_Finisher",
     "Hollow Oath Katana_None",
+    "King Throne_None",
     "Noob_None",
     "Oblivion Pike_None",
     "Paw Punch_None",
