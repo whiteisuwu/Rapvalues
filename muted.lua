@@ -8,6 +8,7 @@ return {
     "Chroma Ninja Katana_Finisher",
     "Chroma Ninja Katana_None",
     "Dual Gleaming Scythe_None",
+    "Dual Nebula Blasters_Finisher",
     "Final Phase_None",
     "Floppy Chicken_None",
     "Forsaken Riftide_None",
