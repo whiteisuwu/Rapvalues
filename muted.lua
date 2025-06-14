@@ -16,7 +16,6 @@ return {
     "Noob_None",
     "Oblivion Pike_None",
     "Paw Punch_None",
-    "Penguin_None",
     "Pink Ninja Katana_Finisher",
     "Pink Ninja Katana_None",
     "Polar Bear Pop_None",
