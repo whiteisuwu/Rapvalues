@@ -23,6 +23,7 @@ return {
     "Polar Bear Pop_None",
     "Red Ninja Katana_Finisher",
     "Red Ninja Katana_None",
+    "Serpent Emote_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
     "Shark_None",
