@@ -18,6 +18,7 @@ return {
     "Paw Punch_None",
     "Pink Ninja Katana_Finisher",
     "Pink Ninja Katana_None",
+    "Polar Bear Emote_None",
     "Polar Bear Pop_None",
     "Red Ninja Katana_Finisher",
     "Red Ninja Katana_None",
