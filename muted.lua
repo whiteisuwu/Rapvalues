@@ -20,6 +20,7 @@ return {
     "Oblivion Pike_None",
     "Paw Punch_None",
     "Penguin_None",
+    "Pink Ninja Katana_Finisher",
     "Pure Power_None",
     "Purity Blade_None",
     "Red Ninja Katana_Finisher",
