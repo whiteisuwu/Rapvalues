@@ -1,4 +1,5 @@
 return {
+    "Ace_None",
     "Astraea Staff_None",
     "Black Ninja Katana_Finisher",
     "Bubble Blaster_None",
