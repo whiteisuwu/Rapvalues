@@ -5,7 +5,6 @@ return {
     "Bubble Blaster_None",
     "Chroma Ninja Katana_Finisher",
     "Dual Nebula Blasters_Finisher",
-    "Dual Nebula Blasters_None",
     "Dual Purity Blade_None",
     "Final Phase_None",
     "Forsaken Riftide_None",
