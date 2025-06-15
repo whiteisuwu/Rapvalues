@@ -2,6 +2,7 @@ return {
     "Ace_None",
     "Astraea Staff_None",
     "Black Ninja Katana_Finisher",
+    "Black Ninja Katana_None",
     "Bubble Blaster_None",
     "Chroma Ninja Katana_Finisher",
     "Dual Nebula Blasters_Finisher",
