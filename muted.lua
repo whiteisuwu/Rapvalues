@@ -6,5 +6,6 @@ return {
     "Noob_None",
     "Pure Power_None",
     "Purity Blade_None",
+    "Shatterflight Bird_None",
     "Yin Yang Scythe_None",
 }
