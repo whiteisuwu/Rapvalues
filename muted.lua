@@ -24,6 +24,7 @@ return {
     "Pure Power_None",
     "Purity Blade_None",
     "Red Ninja Katana_Finisher",
+    "Resurrection Scythe_None",
     "Serpent Emote_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
