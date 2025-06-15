@@ -6,6 +6,7 @@ return {
     "Dual Purity Blade_None",
     "Final Phase_None",
     "Forsaken Riftide_None",
+    "Green Ninja Katana_Finisher",
     "Oblivion Pike_None",
     "Paw Punch_None",
     "Pure Power_None",
