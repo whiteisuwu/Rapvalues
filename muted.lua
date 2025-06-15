@@ -11,6 +11,7 @@ return {
     "Dual Nebula Blasters_Finisher",
     "Dual Nebula Blasters_None",
     "Dual Purity Blade_None",
+    "Dual Wispwind Reaper_None",
     "Final Phase_None",
     "Floppy Chicken_None",
     "Forsaken Riftide_None",
