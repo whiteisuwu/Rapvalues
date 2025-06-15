@@ -14,6 +14,7 @@ return {
     "Mummy's Curse_None",
     "Oblivion Pike_None",
     "Paw Punch_None",
+    "Penguin_None",
     "Pure Power_None",
     "Purity Blade_None",
     "Serpent Emote_None",
