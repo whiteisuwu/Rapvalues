@@ -4,6 +4,7 @@ return {
     "Dual Purity Blade_None",
     "Forsaken Riftide_None",
     "Oblivion Pike_None",
+    "Paw Punch_None",
     "Pure Power_None",
     "Purity Blade_None",
     "Shatterflight Bird_None",
