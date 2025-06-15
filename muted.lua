@@ -22,6 +22,7 @@ return {
     "Paw Punch_None",
     "Penguin_None",
     "Pink Ninja Katana_Finisher",
+    "Pink Ninja Katana_None",
     "Pure Power_None",
     "Purity Blade_None",
     "Red Ninja Katana_Finisher",
