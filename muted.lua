@@ -22,6 +22,7 @@ return {
     "Serpent Emote_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
+    "Shark_None",
     "Shatterflight Bird_None",
     "Wonderwisp Greatsword_None",
     "Yin Yang Scythe_None",
