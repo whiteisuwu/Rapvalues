@@ -20,6 +20,7 @@ return {
     "Penguin_None",
     "Pure Power_None",
     "Purity Blade_None",
+    "Red Ninja Katana_Finisher",
     "Serpent Emote_None",
     "Serpent's Cataclysm_None",
     "Serpent_None",
