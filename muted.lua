@@ -10,6 +10,7 @@ return {
     "Forsaken Riftide_None",
     "Green Ninja Katana_Finisher",
     "Hollow Oath Katana Emote_None",
+    "Hollow Oath_None",
     "Mummy's Curse_None",
     "Oblivion Pike_None",
     "Paw Punch_None",
