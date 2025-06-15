@@ -5,4 +5,5 @@ return {
     "Forsaken Riftide_None",
     "Purity Blade_None",
     "Shatterflight Bird_None",
+    "Yin Yang Scythe_None",
 }
