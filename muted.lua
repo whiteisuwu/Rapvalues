@@ -17,6 +17,7 @@ return {
     "Paw Punch_None",
     "Pure Power_None",
     "Purity Blade_None",
+    "Red Ninja Katana_None",
     "Resurrection Scythe_None",
     "Serpent's Cataclysm_None",
     "Shatterflight Bird_None",
