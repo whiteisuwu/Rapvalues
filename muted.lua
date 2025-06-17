@@ -11,6 +11,7 @@ return {
     "Frostbound Lantern_None",
     "Hollow Oath Katana Emote_None",
     "Hollow Oath_None",
+    "Katana Chroma Explosion_None",
     "Mummy's Curse_None",
     "Noob_None",
     "Oblivion Pike_None",
