@@ -21,6 +21,7 @@ return {
     "Red Ninja Katana_None",
     "Resurrection Scythe_None",
     "Serpent's Cataclysm_None",
+    "Serpent's Judgment_None",
     "Shatterflight Bird_None",
     "Yin Yang Scythe_None",
 }
