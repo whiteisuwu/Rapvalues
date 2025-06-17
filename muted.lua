@@ -6,6 +6,7 @@ return {
     "Final Phase_None",
     "Frostbound Lantern_None",
     "Hollow Oath Katana Emote_None",
+    "Mummy's Curse_None",
     "Noob_None",
     "Oblivion Pike_None",
     "Paw Punch_None",
