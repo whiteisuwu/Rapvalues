@@ -10,6 +10,7 @@ return {
     "Paw Punch_None",
     "Pure Power_None",
     "Purity Blade_None",
+    "Resurrection Scythe_None",
     "Shatterflight Bird_None",
     "Yin Yang Scythe_None",
 }
