@@ -3,6 +3,7 @@ return {
     "Bubble Blaster_None",
     "Dual Purity Blade_None",
     "Final Phase_None",
+    "Frostbound Lantern_None",
     "Noob_None",
     "Oblivion Pike_None",
     "Pure Power_None",
