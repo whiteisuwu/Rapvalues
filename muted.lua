@@ -11,5 +11,6 @@ return {
     "Polar Bear_None",
     "Pure Power_None",
     "Purity Blade_None",
+    "Serpent's Cataclysm_None",
     "Yin Yang Scythe_None",
 }
