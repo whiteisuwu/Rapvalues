@@ -1,6 +1,7 @@
 return {
     "Astraea Staff_None",
     "Bubble Blaster_None",
+    "Chroma Ninja Katana_Finisher",
     "Dual Nebula Blasters_None",
     "Frostbound Lantern_None",
     "Hollow Oath_None",
