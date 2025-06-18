@@ -6,6 +6,7 @@ return {
     "Dual Purity Blade_None",
     "Final Phase_None",
     "Frostbound Lantern_None",
+    "Hollow Oath Katana Emote_None",
     "Hollow Oath_None",
     "Nebula Blade_None",
     "Noob_None",
