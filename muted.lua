@@ -9,6 +9,7 @@ return {
     "Dual Purity Blade_None",
     "Dual Wonderwisp Greatsword Emote_None",
     "Final Phase_None",
+    "Frostbound Enlightenment_None",
     "Frostbound Lantern_None",
     "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
