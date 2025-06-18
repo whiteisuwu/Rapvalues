@@ -5,4 +5,5 @@ return {
     "Nebula Blade_None",
     "Pure Power_None",
     "Purity Blade_None",
+    "Yin Yang Scythe_None",
 }
