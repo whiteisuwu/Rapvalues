@@ -24,5 +24,6 @@ return {
     "Serpent's Cataclysm_None",
     "Serpent's Judgment_None",
     "Shatterflight Bird_None",
+    "Soul Counter_None",
     "Yin Yang Scythe_None",
 }
