@@ -8,6 +8,7 @@ return {
     "Hollow Oath_None",
     "Nebula Blade_None",
     "Noob_None",
+    "Oblivion Pike_None",
     "Penguin_None",
     "Polar Bear_None",
     "Pure Power_None",
