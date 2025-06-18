@@ -7,6 +7,7 @@ return {
     "Hollow Oath_None",
     "Nebula Blade_None",
     "Noob_None",
+    "Polar Bear_None",
     "Pure Power_None",
     "Purity Blade_None",
     "Yin Yang Scythe_None",
