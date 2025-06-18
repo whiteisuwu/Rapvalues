@@ -1,4 +1,5 @@
 return {
+    "Arctic Waddle_None",
     "Astraea Staff_None",
     "Bubble Blaster_None",
     "Cat Paw_None",
