@@ -3,6 +3,7 @@ return {
     "Dual Nebula Blasters_None",
     "Frostbound Lantern_None",
     "Nebula Blade_None",
+    "Noob_None",
     "Pure Power_None",
     "Purity Blade_None",
     "Yin Yang Scythe_None",
