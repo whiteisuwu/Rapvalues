@@ -18,6 +18,7 @@ return {
     "Mummy's Curse_None",
     "Noob_None",
     "Oblivion Pike_None",
+    "Ornament Crushers_None",
     "Paw Punch_None",
     "Pure Power_None",
     "Purity Blade_None",
