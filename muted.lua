@@ -4,6 +4,7 @@ return {
     "Final Phase_None",
     "Frostbound Lantern_None",
     "Noob_None",
+    "Purity Blade_None",
     "Serpent's Cataclysm_None",
     "Yin Yang Scythe_None",
 }
