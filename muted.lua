@@ -6,6 +6,7 @@ return {
     "Hollow Oath Katana Emote_None",
     "Mummy's Curse_None",
     "Noob_None",
+    "Pink Ninja Katana_None",
     "Pure Power_None",
     "Purity Blade_None",
     "Serpent's Cataclysm_None",
