@@ -1,6 +1,7 @@
 return {
     "Astraea Staff_None",
     "Chroma Ninja Katana_Finisher",
+    "Dual Divine Blaster_None",
     "Dual Nebula Blasters_None",
     "Final Phase_None",
     "Forsaken Riftide_None",
