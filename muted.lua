@@ -3,6 +3,7 @@ return {
     "Chroma Ninja Katana_Finisher",
     "Dual Nebula Blasters_None",
     "Final Phase_None",
+    "Forsaken Riftide_None",
     "Frostbound Lantern_None",
     "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
