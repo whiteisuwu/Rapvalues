@@ -2,6 +2,7 @@ return {
     "Astraea Staff_None",
     "Chroma Ninja Katana_Finisher",
     "Dual Nebula Blasters_None",
+    "Dual Purity Blade_None",
     "Final Phase_None",
     "Frostbound Lantern_None",
     "Hollow Oath Katana Emote_None",
