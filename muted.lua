@@ -1,6 +1,7 @@
 return {
     "Astraea Staff_None",
     "Chroma Ninja Katana_Finisher",
+    "Final Phase_None",
     "Frostbound Lantern_None",
     "Noob_None",
     "Serpent's Cataclysm_None",
