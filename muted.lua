@@ -4,6 +4,7 @@ return {
     "Final Phase_None",
     "Frostbound Lantern_None",
     "Hollow Oath Katana Emote_None",
+    "Mummy's Curse_None",
     "Noob_None",
     "Purity Blade_None",
     "Serpent's Cataclysm_None",
