@@ -1,4 +1,5 @@
 return {
+    ["Passo Bem Solto_None"] = 5400,
     ["Abyssal Astrology_None"] = 121,
     ["Abyssal Blade_None"] = 736,
     ["Abyssal Shield Emote_None"] = 131,
