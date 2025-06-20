@@ -19,6 +19,7 @@ return {
     "Pink Ninja Katana_None",
     "Pure Power_None",
     "Purity Blade_None",
+    "Resurrection Scythe Emote_None",
     "Serpent's Cataclysm_None",
     "Shatterflight Bird_None",
     "Yin Yang Scythe_None",
