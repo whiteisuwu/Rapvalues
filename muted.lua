@@ -7,7 +7,6 @@ return {
     "Mummy's Curse_None",
     "Noob_None",
     "Purity Blade_None",
-    "Seraphim_Finisher",
     "Serpent's Cataclysm_None",
     "Yin Yang Scythe_None",
 }
