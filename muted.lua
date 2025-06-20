@@ -12,5 +12,6 @@ return {
     "Pure Power_None",
     "Purity Blade_None",
     "Serpent's Cataclysm_None",
+    "Shatterflight Bird_None",
     "Yin Yang Scythe_None",
 }
