@@ -10,7 +10,6 @@ return {
     "Dual Purity Blade_None",
     "Dual Rose Blade Emote_None",
     "Eclipse Gleam_None",
-    "Final Phase_None",
     "Forsaken Riftide_None",
     "Frostbound Lantern_None",
     "Hollow Oath Katana Emote_None",
