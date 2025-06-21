@@ -4,6 +4,7 @@ return {
     "Black Ninja Katana_None",
     "Bubble Blaster_None",
     "Chroma Ninja Katana_Finisher",
+    "Dual Abyssal Set_None",
     "Dual Chroma Set Explosion_None",
     "Dual Divine Blaster_None",
     "Dual Nebula Blasters_None",
