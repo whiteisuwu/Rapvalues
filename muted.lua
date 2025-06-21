@@ -3,6 +3,7 @@ return {
     "Astraea Staff_None",
     "Black Ninja Katana_None",
     "Bubble Blaster_None",
+    "Cat Paw Emote_None",
     "Chroma Ninja Katana_Finisher",
     "Dual Abyssal Set_None",
     "Dual Chroma Set Explosion_None",
