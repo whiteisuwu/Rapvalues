@@ -16,6 +16,7 @@ return {
     "Hollow Oath Katana_None",
     "Hollow Oath_None",
     "Mummy's Curse_None",
+    "Nebula Blade_None",
     "Noob_None",
     "Pink Ninja Katana_None",
     "Pure Power_None",
