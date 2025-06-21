@@ -23,6 +23,7 @@ return {
     "Purity Blade_None",
     "Resurrection Scythe Emote_None",
     "Serpent's Cataclysm_None",
+    "Shark_None",
     "Shatterflight Bird_None",
     "Yin Yang Scythe_None",
 }
