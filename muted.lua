@@ -14,6 +14,7 @@ return {
     "Eclipse Gleam_None",
     "Forsaken Riftide_None",
     "Frostbound Lantern_None",
+    "Harmonic Fan_None",
     "Hollow Oath Katana Emote_None",
     "Hollow Oath Katana_None",
     "Hollow Oath_None",
