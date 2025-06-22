@@ -24,6 +24,7 @@ return {
     "Mummy's Curse_None",
     "Nebula Blade_None",
     "Noob_None",
+    "Paw Punch_None",
     "Pink Ninja Katana_None",
     "Polar Bear Emote_None",
     "Polar Bear Pop_None",
