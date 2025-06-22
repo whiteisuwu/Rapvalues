@@ -34,7 +34,6 @@ return {
     "Pure Power_None",
     "Purity Blade_None",
     "Resurrection Scythe Emote_None",
-    "Serpent Anchor_None",
     "Serpent's Cataclysm_None",
     "Shark_None",
     "Shatterflight Bird Explosion_None",
