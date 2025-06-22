@@ -26,6 +26,7 @@ return {
     "Polar Bear Emote_None",
     "Polar Bear Pop_None",
     "Prismatic Odachi Emote_None",
+    "Prismatic Odachi Explosion_None",
     "Pure Power_None",
     "Purity Blade_None",
     "Resurrection Scythe Emote_None",
