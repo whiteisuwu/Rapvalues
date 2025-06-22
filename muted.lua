@@ -36,6 +36,7 @@ return {
     "Resurrection Scythe Emote_None",
     "Serpent's Cataclysm_None",
     "Shark_None",
+    "Shatterflight Bird Explosion_None",
     "Shatterflight Bird_None",
     "Snowball Launcher_None",
     "Spinalis Emote_None",
