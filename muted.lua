@@ -38,5 +38,6 @@ return {
     "Shark_None",
     "Shatterflight Bird_None",
     "Snowball Launcher_None",
+    "Spinalis Emote_None",
     "Yin Yang Scythe_None",
 }
