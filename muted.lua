@@ -11,6 +11,7 @@ return {
     "Dual Abyssal Set_None",
     "Dual Chroma Set Explosion_None",
     "Dual Divine Blaster_None",
+    "Dual Eclipse Gleam_None",
     "Dual Nebula Blasters_None",
     "Dual Purity Blade_None",
     "Dual Rose Blade Emote_None",
