@@ -28,7 +28,6 @@ return {
     "Nebula Blade_None",
     "Noob_None",
     "Paw Punch_None",
-    "Penguin_None",
     "Pink Ninja Katana_None",
     "Polar Bear Emote_None",
     "Polar Bear Pop_None",
