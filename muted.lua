@@ -7,6 +7,7 @@ return {
     "Calamity Guardian Explosion_None",
     "Calamity Guardian_None",
     "Cat Paw Emote_None",
+    "Cat Paw_None",
     "Chroma Ninja Katana_Finisher",
     "Dual Abyssal Set_None",
     "Dual Chroma Set Explosion_None",
