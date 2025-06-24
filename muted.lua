@@ -9,6 +9,7 @@ return {
     "Cat Paw Emote_None",
     "Cat Paw_None",
     "Chroma Ninja Katana_Finisher",
+    "Chroma Scythe_None",
     "Dual Abyssal Set_None",
     "Dual Chroma Set Explosion_None",
     "Dual Divine Blaster_None",
