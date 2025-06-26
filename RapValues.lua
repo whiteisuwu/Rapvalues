@@ -925,5 +925,5 @@ return {
     ["Zodiac Blade_None"] = 77,
     ["Zodiac Parasol Emote_None"] = 118,
     ["Zodiac Parasol_None"] = 450,
-    ["Zodiac Shrine_None"] = 33,
+    ["Zodiac Shrine_None"] = 32,
 }
