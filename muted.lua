@@ -1,4 +1,5 @@
 return {
+    "Blossom Blade_None",
     "Calamity Guardian Emote_None",
     "Calamity Guardian_None",
     "Dual Soulbloom Blade_None",
