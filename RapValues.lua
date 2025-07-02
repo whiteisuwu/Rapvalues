@@ -928,10 +928,10 @@ return {
     ["Zephyr Scythe Emote_None"] = 67,
     ["Zephyr Scythe_None"] = 159,
     ["Zephyr Sky_None"] = 50,
-    ["Zeus' Punishment_None"] = 86,
-    ["Zodiac Ascendant_None"] = 33,
+    ["Zeus' Punishment_None"] = 90,
+    ["Zodiac Ascendant_None"] = 34,
     ["Zodiac Blade_None"] = 82,
     ["Zodiac Parasol Emote_None"] = 114,
     ["Zodiac Parasol_None"] = 442,
-    ["Zodiac Shrine_None"] = 36,
+    ["Zodiac Shrine_None"] = 34,
 }
