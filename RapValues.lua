@@ -132,7 +132,7 @@ return {
     ["Cupid's Bow Emote_None"] = 112,
     ["Cupid's Bow_None"] = 440,
     ["Cursed Beam_None"] = 43,
-    ["Cursed Blade_None"] = 98,
+    ["Cursed Blade_None"] = 100,
     ["Cursed Eye_None"] = 49,
     ["Cursed Scythe Emote_None"] = 59,
     ["Cursed Scythe_None"] = 258,
