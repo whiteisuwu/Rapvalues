@@ -11,4 +11,5 @@ return {
     "Soulbloom Blade_None",
     "Soulbloom Scissors_None",
     "Spinalis_None",
+    "Venomlight Scythe_None",
 }
