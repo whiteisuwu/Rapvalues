@@ -191,7 +191,7 @@ return {
     ["Dual Azurethorn Blade_None"] = 170,
     ["Dual Azurethorn Scythe Emote_None"] = 254,
     ["Dual Azurethorn Scythe_None"] = 974,
-    ["Dual Blackhole Katana_None"] = 188,
+    ["Dual Blackhole Katana_None"] = 187,
     ["Dual Blackhole Scythe_None"] = 278,
     ["Dual Bloodline Blade Emote_None"] = 128,
     ["Dual Bloodline Blade_None"] = 257,
