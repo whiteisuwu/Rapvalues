@@ -121,7 +121,7 @@ return {
     ["Crimson Spin_None"] = 34,
     ["Crystal Dual Sword Swing_None"] = 123,
     ["Crystal Explosion_None"] = 35,
-    ["Crystal Greatblade_None"] = 559,
+    ["Crystal Greatblade_None"] = 554,
     ["Crystal Hammer_None"] = 82,
     ["Crystal Reaperblade_None"] = 118,
     ["Crystal Reveal_None"] = 29,
