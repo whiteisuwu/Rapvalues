@@ -14,7 +14,7 @@ return {
     ["Aetherial Blackhole_None"] = 188,
     ["Aetherial Gate_None"] = 47,
     ["Aetherial Kunai_None"] = 135,
-    ["Aetherial Lance Emote_None"] = 159,
+    ["Aetherial Lance Emote_None"] = 158,
     ["Aetherial Lance_None"] = 431,
     ["Affection Rain_None"] = 220,
     ["Angel Greatsword Emote_None"] = 631,
