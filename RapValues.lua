@@ -650,7 +650,7 @@ return {
     ["North Star Emote_None"] = 129,
     ["North Star Shatter_None"] = 116,
     ["North Star_None"] = 459,
-    ["Oblivion Pike Emote_None"] = 185,
+    ["Oblivion Pike Emote_None"] = 184,
     ["Oblivion Pike_None"] = 624,
     ["Oblivion Strike_None"] = 76,
     ["Obsidian Blade_None"] = 71,
