@@ -414,7 +414,7 @@ return {
     ["Dual Vampire Sickle Emote_None"] = 101,
     ["Dual Vampire Sickle_None"] = 387,
     ["Dual Vaporwave Blade Emote_None"] = 59,
-    ["Dual Vaporwave Blade_None"] = 213,
+    ["Dual Vaporwave Blade_None"] = 212,
     ["Dual Vaporwave Crusher Emote_None"] = 62,
     ["Dual Vaporwave Crusher_None"] = 772,
     ["Dual Void Blades_None"] = 353,
