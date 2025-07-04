@@ -546,7 +546,7 @@ return {
     ["Jellyfish Explosion_None"] = 539,
     ["Jellyfish Parasol Emote_None"] = 313,
     ["Jellyfish Parasol_None"] = 1300,
-    ["Jolly Scythe Set Emote_None"] = 189,
+    ["Jolly Scythe Set Emote_None"] = 190,
     ["Jolly Scythe Set_None"] = 1700,
     ["Judge Gavel_None"] = 33,
     ["Judgement_None"] = 750,
