@@ -229,7 +229,7 @@ return {
     ["Dual Divine Blaster Emote_None"] = 43,
     ["Dual Divine Blaster_None"] = 610,
     ["Dual Divine Sword Emote_None"] = 51,
-    ["Dual Divine Sword_None"] = 183,
+    ["Dual Divine Sword_None"] = 181,
     ["Dual Divinity Blade Emote_None"] = 382,
     ["Dual Divinity Blade_None"] = 303,
     ["Dual Divinity Scythe Emote_None"] = 93,
