@@ -627,7 +627,7 @@ return {
     ["Mothyx Scissors Emote_None"] = 132,
     ["Mothyx Scissors_None"] = 724,
     ["Mummy's Curse_None"] = 61400,
-    ["Nebula Blade_None"] = 451,
+    ["Nebula Blade_None"] = 33,
     ["Nebula Blaster_None"] = 127,
     ["Nebula Claws_None"] = 155,
     ["Nebula Implosion_None"] = 0,
