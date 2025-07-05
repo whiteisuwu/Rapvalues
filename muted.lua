@@ -8,6 +8,7 @@ return {
     "Hollow Oath Katana_None",
     "Nebula Blade_None",
     "Paw Punch_None",
+    "Serpent Emote_None",
     "Soulbloom Blade_None",
     "Soulbloom Scissors_None",
     "Spinalis_None",
