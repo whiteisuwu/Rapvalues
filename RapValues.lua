@@ -350,7 +350,7 @@ return {
     ["Dual Parasitic Scythe Emote_None"] = 192,
     ["Dual Parasitic Scythe_None"] = 367,
     ["Dual Permafrost Blade Emote_None"] = 95,
-    ["Dual Permafrost Blade_None"] = 165,
+    ["Dual Permafrost Blade_None"] = 166,
     ["Dual Phantom Blade Emote_None"] = 60,
     ["Dual Phantom Blade_None"] = 251,
     ["Dual Phantom Scythe Emote_None"] = 119,
