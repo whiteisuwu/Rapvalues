@@ -102,7 +102,7 @@ return {
     ["Cherry Blossom Tree_None"] = 417,
     ["Chroma Blade Emote_None"] = 742,
     ["Chroma Blade Explosion_None"] = 861,
-    ["Chroma Blade_None"] = 9200,
+    ["Chroma Blade_None"] = 9100,
     ["Chroma Ninja Katana Emote_None"] = 1000,
     ["Chroma Ninja Katana_Finisher"] = 48000,
     ["Chroma Ninja Katana_None"] = 20300,
