@@ -333,7 +333,7 @@ return {
     ["Dual Nebula Scythe_None"] = 268,
     ["Dual Nebula Yoru_None"] = 509,
     ["Dual Nebula's Lightning_None"] = 319,
-    ["Dual Nightclaw Blade Emote_None"] = 78,
+    ["Dual Nightclaw Blade Emote_None"] = 79,
     ["Dual Nightclaw Blade_None"] = 213,
     ["Dual Nightclaw Scythe Emote_None"] = 109,
     ["Dual Nightclaw Scythe_None"] = 276,
