@@ -137,7 +137,7 @@ return {
     ["Crystal Scissors Emote_None"] = 57,
     ["Crystal Scissors_None"] = 415,
     ["Crystal Scythe Swing_None"] = 35,
-    ["Crystal Sword Swing_None"] = 39,
+    ["Crystal Sword Swing_None"] = 40,
     ["Cupid's Bow Emote_None"] = 114,
     ["Cupid's Bow_None"] = 442,
     ["Cursed Beam_None"] = 45,
