@@ -586,7 +586,7 @@ return {
     ["Krampus Blade_None"] = 61,
     ["Krampus Gifts_None"] = 54,
     ["Krampus Horns_None"] = 24,
-    ["Krampus Scythe Emote_None"] = 113,
+    ["Krampus Scythe Emote_None"] = 112,
     ["Krampus Scythe_None"] = 204,
     ["Kurogin Destruction_None"] = 26,
     ["Kurogin Katana_None"] = 113,
