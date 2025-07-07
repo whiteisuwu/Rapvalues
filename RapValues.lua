@@ -433,7 +433,7 @@ return {
     ["Dual Void Blades_None"] = 353,
     ["Dual Void Scythes Emote_None"] = 101,
     ["Dual Void Scythes_None"] = 585,
-    ["Dual Voidshard Blade Emote_None"] = 89,
+    ["Dual Voidshard Blade Emote_None"] = 96,
     ["Dual Voidshard Blade_None"] = 256,
     ["Dual Voltfire Blade_None"] = 298,
     ["Dual Voltfire Lash Emote_None"] = 46,
