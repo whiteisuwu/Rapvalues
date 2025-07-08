@@ -144,7 +144,7 @@ return {
     ["Cursed Blade_None"] = 101,
     ["Cursed Eye_None"] = 43,
     ["Cursed Scythe Emote_None"] = 58,
-    ["Cursed Scythe_None"] = 251,
+    ["Cursed Scythe_None"] = 247,
     ["Cyber Scythe_None"] = 37,
     ["Dark Matter Explosion_None"] = 78,
     ["Demonic Blade_None"] = 63,
