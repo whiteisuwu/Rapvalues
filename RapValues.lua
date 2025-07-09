@@ -942,7 +942,7 @@ return {
     ["Wonderwisp Greatsword_None"] = 2600,
     ["Year of the Serpent_None"] = 2400,
     ["Yin Yang Greatsword Emote_None"] = 856,
-    ["Yin Yang Greatsword Explosion_None"] = 615,
+    ["Yin Yang Greatsword Explosion_None"] = 613,
     ["Yin Yang Greatsword_None"] = 3400,
     ["Yin Yang Katana_None"] = 98,
     ["Yin Yang Meditation_None"] = 52,
