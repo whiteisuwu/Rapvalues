@@ -9,6 +9,7 @@ return {
     "Hollow Oath Katana_None",
     "Lily Parasol Emote_None",
     "Lily Parasol_None",
+    "Mummy's Curse_None",
     "Nebula Blade_None",
     "Paw Punch_None",
     "Serpent Emote_None",
