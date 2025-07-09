@@ -544,7 +544,7 @@ return {
     ["Helicopter Blade [DUAL BLACKHOLE SCYTHE]_None"] = 44,
     ["Hollow Oath Katana Emote_None"] = 364,
     ["Hollow Oath Katana_None"] = 4500,
-    ["Hollow Oath_None"] = 441,
+    ["Hollow Oath_None"] = 442,
     ["Hydrocore Detonation_None"] = 0,
     ["Inferno Katana_None"] = 67,
     ["Inferno Lance Emote_None"] = 102,
