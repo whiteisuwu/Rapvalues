@@ -602,7 +602,7 @@ return {
     ["LimitedSword_None"] = 0,
     ["Love Blade_None"] = 126,
     ["Loveclaw Blade_None"] = 127,
-    ["Loveclaw Scythe Emote_None"] = 324,
+    ["Loveclaw Scythe Emote_None"] = 318,
     ["Loveclaw Scythe_None"] = 311,
     ["Lumina Blade_None"] = 92,
     ["Lumina Bow Emote_None"] = 75,
