@@ -847,7 +847,7 @@ return {
     ["Soul Lantern_None"] = 360,
     ["Soulbloom Aurora_None"] = 27,
     ["Soulbloom Blade_None"] = 155,
-    ["Soulbloom Scissors Emote_None"] = 147,
+    ["Soulbloom Scissors Emote_None"] = 146,
     ["Soulbloom Scissors_None"] = 694,
     ["Soulforge Explosion_None"] = 276,
     ["Soulrender Scythe Emote_None"] = 282,
