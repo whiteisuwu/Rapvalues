@@ -1,5 +1,6 @@
 return {
     "Blackhole Set_None",
+    "Blackhole Sword_None",
     "Blossom Blade_None",
     "Calamity Guardian Emote_None",
     "Calamity Guardian_None",
