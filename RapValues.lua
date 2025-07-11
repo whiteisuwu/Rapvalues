@@ -835,7 +835,7 @@ return {
     ["Sinister Smurk_None"] = 48,
     ["Slam Down [DUAL SAKURA SCYTHE]_None"] = 46,
     ["Snow Globe_None"] = 29,
-    ["Snowball Launcher Emote_None"] = 222,
+    ["Snowball Launcher Emote_None"] = 223,
     ["Snowball Launcher_None"] = 3800,
     ["Snowstorm Burst_None"] = 39,
     ["Snowveil Blade_None"] = 61,
