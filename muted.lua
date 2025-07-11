@@ -5,6 +5,7 @@ return {
     "Calamity Guardian Emote_None",
     "Calamity Guardian_None",
     "Chroma Ninja Katana_Finisher",
+    "Dragon's Omen_None",
     "Dual Soulbloom Blade_None",
     "Escaped Lilies_None",
     "Forsaken Riftide_None",
