@@ -278,7 +278,7 @@ return {
     ["Dual Hakai Blade_None"] = 171,
     ["Dual Hakai Set Emote_None"] = 98,
     ["Dual Hakai Set_None"] = 553,
-    ["Dual Harmonic Set Emote_None"] = 136,
+    ["Dual Harmonic Set Emote_None"] = 135,
     ["Dual Harmonic Set_None"] = 659,
     ["Dual Heart Blade Emote_None"] = 149,
     ["Dual Heart Blade_None"] = 282,
