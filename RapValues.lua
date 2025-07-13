@@ -625,7 +625,7 @@ return {
     ["Malice Blade_None"] = 106,
     ["Malice Flare_None"] = 47,
     ["Malice Parasol Emote_None"] = 152,
-    ["Malice Parasol_None"] = 486,
+    ["Malice Parasol_None"] = 488,
     ["Menacing_None"] = 296,
     ["Meowstruck_None"] = 552,
     ["Monarch Blade_None"] = 93,
