@@ -382,7 +382,7 @@ return {
     ["Dual Rosefire Scythe Emote_None"] = 151,
     ["Dual Rosefire Scythe_None"] = 475,
     ["Dual Royal Blades_None"] = 2700,
-    ["Dual Runic Blade Emote_None"] = 117,
+    ["Dual Runic Blade Emote_None"] = 116,
     ["Dual Runic Blade_None"] = 221,
     ["Dual Runic Scythe Emote_None"] = 94,
     ["Dual Runic Scythe_None"] = 258,
