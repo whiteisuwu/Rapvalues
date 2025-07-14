@@ -718,7 +718,7 @@ return {
     ["Pink Ninja Katana_Finisher"] = 15300,
     ["Pink Ninja Katana_None"] = 5600,
     ["Pink Ninja Star Emote_None"] = 198,
-    ["Pink Ninja Star Explosion_None"] = 399,
+    ["Pink Ninja Star Explosion_None"] = 400,
     ["Pink Ninja Star_None"] = 1900,
     ["Pink Oni Katana Emote_None"] = 0,
     ["Pink Oni Katana Explosion_None"] = 0,
