@@ -454,7 +454,7 @@ return {
     ["Dual Wonderwisp Greatsword_None"] = 4000,
     ["Dual Yin Yang Greatsword Emote_None"] = 990,
     ["Dual Yin Yang Greatsword Explosion_None"] = 1500,
-    ["Dual Yin Yang Greatsword_None"] = 4900,
+    ["Dual Yin Yang Greatsword_None"] = 4800,
     ["Dual Yin Yang Katana_None"] = 180,
     ["Dual Yin Yang Scythe_None"] = 284,
     ["Dual Zephyr Blade Emote_None"] = 49,
