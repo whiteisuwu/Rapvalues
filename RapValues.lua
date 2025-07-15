@@ -624,7 +624,7 @@ return {
     ["Malice Beam_None"] = 27,
     ["Malice Blade_None"] = 106,
     ["Malice Flare_None"] = 47,
-    ["Malice Parasol Emote_None"] = 156,
+    ["Malice Parasol Emote_None"] = 155,
     ["Malice Parasol_None"] = 500,
     ["Menacing_None"] = 300,
     ["Meowstruck_None"] = 563,
