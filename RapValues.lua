@@ -938,7 +938,7 @@ return {
     ["Voltfire Lash_None"] = 507,
     ["Water Slasher_None"] = 1000,
     ["Wavelight Greatblade_None"] = 63,
-    ["Wavelight_None"] = 333,
+    ["Wavelight_None"] = 335,
     ["Web Slinger_None"] = 30,
     ["White Diamond_None"] = 95,
     ["Wispwind Reaper_None"] = 410,
