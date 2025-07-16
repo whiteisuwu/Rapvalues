@@ -232,7 +232,7 @@ return {
     ["Dual Crystal Scythe Swing_None"] = 50,
     ["Dual Cursed Blade Emote_None"] = 73,
     ["Dual Cursed Blade_None"] = 272,
-    ["Dual Cursed Scythe Emote_None"] = 101,
+    ["Dual Cursed Scythe Emote_None"] = 100,
     ["Dual Cursed Scythe_None"] = 408,
     ["Dual Demonic Blade Emote_None"] = 49,
     ["Dual Demonic Blade_None"] = 155,
