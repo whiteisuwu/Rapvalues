@@ -59,7 +59,7 @@ return {
     ["Blade of the Fallen King_None"] = 47,
     ["Bloodline Blade_None"] = 94,
     ["Bloodline Cataclysm_None"] = 37,
-    ["Bloodline Scythe Emote_None"] = 91,
+    ["Bloodline Scythe Emote_None"] = 90,
     ["Bloodline Scythe_None"] = 606,
     ["Bloodline Triangle_None"] = 65,
     ["Bloodshot Sight_None"] = 111,
