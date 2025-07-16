@@ -655,7 +655,7 @@ return {
     ["Nebula Implosion_None"] = 0,
     ["Nebula Katana_None"] = 106,
     ["Nebula Scythe_None"] = 62,
-    ["Nebula Sniper Emote_None"] = 857,
+    ["Nebula Sniper Emote_None"] = 861,
     ["Nebula Sniper_None"] = 2300,
     ["Nebula Yoru_None"] = 87,
     ["Nebula's Lightning_None"] = 116,
