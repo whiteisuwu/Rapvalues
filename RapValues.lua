@@ -16,7 +16,7 @@ return {
     ["Aetherial Kunai_None"] = 118,
     ["Aetherial Lance Emote_None"] = 145,
     ["Aetherial Lance_None"] = 447,
-    ["Affection Rain_None"] = 211,
+    ["Affection Rain_None"] = 209,
     ["Angel Greatsword Emote_None"] = 565,
     ["Angel Greatsword_None"] = 3700,
     ["Arachne Blade_None"] = 223,
