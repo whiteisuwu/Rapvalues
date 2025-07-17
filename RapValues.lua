@@ -881,7 +881,7 @@ return {
     ["Stellar Revolver Emote_None"] = 32,
     ["Stellar Revolver_None"] = 175,
     ["Summon Blast_None"] = 89,
-    ["Summon Shark_None"] = 233,
+    ["Summon Shark_None"] = 232,
     ["Super Blackhole_None"] = 17,
     ["Super Sakura_None"] = 14,
     ["Super Spin [KUROGIN KATANA]_None"] = 67,
