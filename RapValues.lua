@@ -922,7 +922,7 @@ return {
     ["Violet Iris_None"] = 35,
     ["Violin Explosion_None"] = 83,
     ["Void Beam_None"] = 49,
-    ["Void Blade_None"] = 677,
+    ["Void Blade_None"] = 678,
     ["Void Blast_None"] = 63,
     ["Void Guardian_None"] = 7800,
     ["Void Scythe Emote_None"] = 50,
