@@ -525,7 +525,7 @@ return {
     ["Great Moon Landing_None"] = 589,
     ["Green Ninja Katana Emote_None"] = 294,
     ["Green Ninja Katana_Finisher"] = 10000,
-    ["Green Ninja Katana_None"] = 3900,
+    ["Green Ninja Katana_None"] = 3700,
     ["Green Ninja Star Emote_None"] = 153,
     ["Green Ninja Star Explosion_None"] = 289,
     ["Green Ninja Star_None"] = 1500,
