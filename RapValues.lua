@@ -775,7 +775,7 @@ return {
     ["Retro Wave_None"] = 56,
     ["Revival Burst!_None"] = 42,
     ["Ridin' the Scythe [BLACKHOLE SCYTHE]_None"] = 41,
-    ["Rising Monarch_None"] = 58,
+    ["Rising Monarch_None"] = 60,
     ["Rocket Tree_None"] = 142,
     ["Rolling Slash [DUAL SAKURA  KATANA]_None"] = 27,
     ["Rose Blade_None"] = 380,
