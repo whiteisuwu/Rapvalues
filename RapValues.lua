@@ -961,7 +961,7 @@ return {
     ["Yin Yang Parasol_None"] = 1500,
     ["Yin Yang Scythe_None"] = 139,
     ["Yin Yang Sword Swing_None"] = 27,
-    ["Yin Yang_None"] = 48,
+    ["Yin Yang_None"] = 49,
     ["Zephyr Blade_None"] = 75,
     ["Zephyr Ripple_None"] = 39,
     ["Zephyr Scythe Emote_None"] = 67,
