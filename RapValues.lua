@@ -463,7 +463,7 @@ return {
     ["Dual Zephyr Scythe_None"] = 336,
     ["Dual Zodiac Blade Emote_None"] = 35,
     ["Dual Zodiac Blade_None"] = 206,
-    ["Eclipse Blaster Emote_None"] = 70,
+    ["Eclipse Blaster Emote_None"] = 68,
     ["Eclipse Blaster_None"] = 388,
     ["Eclipse Gleam_None"] = 166,
     ["Elemental_None"] = 27,
