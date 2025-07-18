@@ -6,7 +6,7 @@ return {
     ["Ace Emote_None"] = 381,
     ["Ace_None"] = 3300,
     ["Aesthetic Butterfly_None"] = 93,
-    ["Aetherial Azure Dual Spin_None"] = 57,
+    ["Aetherial Azure Dual Spin_None"] = 58,
     ["Aetherial Azure Katana_None"] = 114,
     ["Aetherial Azure Reckoner_None"] = 120,
     ["Aetherial Azure Spin_None"] = 49,
