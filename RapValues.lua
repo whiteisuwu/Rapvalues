@@ -71,7 +71,7 @@ return {
     ["Blossom Scythe Emote_None"] = 102,
     ["Blossom Scythe_None"] = 235,
     ["Blossom Season_None"] = 71,
-    ["Blue Ninja Katana Emote_None"] = 341,
+    ["Blue Ninja Katana Emote_None"] = 343,
     ["Blue Ninja Katana_Finisher"] = 11500,
     ["Blue Ninja Katana_None"] = 4700,
     ["Blue Ninja Star Emote_None"] = 185,
