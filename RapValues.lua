@@ -284,7 +284,7 @@ return {
     ["Dual Gleaming Scythe Emote_None"] = 115,
     ["Dual Gleaming Scythe_None"] = 468,
     ["Dual Hakai Blade Emote_None"] = 53,
-    ["Dual Hakai Blade_None"] = 182,
+    ["Dual Hakai Blade_None"] = 168,
     ["Dual Hakai Set Emote_None"] = 70,
     ["Dual Hakai Set_None"] = 568,
     ["Dual Harmonic Set Emote_None"] = 133,
