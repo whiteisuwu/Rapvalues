@@ -86,7 +86,7 @@ return {
     ["Bubble Magic_None"] = 157,
     ["Bubblegum_None"] = 115,
     ["Butterfly Blade_None"] = 138,
-    ["Butterfly Bow Emote_None"] = 69,
+    ["Butterfly Bow Emote_None"] = 68,
     ["Butterfly Bow_None"] = 469,
     ["Butterfly Glitter_None"] = 82,
     ["Bye Bye [SINGULARITY KATANA]_None"] = 28,
