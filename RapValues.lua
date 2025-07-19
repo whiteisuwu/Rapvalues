@@ -539,7 +539,7 @@ return {
     ["Harmonic Fan Emote_None"] = 146,
     ["Harmonic Fan_None"] = 1200,
     ["Harmonic Staff_None"] = 118,
-    ["Harmonic Surge_None"] = 118,
+    ["Harmonic Surge_None"] = 117,
     ["Heart Blade_None"] = 118,
     ["Heart Blast_None"] = 97,
     ["Heart Bow Emote_None"] = 217,
