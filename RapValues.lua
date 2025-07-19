@@ -312,7 +312,7 @@ return {
     ["Dual Kurogin Scythe_None"] = 239,
     ["Dual Leviathan Set Emote_None"] = 1600,
     ["Dual Leviathan Set_None"] = 4600,
-    ["Dual Lightning Dagger Emote_None"] = 35,
+    ["Dual Lightning Dagger Emote_None"] = 36,
     ["Dual Lightning Dagger_None"] = 146,
     ["Dual Lightning Sickle Emote_None"] = 67,
     ["Dual Lightning Sickle_None"] = 256,
