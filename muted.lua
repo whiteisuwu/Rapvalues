@@ -17,6 +17,7 @@ return {
     "Nebula Blade_None",
     "Paw Punch_None",
     "Retribution Guitar_None",
+    "Santa's Greatsword_None",
     "Serpent Emote_None",
     "Serpent's Cataclysm_None",
     "Soulbloom Blade_None",
