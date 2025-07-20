@@ -820,7 +820,7 @@ return {
     ["Serene Scythe_None"] = 282,
     ["Serene Spectrum_None"] = 53,
     ["Serene Zone_None"] = 39,
-    ["Serpent Anchor_None"] = 577,
+    ["Serpent Anchor_None"] = 575,
     ["Serpent Emote_None"] = 6000,
     ["Serpent_None"] = 22300,
     ["Serpent's Cataclysm_None"] = 35900,
