@@ -13,6 +13,7 @@ return {
     "Chroma Oni Katana Explosion_None",
     "Dragon's Omen_None",
     "Dual Soulbloom Blade_None",
+    "Dual Star Staffs_None",
     "Escaped Lilies_None",
     "Forsaken Riftide_None",
     "Hollow Oath Katana_None",
