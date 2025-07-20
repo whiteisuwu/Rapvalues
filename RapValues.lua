@@ -741,7 +741,7 @@ return {
     ["Prismatic Harvester Emote_None"] = 31,
     ["Prismatic Harvester_None"] = 68,
     ["Prismatic Katana_None"] = 59,
-    ["Prismatic Odachi Emote_None"] = 374,
+    ["Prismatic Odachi Emote_None"] = 375,
     ["Prismatic Odachi Explosion_None"] = 357,
     ["Prismatic Odachi_None"] = 4100,
     ["Pure Power_None"] = 119,
