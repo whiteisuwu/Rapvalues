@@ -64,7 +64,7 @@ return {
     ["Bloodline Triangle_None"] = 63,
     ["Bloodshot Sight_None"] = 103,
     ["Bloom Awakening_None"] = 268,
-    ["Blossom Blade_None"] = 383,
+    ["Blossom Blade_None"] = 384,
     ["Blossom Katana Emote_None"] = 465,
     ["Blossom Katana Explosion_None"] = 694,
     ["Blossom Katana_None"] = 8100,
