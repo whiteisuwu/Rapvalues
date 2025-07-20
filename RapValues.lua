@@ -442,7 +442,7 @@ return {
     ["Dual Vaporwave Crusher_None"] = 740,
     ["Dual Void Blades_None"] = 331,
     ["Dual Void Scythes Emote_None"] = 100,
-    ["Dual Void Scythes_None"] = 573,
+    ["Dual Void Scythes_None"] = 576,
     ["Dual Voidshard Blade Emote_None"] = 86,
     ["Dual Voidshard Blade_None"] = 227,
     ["Dual Voltfire Blade_None"] = 286,
