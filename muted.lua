@@ -21,6 +21,7 @@ return {
     "Mummy's Curse_None",
     "Nebula Blade_None",
     "Paw Punch_None",
+    "Red Oni Katana Explosion_None",
     "Red Oni Katana_None",
     "Retribution Guitar_None",
     "Santa's Greatsword_None",
