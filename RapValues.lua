@@ -686,7 +686,7 @@ return {
     ["Obsidian Scythe_None"] = 218,
     ["Obsidian Shock_None"] = 129,
     ["Ocean Dagger_None"] = 60,
-    ["Ocean Guitar Emote_None"] = 170,
+    ["Ocean Guitar Emote_None"] = 169,
     ["Ocean Guitar_None"] = 637,
     ["Ocean's Lament_None"] = 91,
     ["Oceanflow Peak_None"] = 74,
