@@ -983,6 +983,6 @@ return {
     ["Zodiac Ascendant_None"] = 27,
     ["Zodiac Blade_None"] = 60,
     ["Zodiac Parasol Emote_None"] = 98,
-    ["Zodiac Parasol_None"] = 434,
+    ["Zodiac Parasol_None"] = 436,
     ["Zodiac Shrine_None"] = 32,
 }
