@@ -748,7 +748,7 @@ return {
     ["Purity Bow Emote_None"] = 92,
     ["Purity Bow_None"] = 272,
     ["Purity Foundation_None"] = 62,
-    ["Purple Oni Katana Emote_None"] = 104,
+    ["Purple Oni Katana Emote_None"] = 103,
     ["Purple Oni Katana Explosion_None"] = 251,
     ["Purple Oni Katana_None"] = 0,
     ["Pyramid Scheme_None"] = 146,
