@@ -562,7 +562,7 @@ return {
     ["Inferno_None"] = 79,
     ["Infinite Blade_None"] = 61,
     ["Infinite Hole_None"] = 98,
-    ["Infinite Loop_None"] = 56,
+    ["Infinite Loop_None"] = 58,
     ["Infinite Scythe Emote_None"] = 103,
     ["Infinite Scythe_None"] = 140,
     ["Inksoul Brush_None"] = 14700,
