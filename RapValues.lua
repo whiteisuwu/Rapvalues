@@ -40,7 +40,7 @@ return {
     ["Azurethorn Blade_None"] = 66,
     ["Azurethorn Core_None"] = 73,
     ["Azurethorn Reflection_None"] = 105,
-    ["Azurethorn Scythe Emote_None"] = 109,
+    ["Azurethorn Scythe Emote_None"] = 108,
     ["Azurethorn Scythe_None"] = 194,
     ["Bell Light_None"] = 250,
     ["Black Ninja Katana Emote_None"] = 401,
