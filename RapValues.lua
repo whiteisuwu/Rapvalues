@@ -543,7 +543,7 @@ return {
     ["Harmonic Surge_None"] = 114,
     ["Heart Blade_None"] = 124,
     ["Heart Blast_None"] = 97,
-    ["Heart Bow Emote_None"] = 193,
+    ["Heart Bow Emote_None"] = 187,
     ["Heart Bow_None"] = 389,
     ["Heart Explosion_None"] = 70,
     ["Hearts_None"] = 245,
@@ -982,7 +982,7 @@ return {
     ["Zeus' Punishment_None"] = 97,
     ["Zodiac Ascendant_None"] = 27,
     ["Zodiac Blade_None"] = 56,
-    ["Zodiac Parasol Emote_None"] = 98,
+    ["Zodiac Parasol Emote_None"] = 99,
     ["Zodiac Parasol_None"] = 420,
     ["Zodiac Shrine_None"] = 33,
 }
