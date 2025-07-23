@@ -944,7 +944,7 @@ return {
     ["Voidshard Bow_None"] = 298,
     ["Voidshard Realm_None"] = 77,
     ["Voidshard Shadow_None"] = 102,
-    ["Voltfire Blade_None"] = 112,
+    ["Voltfire Blade_None"] = 111,
     ["Voltfire Explosion_None"] = 55,
     ["Voltfire Lash Emote_None"] = 37,
     ["Voltfire Lash_None"] = 485,
