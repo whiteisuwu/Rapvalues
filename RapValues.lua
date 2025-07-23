@@ -52,7 +52,7 @@ return {
     ["Black Oni Katana Emote_None"] = 193,
     ["Black Oni Katana Explosion_None"] = 268,
     ["Black Oni Katana_None"] = 3500,
-    ["Blackhole Katana_None"] = 69,
+    ["Blackhole Katana_None"] = 72,
     ["Blackhole Scythe_None"] = 91,
     ["Blackhole Set_None"] = 7200,
     ["Blackhole Sword_None"] = 3200,
