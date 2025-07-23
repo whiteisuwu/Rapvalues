@@ -95,7 +95,7 @@ return {
     ["Calamity Guardian_None"] = 2900,
     ["Candycane Sniper Emote_None"] = 653,
     ["Candycane Sniper_None"] = 1900,
-    ["Cat Paw Emote_None"] = 709,
+    ["Cat Paw Emote_None"] = 711,
     ["Cat Paw_None"] = 5800,
     ["Catalyzer_None"] = 151,
     ["Celestial Abyss_None"] = 12,
