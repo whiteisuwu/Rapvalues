@@ -767,7 +767,7 @@ return {
     ["Red Ninja Star Emote_None"] = 186,
     ["Red Ninja Star Explosion_None"] = 351,
     ["Red Ninja Star_None"] = 1700,
-    ["Red Oni Katana Emote_None"] = 212,
+    ["Red Oni Katana Emote_None"] = 211,
     ["Red Oni Katana Explosion_None"] = 230,
     ["Red Oni Katana_None"] = 2900,
     ["Red Velvet Beam_None"] = 60,
