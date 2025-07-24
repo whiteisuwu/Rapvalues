@@ -1,4 +1,9 @@
 return {
+    ["Valentine Hearts_None"] = 4600,
+    ["Milk & Cookies_None"] = 1600,
+    ["Sitting_None"] = 2000,
+    ["Legs Kickin'_None"] = 5300,
+    ["Hug_None"] = 10600,
     ["Abyssal Astrology_None"] = 100,
     ["Abyssal Blade_None"] = 613,
     ["Abyssal Shield Emote_None"] = 114,
