@@ -36,6 +36,7 @@ return {
     "Soulbloom Scissors_None",
     "Spinalis_None",
     "Starscope Sniper_None",
+    "Thorned Sovereign_None",
     "Venomlight Scythe_None",
     "Void Guardian_None",
 }
