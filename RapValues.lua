@@ -511,7 +511,7 @@ return {
     ["Frigid Twister_None"] = 31,
     ["Frostblade_None"] = 54,
     ["Frostbound Enlightenment_None"] = 1200,
-    ["Frostbound Lantern Emote_None"] = 584,
+    ["Frostbound Lantern Emote_None"] = 583,
     ["Frostbound Lantern_None"] = 4200,
     ["Frosted Core_None"] = 59,
     ["Frosted Stone_None"] = 60,
