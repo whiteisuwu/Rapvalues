@@ -979,7 +979,7 @@ return {
     ["Yin Yang Scythe_None"] = 148,
     ["Yin Yang Sword Swing_None"] = 23,
     ["Yin Yang_None"] = 57,
-    ["Zephyr Blade_None"] = 88,
+    ["Zephyr Blade_None"] = 89,
     ["Zephyr Ripple_None"] = 37,
     ["Zephyr Scythe Emote_None"] = 68,
     ["Zephyr Scythe_None"] = 173,
