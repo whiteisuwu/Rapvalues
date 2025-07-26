@@ -862,7 +862,7 @@ return {
     ["Snowveil Scythe_None"] = 144,
     ["Solar Planets_None"] = 41,
     ["Soul Counter_None"] = 1000,
-    ["Soul Lantern_None"] = 347,
+    ["Soul Lantern_None"] = 346,
     ["Soulbloom Aurora_None"] = 33,
     ["Soulbloom Blade_None"] = 133,
     ["Soulbloom Scissors Emote_None"] = 143,
