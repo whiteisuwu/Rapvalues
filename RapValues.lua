@@ -461,7 +461,7 @@ return {
     ["Dual Zephyr Blade Emote_None"] = 56,
     ["Dual Zephyr Blade_None"] = 234,
     ["Dual Zephyr Scythe Emote_None"] = 125,
-    ["Dual Zephyr Scythe_None"] = 377,
+    ["Dual Zephyr Scythe_None"] = 378,
     ["Dual Zodiac Blade Emote_None"] = 41,
     ["Dual Zodiac Blade_None"] = 193,
     ["Eclipse Blaster Emote_None"] = 71,
