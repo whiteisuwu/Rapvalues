@@ -517,7 +517,7 @@ return {
     ["Frosted Stone_None"] = 63,
     ["Frostflare Barrage_None"] = 28,
     ["Galaxy Shatter_None"] = 35,
-    ["Ghostwisp_None"] = 356,
+    ["Ghostwisp_None"] = 358,
     ["Gleaming Bloom_None"] = 125,
     ["Gleaming Glitter_None"] = 90,
     ["Gleaming Katana_None"] = 109,
