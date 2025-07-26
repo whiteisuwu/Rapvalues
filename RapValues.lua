@@ -776,7 +776,7 @@ return {
     ["Red Velvet Beam_None"] = 63,
     ["Reindeer_None"] = 18000,
     ["Resurrection Blade_None"] = 85,
-    ["Resurrection Explosion_None"] = 53,
+    ["Resurrection Explosion_None"] = 52,
     ["Resurrection Scythe Emote_None"] = 259,
     ["Resurrection Scythe_None"] = 182,
     ["Retribution Guitar_None"] = 37800,
