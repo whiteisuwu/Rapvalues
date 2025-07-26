@@ -886,7 +886,7 @@ return {
     ["Starlit Candle_None"] = 38,
     ["Stars Collapse_None"] = 105,
     ["Starscope Sniper_None"] = 6700,
-    ["Stellar Blade_None"] = 68,
+    ["Stellar Blade_None"] = 69,
     ["Stellar Revolver Emote_None"] = 31,
     ["Stellar Revolver_None"] = 167,
     ["Stormbane Emote_None"] = 0,
