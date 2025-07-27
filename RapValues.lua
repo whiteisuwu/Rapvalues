@@ -879,7 +879,7 @@ return {
     ["Soulforge Explosion_None"] = 273,
     ["Soulrender Scythe Emote_None"] = 220,
     ["Soulrender Scythe_None"] = 2700,
-    ["Spider's Prey_None"] = 42,
+    ["Spider's Prey_None"] = 41,
     ["Spinalis Emote_None"] = 1200,
     ["Spinalis Explosion_None"] = 1100,
     ["Spinalis_None"] = 10700,
