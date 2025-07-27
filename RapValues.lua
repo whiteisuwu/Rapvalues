@@ -984,7 +984,7 @@ return {
     ["Yin Yang Meditation_None"] = 53,
     ["Yin Yang Parasol Emote_None"] = 483,
     ["Yin Yang Parasol Explosion_None"] = 584,
-    ["Yin Yang Parasol_None"] = 1500,
+    ["Yin Yang Parasol_None"] = 1600,
     ["Yin Yang Scythe_None"] = 150,
     ["Yin Yang Sword Swing_None"] = 24,
     ["Yin Yang_None"] = 55,
