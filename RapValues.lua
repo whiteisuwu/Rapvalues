@@ -586,7 +586,7 @@ return {
     ["Katana Blue Explosion_None"] = 441,
     ["Katana Chroma Explosion_None"] = 1800,
     ["Katana Green Explosion_None"] = 353,
-    ["Katana Pink Explosion_None"] = 477,
+    ["Katana Pink Explosion_None"] = 474,
     ["Katana Red Explosion_None"] = 499,
     ["King Blade_None"] = 11300,
     ["King Explosion_None"] = 370,
