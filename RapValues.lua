@@ -60,7 +60,7 @@ return {
     ["Bloodline Blade_None"] = 87,
     ["Bloodline Cataclysm_None"] = 37,
     ["Bloodline Scythe Emote_None"] = 86,
-    ["Bloodline Scythe_None"] = 587,
+    ["Bloodline Scythe_None"] = 583,
     ["Bloodline Triangle_None"] = 56,
     ["Bloodmoon Blade_None"] = 0,
     ["Bloodmoon Scythe Emote_None"] = 0,
