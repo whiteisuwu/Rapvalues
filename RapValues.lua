@@ -477,7 +477,7 @@ return {
     ["Eclipse Gleam_None"] = 171,
     ["Elemental_None"] = 26,
     ["Emberstorm Detonation_None"] = 10,
-    ["Emerald Beam_None"] = 32,
+    ["Emerald Beam_None"] = 35,
     ["Emerald Blade_None"] = 70,
     ["Emerald Halo_None"] = 51,
     ["Emerald Parasol Emote_None"] = 90,
