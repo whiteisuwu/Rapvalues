@@ -994,7 +994,7 @@ return {
     ["Zephyr Scythe_None"] = 167,
     ["Zephyr Sky_None"] = 42,
     ["Zeus' Punishment_None"] = 91,
-    ["Zodiac Ascendant_None"] = 23,
+    ["Zodiac Ascendant_None"] = 24,
     ["Zodiac Blade_None"] = 57,
     ["Zodiac Parasol Emote_None"] = 106,
     ["Zodiac Parasol_None"] = 387,
