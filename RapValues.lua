@@ -325,7 +325,7 @@ return {
     ["Dual Lightning Sickle Emote_None"] = 74,
     ["Dual Lightning Sickle_None"] = 293,
     ["Dual Lily Blade Emote_None"] = 102,
-    ["Dual Lily Blade_None"] = 224,
+    ["Dual Lily Blade_None"] = 225,
     ["Dual Love Blade_None"] = 331,
     ["Dual Loveclaw Blade Emote_None"] = 144,
     ["Dual Loveclaw Blade_None"] = 398,
