@@ -181,7 +181,7 @@ return {
     ["Dragon Slayer_None"] = 487,
     ["Dragon Twinblade Emote_None"] = 380,
     ["Dragon's Omen_None"] = 10500,
-    ["Draw Flip [DUAL BLACKHOLE KATANA]_None"] = 25,
+    ["Draw Flip [DUAL BLACKHOLE KATANA]_None"] = 26,
     ["Dreadborn Blade_None"] = 108,
     ["Dreadborn Eyes_None"] = 64,
     ["Dreadborn Light_None"] = 60,
