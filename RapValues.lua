@@ -939,7 +939,7 @@ return {
     ["Vanguard Shield_None"] = 88,
     ["Vaporwave Blade_None"] = 73,
     ["Vaporwave Crusher Emote_None"] = 75,
-    ["Vaporwave Crusher_None"] = 326,
+    ["Vaporwave Crusher_None"] = 330,
     ["Venom's Wrath_None"] = 99,
     ["Venomlight Scythe Emote_None"] = 527,
     ["Venomlight Scythe_None"] = 2000,
