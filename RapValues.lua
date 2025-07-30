@@ -853,7 +853,7 @@ return {
     ["Shatterflight Bird_None"] = 9600,
     ["Singularity Expulsion_None"] = 17,
     ["Singularity Katana_None"] = 75,
-    ["Singularity Scythe_None"] = 59,
+    ["Singularity Scythe_None"] = 58,
     ["Sinister Blade_None"] = 310,
     ["Sinister Blaster Emote_None"] = 74,
     ["Sinister Blaster_None"] = 248,
