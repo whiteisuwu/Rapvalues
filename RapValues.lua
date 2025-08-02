@@ -223,7 +223,7 @@ return {
     ["Dual Blossom Blades Emote_None"] = 132,
     ["Dual Blossom Scythe_None"] = 619,
     ["Dual Blossom Scythes Emote_None"] = 338,
-    ["Dual Bubble Blade Emote_None"] = 123,
+    ["Dual Bubble Blade Emote_None"] = 125,
     ["Dual Bubble Blade_None"] = 521,
     ["Dual Bubble Blasters Emote_None"] = 175,
     ["Dual Bubble Blasters_None"] = 1400,
