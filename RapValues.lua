@@ -771,7 +771,7 @@ return {
     ["Raven Blast_None"] = 31,
     ["Raven Greatsword_None"] = 58,
     ["Raven Scythe_None"] = 104,
-    ["Reaper Shard_None"] = 50,
+    ["Reaper Shard_None"] = 49,
     ["Red Crescent_None"] = 0,
     ["Red Ninja Katana Emote_None"] = 363,
     ["Red Ninja Katana_Finisher"] = 12300,
