@@ -579,7 +579,7 @@ return {
     ["Infinite Loop_None"] = 63,
     ["Infinite Scythe Emote_None"] = 88,
     ["Infinite Scythe_None"] = 151,
-    ["Inksoul Brush_None"] = 7000,
+    ["Inksoul Brush_None"] = 7300,
     ["Jellyfish Explosion_None"] = 526,
     ["Jellyfish Parasol Emote_None"] = 301,
     ["Jellyfish Parasol_None"] = 1500,
