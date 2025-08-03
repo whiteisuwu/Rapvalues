@@ -333,7 +333,7 @@ return {
     ["Dual Loveclaw Scythe_None"] = 665,
     ["Dual Lumina Blade Emote_None"] = 43,
     ["Dual Lumina Blade_None"] = 293,
-    ["Dual Malice Blade Emote_None"] = 121,
+    ["Dual Malice Blade Emote_None"] = 120,
     ["Dual Malice Blade_None"] = 351,
     ["Dual Monarch Blade Emote_None"] = 71,
     ["Dual Monarch Blade_None"] = 205,
