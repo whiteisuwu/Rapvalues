@@ -102,7 +102,7 @@ return {
     ["Cat Paw_None"] = 5700,
     ["Catalyzer_None"] = 162,
     ["Celestial Abyss_None"] = 12,
-    ["Cherry Blossom Tree_None"] = 396,
+    ["Cherry Blossom Tree_None"] = 391,
     ["Chroma Blade Emote_None"] = 856,
     ["Chroma Blade Explosion_None"] = 884,
     ["Chroma Blade_Finisher"] = 50000,
