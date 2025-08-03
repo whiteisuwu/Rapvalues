@@ -826,7 +826,7 @@ return {
     ["Runic Scythe Emote_None"] = 139,
     ["Runic Scythe_None"] = 159,
     ["Sakura Fan_None"] = 194,
-    ["Sakura Katana_None"] = 135,
+    ["Sakura Katana_None"] = 136,
     ["Sakura Parasol Emote_None"] = 484,
     ["Sakura Parasol_None"] = 1300,
     ["Sakura Scythe_None"] = 126,
