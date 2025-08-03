@@ -522,7 +522,7 @@ return {
     ["Frigid Scythe Emote_None"] = 93,
     ["Frigid Scythe_None"] = 110,
     ["Frigid Twister_None"] = 34,
-    ["Frostblade_None"] = 60,
+    ["Frostblade_None"] = 59,
     ["Frostbound Enlightenment_None"] = 1400,
     ["Frostbound Lantern Emote_None"] = 606,
     ["Frostbound Lantern_None"] = 4500,
