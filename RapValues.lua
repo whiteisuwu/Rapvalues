@@ -563,7 +563,7 @@ return {
     ["Heavenly Chakram Emote_None"] = 72,
     ["Heavenly Chakram_None"] = 482,
     ["Heavenly Explosion_None"] = 58,
-    ["Heavenly Sword_None"] = 65,
+    ["Heavenly Sword_None"] = 66,
     ["Helicopter Blade [DUAL BLACKHOLE SCYTHE]_None"] = 44,
     ["Hollow Oath Katana Emote_None"] = 357,
     ["Hollow Oath Katana_None"] = 3700,
