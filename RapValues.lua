@@ -3,7 +3,7 @@ return {
     ["Abyssal Blade_None"] = 659,
     ["Abyssal Shield Emote_None"] = 111,
     ["Abyssal Shield_None"] = 370,
-    ["Ace Emote_None"] = 472,
+    ["Ace Emote_None"] = 467,
     ["Ace_None"] = 3300,
     ["Aesthetic Butterfly_None"] = 116,
     ["Aetherial Azure Dual Spin_None"] = 73,
