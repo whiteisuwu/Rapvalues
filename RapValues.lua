@@ -762,7 +762,7 @@ return {
     ["Princess Explosion_None"] = 68,
     ["Princess Katana_None"] = 193,
     ["Prismatic Explosion_None"] = 26,
-    ["Prismatic Harvester Emote_None"] = 35,
+    ["Prismatic Harvester Emote_None"] = 34,
     ["Prismatic Harvester_None"] = 92,
     ["Prismatic Katana_None"] = 65,
     ["Prismatic Odachi Emote_None"] = 365,
