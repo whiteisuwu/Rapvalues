@@ -726,7 +726,7 @@ return {
     ["Parasitic Scythe_None"] = 141,
     ["Parasitic Vision_None"] = 78,
     ["Parasitic Waves_None"] = 74,
-    ["Passo Bem Solto_None"] = 7900,
+    ["Passo Bem Solto_None"] = 8000,
     ["Pastel Vaporwave_None"] = 75,
     ["Paw Punch_None"] = 2400,
     ["Penguin Emote_None"] = 6900,
