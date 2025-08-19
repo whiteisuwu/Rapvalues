@@ -869,7 +869,7 @@ return {
     ["Shadow Dagger_None"] = 131,
     ["Shadow Mirage Emote_None"] = 65,
     ["Shadow Mirage_None"] = 354,
-    ["Shadow Monarch Blade_None"] = 126,
+    ["Shadow Monarch Blade_None"] = 128,
     ["Shadow Monarch Bow Emote_None"] = 159,
     ["Shadow Monarch Bow_None"] = 363,
     ["Shadow Vortex_None"] = 101,
