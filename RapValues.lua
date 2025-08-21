@@ -182,7 +182,7 @@ return {
     ["Draconic Blade_None"] = 133,
     ["Draconic Twinblade_None"] = 586,
     ["Dragon Burst_None"] = 102,
-    ["Dragon Runes_None"] = 83,
+    ["Dragon Runes_None"] = 85,
     ["Dragon Slayer_None"] = 494,
     ["Dragon Twinblade Emote_None"] = 238,
     ["Dragon's Omen_None"] = 6900,
