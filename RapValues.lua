@@ -1001,7 +1001,7 @@ return {
     ["Wisteria Blade_None"] = 116,
     ["Wisteria Clouds_None"] = 85,
     ["Wisteria Parasol Emote_None"] = 192,
-    ["Wisteria Parasol_None"] = 826,
+    ["Wisteria Parasol_None"] = 831,
     ["Wisteria Swirl_None"] = 128,
     ["Withdraw Failure [SINGULARITY SCYTHE]_None"] = 35,
     ["Withered Blade_None"] = 0,
