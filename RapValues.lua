@@ -516,7 +516,7 @@ return {
     ["Flippin Slash [DUAL KUROGIN KATANA]_None"] = 37,
     ["Floating Sword_None"] = 4700,
     ["Floppy Chicken Emote_None"] = 339,
-    ["Floppy Chicken Explosion_None"] = 786,
+    ["Floppy Chicken Explosion_None"] = 789,
     ["Floppy Chicken_None"] = 2600,
     ["Floral Blaze_None"] = 148,
     ["Floral Slicer_None"] = 250,
