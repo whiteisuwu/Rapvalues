@@ -347,7 +347,7 @@ return {
     ["Dual Monarch Set_None"] = 878,
     ["Dual Moonbeam Blade Emote_None"] = 65,
     ["Dual Moonbeam Blade_None"] = 202,
-    ["Dual Moonlight Blade_None"] = 107,
+    ["Dual Moonlight Blade_None"] = 332,
     ["Dual Mothyx Blade Emote_None"] = 83,
     ["Dual Mothyx Blade_None"] = 348,
     ["Dual Nebula Blade_None"] = 274,
