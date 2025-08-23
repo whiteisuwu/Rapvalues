@@ -982,7 +982,7 @@ return {
     ["Void Blast_None"] = 73,
     ["Void Guardian_None"] = 6200,
     ["Void Scythe Emote_None"] = 54,
-    ["Void Scythe_None"] = 313,
+    ["Void Scythe_None"] = 314,
     ["Voidshard Blade_None"] = 107,
     ["Voidshard Bow Emote_None"] = 105,
     ["Voidshard Bow_None"] = 327,
