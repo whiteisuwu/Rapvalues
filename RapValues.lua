@@ -181,7 +181,7 @@ return {
     ["Double Sided Scythe_None"] = 59,
     ["Draconic Blade_None"] = 132,
     ["Draconic Twinblade_None"] = 574,
-    ["Dragon Burst_None"] = 108,
+    ["Dragon Burst_None"] = 107,
     ["Dragon Runes_None"] = 85,
     ["Dragon Slayer_None"] = 508,
     ["Dragon Twinblade Emote_None"] = 229,
