@@ -927,7 +927,7 @@ return {
     ["Stardust Bow Emote_None"] = 103,
     ["Stardust Bow_None"] = 388,
     ["Stardust Katana_None"] = 161,
-    ["Starlight Axe_None"] = 87,
+    ["Starlight Axe_None"] = 84,
     ["Starlight Scythe Emote_None"] = 80,
     ["Starlight Scythe_None"] = 234,
     ["Starlit Bloom_None"] = 49,
