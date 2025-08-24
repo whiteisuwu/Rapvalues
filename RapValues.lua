@@ -831,7 +831,7 @@ return {
     ["Rising Monarch_None"] = 51,
     ["Rocket Tree_None"] = 136,
     ["Rolling Slash [DUAL SAKURA  KATANA]_None"] = 39,
-    ["Rose Blade_None"] = 462,
+    ["Rose Blade_None"] = 460,
     ["Rose Bloom_None"] = 36,
     ["Rose Bow Emote_None"] = 149,
     ["Rose Bow_None"] = 418,
