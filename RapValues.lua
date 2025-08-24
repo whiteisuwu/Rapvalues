@@ -136,7 +136,7 @@ return {
     ["Crimson Explosion_None"] = 45,
     ["Crimson Katana_None"] = 93,
     ["Crimson Skies_None"] = 210,
-    ["Crimson Spin_None"] = 40,
+    ["Crimson Spin_None"] = 39,
     ["Crystal Dual Sword Swing_None"] = 143,
     ["Crystal Explosion_None"] = 42,
     ["Crystal Greatblade_None"] = 672,
