@@ -743,7 +743,7 @@ return {
     ["Ornament Crushers Emote_None"] = 61,
     ["Ornament Crushers_None"] = 977,
     ["Ornamental Strike_None"] = 50,
-    ["Parasitic Dagger_None"] = 76,
+    ["Parasitic Dagger_None"] = 75,
     ["Parasitic Scythe Emote_None"] = 126,
     ["Parasitic Scythe_None"] = 169,
     ["Parasitic Vision_None"] = 84,
