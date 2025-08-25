@@ -277,7 +277,7 @@ return {
     ["Dual Eclipse Gleams Emote_None"] = 113,
     ["Dual Emerald Blade Emote_None"] = 50,
     ["Dual Emerald Blade_None"] = 187,
-    ["Dual Eternal Greatsword Emote_None"] = 474,
+    ["Dual Eternal Greatsword Emote_None"] = 482,
     ["Dual Eternal Greatsword_None"] = 4400,
     ["Dual Ether Blade_None"] = 246,
     ["Dual Final Phase Emote_None"] = 131,
