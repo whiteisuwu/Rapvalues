@@ -126,7 +126,7 @@ return {
     ["Coffin_None"] = 12100,
     ["Come Here [DUAL NEBULA YORU]_None"] = 136,
     ["Corrupt Blossom Blade_None"] = 161,
-    ["Corrupt Blossom Bow_None"] = 496,
+    ["Corrupt Blossom Bow_None"] = 2600,
     ["Corrupt Season_None"] = 103,
     ["Corrupted Garden_None"] = 314,
     ["Cosmic Accuracy_None"] = 490,
