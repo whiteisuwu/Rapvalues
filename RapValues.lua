@@ -460,7 +460,7 @@ return {
     ["Dual Vampire Sickle_None"] = 429,
     ["Dual Vaporwave Blade Emote_None"] = 80,
     ["Dual Vaporwave Blade_None"] = 226,
-    ["Dual Vaporwave Crusher Emote_None"] = 68,
+    ["Dual Vaporwave Crusher Emote_None"] = 69,
     ["Dual Vaporwave Crusher_None"] = 860,
     ["Dual Void Blades_None"] = 449,
     ["Dual Void Scythes Emote_None"] = 121,
