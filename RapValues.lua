@@ -410,7 +410,7 @@ return {
     ["Dual Runic Scythe Emote_None"] = 110,
     ["Dual Runic Scythe_None"] = 385,
     ["Dual Sakura Fan Emote_None"] = 119,
-    ["Dual Sakura Fan_None"] = 456,
+    ["Dual Sakura Fan_None"] = 459,
     ["Dual Sakura Katana_None"] = 263,
     ["Dual Sakura Scythe_None"] = 275,
     ["Dual Scarlet Spin_None"] = 51,
