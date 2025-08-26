@@ -199,7 +199,7 @@ return {
     ["Dual Aetherial Azure Katana_None"] = 296,
     ["Dual Aetherial Azure Reckoner_None"] = 361,
     ["Dual Aetherial Kunai Emote_None"] = 73,
-    ["Dual Aetherial Kunai_None"] = 395,
+    ["Dual Aetherial Kunai_None"] = 396,
     ["Dual Arachne Blade Emote_None"] = 54,
     ["Dual Arachne Blade_None"] = 260,
     ["Dual Arachne Scythe Emote_None"] = 77,
