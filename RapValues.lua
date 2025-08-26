@@ -500,7 +500,7 @@ return {
     ["Emerald Parasol_None"] = 530,
     ["Empyrean Fortress_None"] = 143,
     ["Empyrean Greatblade_None"] = 53,
-    ["Escaped Lilies_None"] = 138,
+    ["Escaped Lilies_None"] = 137,
     ["Eternal Clockwork_None"] = 3200,
     ["Eternal_None"] = 1100,
     ["Ether Blade_None"] = 57,
