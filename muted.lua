@@ -1,6 +1,7 @@
 return {
     "Blossom Blade_None",
     "Corrupt Blossom Bow_None",
+    "Dual Blossom Scythe_None",
     "Dual Corrupt Blossom Blade_None",
     "Nebula Blade_None",
     "Snow Globe_None",
