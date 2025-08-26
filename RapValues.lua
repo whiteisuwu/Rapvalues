@@ -425,7 +425,7 @@ return {
     ["Dual Shadow Monarch Blade_None"] = 340,
     ["Dual Singularity Katana_None"] = 176,
     ["Dual Singularity Scythe_None"] = 238,
-    ["Dual Sinister Blade Emote_None"] = 92,
+    ["Dual Sinister Blade Emote_None"] = 91,
     ["Dual Sinister Blade_None"] = 394,
     ["Dual Sinister Blaster Emote_None"] = 85,
     ["Dual Sinister Blasters_None"] = 780,
