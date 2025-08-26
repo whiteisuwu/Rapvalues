@@ -714,7 +714,7 @@ return {
     ["North Star Emote_None"] = 156,
     ["North Star Shatter_None"] = 119,
     ["North Star_None"] = 572,
-    ["Nyxpetal Blade_None"] = 193,
+    ["Nyxpetal Blade_None"] = 194,
     ["Nyxpetal Bloom_None"] = 151,
     ["Nyxpetal Fan Emote_None"] = 198,
     ["Nyxpetal Fan_None"] = 1300,
