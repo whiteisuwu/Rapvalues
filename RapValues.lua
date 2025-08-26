@@ -870,7 +870,7 @@ return {
     ["Serene Zone_None"] = 57,
     ["Serpent Anchor_None"] = 559,
     ["Serpent Emote_None"] = 6300,
-    ["Serpent_None"] = 27500,
+    ["Serpent_None"] = 27600,
     ["Serpent's Cataclysm_None"] = 37700,
     ["Serpent's Greatsword Emote_None"] = 325,
     ["Serpent's Greatsword_None"] = 3100,
