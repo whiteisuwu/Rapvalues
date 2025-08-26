@@ -5,4 +5,5 @@ return {
     "Dual Corrupt Blossom Blade_None",
     "Nebula Blade_None",
     "Snow Globe_None",
+    "T-Rex Explosion_None",
 }
