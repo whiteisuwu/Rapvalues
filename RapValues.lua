@@ -1025,7 +1025,7 @@ return {
     ["Yin Yang Greatsword Explosion_None"] = 606,
     ["Yin Yang Greatsword_None"] = 3000,
     ["Yin Yang Katana_None"] = 101,
-    ["Yin Yang Meditation_None"] = 54,
+    ["Yin Yang Meditation_None"] = 53,
     ["Yin Yang Parasol Emote_None"] = 568,
     ["Yin Yang Parasol Explosion_None"] = 657,
     ["Yin Yang Parasol_None"] = 1600,
