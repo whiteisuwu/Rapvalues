@@ -367,7 +367,7 @@ return {
     ["Dual Nightclaw Scythe_None"] = 334,
     ["Dual North Blade Emote_None"] = 51,
     ["Dual North Blade_None"] = 264,
-    ["Dual Nyxpetal Blade Emote_None"] = 97,
+    ["Dual Nyxpetal Blade Emote_None"] = 98,
     ["Dual Nyxpetal Blade_None"] = 228,
     ["Dual Nyxpetal Fan Emote_None"] = 120,
     ["Dual Nyxpetal Fan_None"] = 1300,
