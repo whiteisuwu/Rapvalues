@@ -778,7 +778,7 @@ return {
     ["Playcards Shuffler_None"] = 379,
     ["Polar Bear Emote_None"] = 3600,
     ["Polar Bear Pop_None"] = 7200,
-    ["Polar Bear_None"] = 56200,
+    ["Polar Bear_None"] = 56900,
     ["Polar Bear_SwordAccessory"] = 123200,
     ["Prince Blade_None"] = 1300,
     ["Princess Explosion_None"] = 62,
