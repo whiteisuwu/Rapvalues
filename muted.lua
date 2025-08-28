@@ -3,6 +3,7 @@ return {
     "Corrupt Blossom Bow_None",
     "Dual Blossom Scythe_None",
     "Dual Corrupt Blossom Blade_None",
+    "Mummy's Curse_None",
     "Nebula Blade_None",
     "Retribution Guitar_None",
     "Snow Globe_None",
