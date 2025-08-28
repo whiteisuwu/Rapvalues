@@ -324,7 +324,7 @@ return {
     ["Dual Krampus Blade Emote_None"] = 73,
     ["Dual Krampus Blade_None"] = 227,
     ["Dual Krampus Scythe Emote_None"] = 83,
-    ["Dual Krampus Scythe_None"] = 468,
+    ["Dual Krampus Scythe_None"] = 467,
     ["Dual Kurogin Getaway_None"] = 57,
     ["Dual Kurogin Katana_None"] = 242,
     ["Dual Kurogin Scythe_None"] = 280,
