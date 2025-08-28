@@ -567,7 +567,7 @@ return {
     ["Harmonic Surge_None"] = 160,
     ["Heart Blade_None"] = 143,
     ["Heart Blast_None"] = 104,
-    ["Heart Bow Emote_None"] = 248,
+    ["Heart Bow Emote_None"] = 249,
     ["Heart Bow_None"] = 476,
     ["Heart Explosion_None"] = 71,
     ["Hearts_None"] = 287,
