@@ -779,7 +779,7 @@ return {
     ["Polar Bear Emote_None"] = 3800,
     ["Polar Bear Pop_None"] = 7100,
     ["Polar Bear_None"] = 57600,
-    ["Polar Bear_SwordAccessory"] = 123200,
+    ["Polar Bear_SwordAccessory"] = 122800,
     ["Prince Blade_None"] = 1400,
     ["Princess Explosion_None"] = 65,
     ["Princess Katana_None"] = 223,
