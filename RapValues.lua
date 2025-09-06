@@ -760,7 +760,7 @@ return {
     ["Pastel Vaporwave_None"] = 73,
     ["Paw Punch_None"] = 3200,
     ["Penguin Emote_None"] = 7300,
-    ["Penguin_None"] = 48200,
+    ["Penguin_None"] = 47700,
     ["Penumbra Explosion_None"] = 67,
     ["Peppermint Candy_None"] = 40,
     ["Peppermint Swirl_None"] = 35,
@@ -1049,6 +1049,6 @@ return {
     ["Zodiac Ascendant_None"] = 33,
     ["Zodiac Blade_None"] = 78,
     ["Zodiac Parasol Emote_None"] = 101,
-    ["Zodiac Parasol_None"] = 419,
+    ["Zodiac Parasol_None"] = 420,
     ["Zodiac Shrine_None"] = 36,
 }
