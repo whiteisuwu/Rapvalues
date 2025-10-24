@@ -834,7 +834,7 @@ return {
     ["Pink Oni Katana_None"] = 3100,
     ["Planetary Explosion_None"] = 60,
     ["Playcards Shuffler_None"] = 386,
-    ["Polar Bear Emote_None"] = 4300,
+    ["Polar Bear Emote_None"] = 4100,
     ["Polar Bear Pop_None"] = 8900,
     ["Polar Bear_None"] = 66200,
     ["Polar Bear_SwordAccessory"] = 126400,
