@@ -40,7 +40,7 @@ return {
     ["Arachne Scythe_None"] = 249,
     ["Arcane Burst_None"] = 6,
     ["Arctic Avalanche Blitz_None"] = 3,
-    ["Arctic Blast_None"] = 6,
+    ["Arctic Blast_None"] = 7,
     ["Arctic Cataclysm_None"] = 25900,
     ["Arctic Fury_None"] = 5,
     ["Arctic Waddle_None"] = 12600,
