@@ -1221,7 +1221,7 @@ return {
     ["Porcospino Stivale_None"] = 3,
     ["Portal To Hell_None"] = 7,
     ["Powder Keg_None"] = 2,
-    ["Pressure Implosion_None"] = 500,
+    ["Pressure Implosion_None"] = 309,
     ["Prince Blade_None"] = 1700,
     ["Princess Explosion_None"] = 57,
     ["Princess Katana_None"] = 237,
