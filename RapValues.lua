@@ -820,7 +820,7 @@ return {
     ["Gleaming Scythe_None"] = 329,
     ["Glitch Bomb_None"] = 7,
     ["Glorious Exit_None"] = 9,
-    ["Gobbler Explosion_None"] = 101,
+    ["Gobbler Explosion_None"] = 102,
     ["Gold Burst_None"] = 12,
     ["Golden Egg Implosion_None"] = 2,
     ["Golden Eruption_None"] = 3,
