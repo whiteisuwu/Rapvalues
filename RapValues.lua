@@ -1322,7 +1322,7 @@ return {
     ["Rose Bow Emote_None"] = 136,
     ["Rose Bow_None"] = 434,
     ["Rose Gift_None"] = 5500,
-    ["Rose Mirage Bloom_None"] = 40,
+    ["Rose Mirage Bloom_None"] = 39,
     ["Rose Petal Rupture_None"] = 7,
     ["Rosefire Blade_None"] = 82,
     ["Rosefire Scythe Emote_None"] = 195,
