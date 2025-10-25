@@ -934,7 +934,7 @@ return {
     ["Ink Snap_None"] = 3,
     ["Inksoul Brush_None"] = 1700,
     ["Iridescent Implosion_None"] = 0,
-    ["Iron Blast_None"] = 4,
+    ["Iron Blast_None"] = 3,
     ["Jack-O-Lantern Blast_None"] = 13,
     ["Jackpot Detonation_None"] = 6,
     ["Jellyfish Explosion_None"] = 584,
