@@ -1683,7 +1683,7 @@ return {
     ["Hotdog Sword_None"] = 8,
     ["Hug_None"] = 10600,
     ["Hungry Shadows_None"] = 4,
-    ["Hydro Burst_None"] = 0,
+    ["Hydro Burst_None"] = 2,
     ["Hydro Crash_None"] = 6,
     ["Hydrocore Detonation_None"] = 0,
     ["Hydrocore_None"] = 1400,
