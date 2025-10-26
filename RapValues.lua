@@ -2894,7 +2894,7 @@ return {
     ["Stardust Bow_None"] = 414,
     ["Stardust Katana_None"] = 189,
     ["Stardust_None"] = 5,
-    ["Starfall Burst_None"] = 78,
+    ["Starfall Burst_None"] = 76,
     ["Starfall Cascade_None"] = 4,
     ["Starfall_None"] = 3,
     ["Starfish Saber_None"] = 9,
