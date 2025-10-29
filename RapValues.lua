@@ -334,7 +334,7 @@ return {
     ["Bunny Byte_None"] = 2,
     ["Bunny Staff_None"] = 84,
     ["Bunny_Finisher"] = 178400,
-    ["Bunny_None"] = 90200,
+    ["Bunny_None"] = 83900,
     ["Bunny's Edge_None"] = 49,
     ["Burning Embrace_None"] = 5,
     ["Burnt Relic_None"] = 40,
