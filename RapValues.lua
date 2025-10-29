@@ -2723,7 +2723,7 @@ return {
     ["Shatterflight Bird Emote_None"] = 768,
     ["Shatterflight Bird Explosion_None"] = 5100,
     ["Shatterflight Bird_None"] = 11900,
-    ["Shatterstorm_None"] = 8,
+    ["Shatterstorm_None"] = 7,
     ["Shatterthorn_None"] = 10,
     ["Shell Pop_None"] = 4,
     ["Shell Slicer_None"] = 3,
