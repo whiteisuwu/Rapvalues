@@ -539,7 +539,7 @@ return {
     ["Crimson Backblade_None"] = 2200,
     ["Crimson Blade_None"] = 25,
     ["Crimson Blaze_None"] = 3,
-    ["Crimson Cat's Racket_None"] = 33,
+    ["Crimson Cat's Racket_None"] = 35,
     ["Crimson Claus_None"] = 0,
     ["Crimson Eclipse_None"] = 173,
     ["Crimson Embrace_None"] = 3,
