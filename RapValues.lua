@@ -1609,7 +1609,7 @@ return {
     ["Hammer of Light_None"] = 11,
     ["Hammerhead Slicer_None"] = 3,
     ["Hanami Explosion_None"] = 114,
-    ["Happy New Year Explosion_None"] = 7,
+    ["Happy New Year Explosion_None"] = 8,
     ["Hare's Halberd_None"] = 24,
     ["Hare's Honor_None"] = 3,
     ["Harmonic Echo_None"] = 216,
