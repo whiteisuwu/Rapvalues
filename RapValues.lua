@@ -2914,7 +2914,7 @@ return {
     ["Starbloom Blade_None"] = 153,
     ["Starbloom Scythe Emote_None"] = 140,
     ["Starbloom Scythe_None"] = 429,
-    ["Starburst Pop_None"] = 7,
+    ["Starburst Pop_None"] = 6,
     ["Stardust Beam_None"] = 153,
     ["Stardust Bow Emote_None"] = 92,
     ["Stardust Bow_None"] = 408,
