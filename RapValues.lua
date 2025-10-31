@@ -2779,7 +2779,7 @@ return {
     ["Slipstream Collapse_None"] = 5,
     ["Smelted Slice_None"] = 102,
     ["Smelted Slicer_None"] = 0,
-    ["Smoke Bomb Escape_None"] = 5,
+    ["Smoke Bomb Escape_None"] = 4,
     ["Smoke Screen_None"] = 3,
     ["Snow Globe_None"] = 43,
     ["Snow Piercer_None"] = 2,
