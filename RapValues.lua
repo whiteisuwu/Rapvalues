@@ -2870,7 +2870,7 @@ return {
     ["Spectral Cleaver_None"] = 5,
     ["Spectral Crescent_None"] = 1500,
     ["Spectral Detonation_None"] = 10,
-    ["Spectral Eruption_None"] = 12,
+    ["Spectral Eruption_None"] = 11,
     ["Spectral Fang_None"] = 0,
     ["Spectral Flash_None"] = 3,
     ["Speed Striker_None"] = 7,
