@@ -1225,7 +1225,7 @@ return {
     ["Emerald Pixelpiercer_None"] = 2,
     ["Emerald Valor_None"] = 2,
     ["Emperor Blade_None"] = 1200,
-    ["Emperor's Lance_None"] = 34,
+    ["Emperor's Lance_None"] = 33,
     ["Empyreal Sweep_None"] = 2,
     ["Empyrean Fortress_None"] = 144,
     ["Empyrean Greatblade_None"] = 58,
