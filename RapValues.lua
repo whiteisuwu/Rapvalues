@@ -1199,7 +1199,7 @@ return {
     ["Electric Blade_None"] = 6,
     ["Electric Ice Blade_None"] = 2400000,
     ["Electric Katana_None"] = 3,
-    ["Electric Reaver_None"] = 4,
+    ["Electric Reaver_None"] = 3,
     ["Electric Sunblade_None"] = 207100,
     ["Electricity Blade_None"] = 6,
     ["Electro Axe_None"] = 8,
