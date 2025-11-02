@@ -2196,7 +2196,7 @@ return {
     ["Oceanic Tempest_None"] = 2300000,
     ["Ogre's Axe_None"] = 86300,
     ["Ogre's Finisher_None"] = 0,
-    ["Ogre's Martyrdom_None"] = 26,
+    ["Ogre's Martyrdom_None"] = 27,
     ["Omega Collapse_None"] = 6,
     ["Omega Edge_None"] = 41,
     ["Ominous Blade_None"] = 9,
