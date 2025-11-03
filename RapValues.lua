@@ -2961,7 +2961,7 @@ return {
     ["Stone Scythe_None"] = 7,
     ["Stone Shardblade_None"] = 2,
     ["Stonecarver_None"] = 2,
-    ["Stop Sign_None"] = 5,
+    ["Stop Sign_None"] = 6,
     ["Storm Bringer_None"] = 85,
     ["Storm Burst_None"] = 17,
     ["Storm Echo_None"] = 18,
