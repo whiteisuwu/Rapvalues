@@ -2220,7 +2220,7 @@ return {
     ["Ornament Crushers_None"] = 1200,
     ["Ornamental Strike_None"] = 58,
     ["Overclock Blast_None"] = 6,
-    ["Overclock Surge_None"] = 5,
+    ["Overclock Surge_None"] = 6,
     ["Overgrown Scythe_None"] = 6,
     ["Overheating Detonation_None"] = 9,
     ["Overseer's Gaze_None"] = 2,
