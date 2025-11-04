@@ -480,7 +480,7 @@ return {
     ["Clockwork Cutter_None"] = 5,
     ["Cloud Puff_None"] = 9,
     ["Cloud Rapier_None"] = 3,
-    ["Cloud Sword_None"] = 71,
+    ["Cloud Sword_None"] = 73,
     ["Coal_None"] = 3,
     ["Coconut Crusher_None"] = 23,
     ["Coffin Emote_None"] = 2800,
