@@ -262,7 +262,7 @@ return {
     ["Bloom Awakening_None"] = 291,
     ["Bloom Katana_None"] = 154,
     ["Bloom Shuriken_Finisher"] = 86900,
-    ["Bloom Shuriken_None"] = 46300,
+    ["Bloom Shuriken_None"] = 46400,
     ["Bloomfire_None"] = 27,
     ["Blooming Katana_None"] = 7800,
     ["Bloomlight Greatscythe_None"] = 0,
