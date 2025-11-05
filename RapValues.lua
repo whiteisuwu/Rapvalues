@@ -175,7 +175,7 @@ return {
     ["Bamboo Fang_None"] = 1,
     ["Ban Hammer_None"] = 9400,
     ["Banana Aura_None"] = 9,
-    ["Banana Sword_None"] = 39,
+    ["Banana Sword_None"] = 37,
     ["Bane of Evolution_None"] = 12,
     ["Banished Explosion_None"] = 15,
     ["Banshee Wail_None"] = 3,
