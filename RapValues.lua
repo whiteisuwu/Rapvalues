@@ -1214,7 +1214,7 @@ return {
     ["Ember Burst_None"] = 6,
     ["Ember's Rage_None"] = 5,
     ["Emberbrand_None"] = 1,
-    ["Emberfang Blade_None"] = 43400,
+    ["Emberfang Blade_None"] = 34100,
     ["Emberflare Blade_None"] = 2,
     ["Emberstorm Detonation_None"] = 12,
     ["Emberstrike_None"] = 4,
