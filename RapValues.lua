@@ -1234,7 +1234,7 @@ return {
     ["Empyrean Fortress_None"] = 139,
     ["Empyrean Greatblade_None"] = 61,
     ["Enamored Edge_None"] = 8,
-    ["Enchanted Axe_None"] = 20,
+    ["Enchanted Axe_None"] = 21,
     ["Enchanted Backblade_None"] = 1500000,
     ["Enchanted Cleaver_None"] = 5,
     ["Enchanted Demise_None"] = 5,
