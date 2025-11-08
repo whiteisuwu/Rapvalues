@@ -155,7 +155,7 @@ return {
     ["Avalanche Blade_None"] = 0,
     ["Avalanche_None"] = 5,
     ["Avis Scythe_None"] = 1000000,
-    ["Awakened Abyssal Slicer_None"] = 347,
+    ["Awakened Abyssal Slicer_None"] = 338,
     ["Axe of Balance_None"] = 7,
     ["Axe of Love_None"] = 92,
     ["Axe Of Time_None"] = 6,
