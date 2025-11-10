@@ -242,7 +242,7 @@ return {
     ["Blizzard Strike_None"] = 6,
     ["Blizzard's Fury_None"] = 6,
     ["Block Breaker_None"] = 6,
-    ["Block Buster_None"] = 836,
+    ["Block Buster_None"] = 839,
     ["Bloodfang Halberd_None"] = 379,
     ["Bloodfang_None"] = 4,
     ["Bloodgazer's Edge_None"] = 5,
