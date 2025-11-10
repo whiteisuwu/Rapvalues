@@ -306,7 +306,7 @@ return {
     ["BOOM Paper_None"] = 6,
     ["Boreal Frostreaver_None"] = 214,
     ["Borealis_Finisher"] = 32299,
-    ["Borealis_None"] = 16800,
+    ["Borealis_None"] = 16700,
     ["Boundless Reaver_None"] = 6,
     ["Bowtie Blade_None"] = 5,
     ["Breakerblade_None"] = 7,
