@@ -2011,7 +2011,7 @@ return {
     ["Masksplitter_None"] = 7,
     ["Matrix Blast_None"] = 8,
     ["Mech Core Detonation_None"] = 487,
-    ["Mech Laser Cannon_None"] = 82,
+    ["Mech Laser Cannon_None"] = 88,
     ["Mech Staff_None"] = 12,
     ["Mecha Axe_None"] = 268,
     ["Mecha Cleaver_None"] = 0,
