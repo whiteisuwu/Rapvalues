@@ -1287,7 +1287,7 @@ return {
     ["Ethereal Kitsune Blade_None"] = 13,
     ["Ethereal Sovereign_None"] = 1100000,
     ["Ethereal_None"] = 552,
-    ["Event Horizon_None"] = 9,
+    ["Event Horizon_None"] = 8,
     ["Everflame Scythe_None"] = 58,
     ["Everflourescent Blade_None"] = 8,
     ["Everfrost Blade_None"] = 9,
