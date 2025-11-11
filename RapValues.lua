@@ -1254,7 +1254,7 @@ return {
     ["Enchanted Demise_None"] = 6,
     ["Enchanted Explosion_None"] = 0,
     ["Enchanted Greatsword_None"] = 1100,
-    ["Enchanted Roseblade_None"] = 26,
+    ["Enchanted Roseblade_None"] = 24,
     ["Encrypted Dagger_None"] = 2,
     ["Encrypted Grenade_None"] = 5,
     ["Enforcer's Spear_None"] = 4,
