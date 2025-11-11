@@ -123,7 +123,7 @@ return {
     ["Astral Sky_None"] = 79,
     ["Astral Sword_None"] = 81,
     ["Astral Thorn_None"] = 46,
-    ["Astral Vanguard_None"] = 50,
+    ["Astral Vanguard_None"] = 49,
     ["Astral Void_None"] = 48,
     ["Augmented Saber_None"] = 8,
     ["Aurelfrost Fang_None"] = 7,
