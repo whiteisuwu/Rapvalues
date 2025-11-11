@@ -1822,7 +1822,7 @@ return {
     ["Jack's Grin_None"] = 0,
     ["Jackolantern_Finisher"] = 21600,
     ["Jackolantern_None"] = 9900,
-    ["Jackpot Detonation_None"] = 6,
+    ["Jackpot Detonation_None"] = 7,
     ["Jaded Staff_None"] = 27,
     ["Jellybean Jabber_None"] = 7,
     ["Jellyfish Explosion_None"] = 542,
