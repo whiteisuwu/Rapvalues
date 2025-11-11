@@ -2411,7 +2411,7 @@ return {
     ["Pumpkin VineCrusher_None"] = 7,
     ["Pure Power_None"] = 87,
     ["Purgatory Flames_None"] = 5,
-    ["Purgatory Rage_None"] = 231,
+    ["Purgatory Rage_None"] = 230,
     ["Purification Explosion_None"] = 4,
     ["Purity Blade_None"] = 265,
     ["Purity Bow Emote_None"] = 89,
