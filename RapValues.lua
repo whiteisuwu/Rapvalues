@@ -1962,7 +1962,7 @@ return {
     ["Lucky Fan_None"] = 35,
     ["Lucky Fang_None"] = 4,
     ["Lucky Sword_None"] = 3,
-    ["Lumen Petal_None"] = 248,
+    ["Lumen Petal_None"] = 246,
     ["Lumenwing Blade_None"] = 109,
     ["Lumenwing Bow Emote_None"] = 96,
     ["Lumenwing Bow_None"] = 417,
