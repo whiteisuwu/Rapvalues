@@ -2082,7 +2082,7 @@ return {
     ["Mothyx Scissors Emote_None"] = 132,
     ["Mothyx Scissors_None"] = 769,
     ["Mummy's Curse_None"] = 64099,
-    ["Mummy's Slasher_None"] = 610,
+    ["Mummy's Slasher_None"] = 617,
     ["Mushroom Bat_None"] = 13,
     ["musicalscythe_None"] = 0,
     ["Mystic Edge_None"] = 6,
