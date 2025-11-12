@@ -1979,7 +1979,7 @@ return {
     ["Lunar Bloom_None"] = 10600,
     ["Lunar Burst_None"] = 60,
     ["Lunar Edge_None"] = 3,
-    ["Lunar Fan_None"] = 34,
+    ["Lunar Fan_None"] = 35,
     ["Lunar Fireworks_None"] = 43,
     ["Lunar Glow_None"] = 4,
     ["Lunar Lantern_None"] = 765,
