@@ -231,7 +231,7 @@ return {
     ["Blinding Frost_None"] = 3,
     ["Blizzard Bite_None"] = 6,
     ["Blizzard Blade_None"] = 4,
-    ["Blizzard Blast_None"] = 4,
+    ["Blizzard Blast_None"] = 5,
     ["Blizzard Burst_None"] = 5,
     ["Blizzard Fang_None"] = 6,
     ["Blizzard Katana_None"] = 3500000,
