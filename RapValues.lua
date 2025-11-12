@@ -334,7 +334,7 @@ return {
     ["Buccaneer's Cutlass_None"] = 5,
     ["Bunny Basher_None"] = 7,
     ["Bunny Byte_None"] = 3,
-    ["Bunny Staff_None"] = 82,
+    ["Bunny Staff_None"] = 80,
     ["Bunny_Finisher"] = 161200,
     ["Bunny_None"] = 83300,
     ["Bunny's Edge_None"] = 49,
