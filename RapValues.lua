@@ -2285,7 +2285,7 @@ return {
     ["Peppermint Candy_None"] = 41,
     ["Peppermint Swirl_None"] = 37,
     ["Permafrost Blade_None"] = 68,
-    ["Permafrost Blast_None"] = 81,
+    ["Permafrost Blast_None"] = 79,
     ["Permafrost Staff Emote_None"] = 94,
     ["Permafrost Staff_None"] = 475,
     ["Petal Dagger_None"] = 5,
