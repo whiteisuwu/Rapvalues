@@ -2835,7 +2835,7 @@ return {
     ["Snowflake Nova_None"] = 6,
     ["Snowflake_None"] = 5,
     ["Snowman Blade_None"] = 8,
-    ["Snowman Scythe_None"] = 20,
+    ["Snowman Scythe_None"] = 22,
     ["Snowstorm Blade_None"] = 6,
     ["Snowstorm Burst_None"] = 46,
     ["Snowstorm Nova_None"] = 31,
