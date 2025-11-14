@@ -2626,7 +2626,7 @@ return {
     ["Runeblade_None"] = 4,
     ["Runebreaker Staff_None"] = 953100,
     ["Runesteel_None"] = 4,
-    ["Runewind Pulse_None"] = 10,
+    ["Runewind Pulse_None"] = 9,
     ["Runic Blade_None"] = 123,
     ["Runic Blast_None"] = 21,
     ["Runic Curse_None"] = 73,
