@@ -1837,7 +1837,7 @@ return {
     ["Jolly Scythe Set_None"] = 2100,
     ["Judge Gavel_None"] = 45,
     ["Judgement_None"] = 716,
-    ["Kai's Blaze_None"] = 11,
+    ["Kai's Blaze_None"] = 10,
     ["Katana Black Explosion_None"] = 729,
     ["Katana Blue Explosion_None"] = 517,
     ["Katana Chroma Explosion_None"] = 1900,
