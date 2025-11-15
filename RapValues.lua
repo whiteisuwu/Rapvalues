@@ -2776,7 +2776,7 @@ return {
     ["Silt Splash_None"] = 4,
     ["Silver Blade_None"] = 3,
     ["Silver Strike_None"] = 4,
-    ["Singularity Detonation_None"] = 66,
+    ["Singularity Detonation_None"] = 63,
     ["Singularity Expulsion_None"] = 18,
     ["Singularity Katana_None"] = 78,
     ["Singularity Scythe_None"] = 59,
