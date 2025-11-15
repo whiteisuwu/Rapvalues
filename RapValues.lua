@@ -2404,7 +2404,7 @@ return {
     ["Pumpkin Burst_None"] = 4,
     ["Pumpkin Cleaver_None"] = 0,
     ["Pumpkin Fan_None"] = 41,
-    ["Pumpkin Fire_None"] = 7,
+    ["Pumpkin Fire_None"] = 8,
     ["Pumpkin PieBlade_None"] = 5,
     ["Pumpkin Pop_None"] = 12,
     ["Pumpkin Reaper_None"] = 56,
