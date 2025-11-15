@@ -261,7 +261,7 @@ return {
     ["Bloodthirster_None"] = 9,
     ["Bloodthirster's Embrace_None"] = 4,
     ["Bloom Awakening_None"] = 296,
-    ["Bloom Katana_None"] = 146,
+    ["Bloom Katana_None"] = 148,
     ["Bloom Shuriken_Finisher"] = 86200,
     ["Bloom Shuriken_None"] = 47200,
     ["Bloomfire_None"] = 24,
