@@ -1206,7 +1206,7 @@ return {
     ["Eclipse Warden_None"] = 39800,
     ["Eclipsion Blade_None"] = 5,
     ["Eclipsion Saber_None"] = 4,
-    ["Ecliptarch_None"] = 568,
+    ["Ecliptarch_None"] = 564,
     ["Ecliptic Eruption_None"] = 3,
     ["Ecliptic Fang_None"] = 11,
     ["Edge of Resurgence_None"] = 3,
