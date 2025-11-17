@@ -3401,7 +3401,7 @@ return {
     ["Yolk Saber_None"] = 5,
     ["Yolkbane_None"] = 6,
     ["Yolkheart Blade_None"] = 4,
-    ["Yuleflame_None"] = 545,
+    ["Yuleflame_None"] = 510,
     ["Yuletide Saber_None"] = 5,
     ["Zap Burst_None"] = 3,
     ["Zephyr Blade_None"] = 60,
@@ -3418,6 +3418,6 @@ return {
     ["Zodiac Parasol_None"] = 414,
     ["Zodiac Shrine_None"] = 37,
     ["Zombie Annihilation_None"] = 5,
-    ["Zombie Leg_None"] = 257,
+    ["Zombie Leg_None"] = 256,
     ["Zombie Sword_None"] = 0,
 }
