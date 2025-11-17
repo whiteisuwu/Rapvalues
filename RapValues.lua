@@ -3418,6 +3418,6 @@ return {
     ["Zodiac Parasol_None"] = 410,
     ["Zodiac Shrine_None"] = 37,
     ["Zombie Annihilation_None"] = 5,
-    ["Zombie Leg_None"] = 256,
+    ["Zombie Leg_None"] = 243,
     ["Zombie Sword_None"] = 0,
 }
