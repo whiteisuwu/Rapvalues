@@ -2381,7 +2381,7 @@ return {
     ["Plasma Gauntlets_None"] = 63,
     ["Plasma Katana_None"] = 19,
     ["Plasma Rift Blade_None"] = 12,
-    ["Plasma Rift_None"] = 15,
+    ["Plasma Rift_None"] = 16,
     ["Plasma Spear_None"] = 5,
     ["Plasma Surge_None"] = 5,
     ["Platinum Staff_None"] = 3,
