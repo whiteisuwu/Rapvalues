@@ -1249,7 +1249,7 @@ return {
     ["Emerald Blade_None"] = 69,
     ["Emerald Edge_None"] = 15,
     ["Emerald Eggblade_None"] = 21,
-    ["Emerald Greatsword_None"] = 1400,
+    ["Emerald Greatsword_None"] = 1300,
     ["Emerald Halo_None"] = 71,
     ["Emerald Parasol Emote_None"] = 74,
     ["Emerald Parasol_None"] = 519,
