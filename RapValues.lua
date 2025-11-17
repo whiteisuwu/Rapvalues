@@ -2525,7 +2525,7 @@ return {
     ["Ranked Season 4 Top 25 Sword_None"] = 18000,
     ["Ranked Season 5 Champion_None"] = 544,
     ["Ranked Season 5 Top 1_None"] = 0,
-    ["Ranked Season 5 Top 200_None"] = 1600,
+    ["Ranked Season 5 Top 200_None"] = 1500,
     ["Ranked Season 5 Top 50_None"] = 2200,
     ["Ranked Season 6 Champion_None"] = 892,
     ["Ranked Season 6 Top 1_None"] = 0,
