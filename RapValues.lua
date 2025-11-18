@@ -1775,7 +1775,7 @@ return {
     ["Ice Shatter_None"] = 3,
     ["Ice Slicer_None"] = 3,
     ["Ice Storm_None"] = 10,
-    ["Icebound Saber_None"] = 6,
+    ["Icebound Saber_None"] = 5,
     ["Iced Avenger_None"] = 35,
     ["Iced Shard_None"] = 3,
     ["Icetomb Blade_None"] = 0,
