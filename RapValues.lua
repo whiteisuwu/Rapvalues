@@ -369,7 +369,7 @@ return {
     ["Capuchino Assassino Blade_None"] = 3,
     ["Carnival Eye_None"] = 67,
     ["Carrion Carver_None"] = 5,
-    ["Carrot Cleaver_None"] = 8,
+    ["Carrot Cleaver_None"] = 7,
     ["Cascade Blade_None"] = 4,
     ["Cascade Break_None"] = 11,
     ["Cat Paw Emote_None"] = 1000,
