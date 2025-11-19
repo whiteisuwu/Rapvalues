@@ -2039,7 +2039,7 @@ return {
     ["Mariner's Scimitar_None"] = 2,
     ["Masksplitter_None"] = 9,
     ["Matrix Blast_None"] = 8,
-    ["Mech Core Detonation_None"] = 545,
+    ["Mech Core Detonation_None"] = 540,
     ["Mech Laser Cannon_None"] = 90,
     ["Mech Staff_None"] = 10,
     ["Mecha Axe_None"] = 283,
