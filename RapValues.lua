@@ -2377,7 +2377,7 @@ return {
     ["Plasma Blaster_None"] = 54,
     ["Plasma Blasters_Finisher"] = 4500,
     ["Plasma Blasters_None"] = 551,
-    ["Plasma Discharge_None"] = 4,
+    ["Plasma Discharge_None"] = 3,
     ["Plasma Gauntlets_None"] = 58,
     ["Plasma Katana_None"] = 19,
     ["Plasma Rift Blade_None"] = 12,
