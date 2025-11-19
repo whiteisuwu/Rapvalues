@@ -388,7 +388,7 @@ return {
     ["Celestial Detonation_None"] = 6,
     ["Celestial Energy_None"] = 1000000,
     ["Celestial Greatsword_None"] = 3,
-    ["Celestial Lance_None"] = 4200,
+    ["Celestial Lance_None"] = 4100,
     ["Celestial Saber_None"] = 2,
     ["Celestial Spear_None"] = 6000,
     ["Celestial Staff_None"] = 0,
