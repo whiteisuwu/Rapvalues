@@ -127,7 +127,7 @@ return {
     ["Astral Vanguard_None"] = 46,
     ["Astral Void_None"] = 46,
     ["Augmented Saber_None"] = 8,
-    ["Aurelfrost Fang_None"] = 6,
+    ["Aurelfrost Fang_None"] = 5,
     ["Aurelius_None"] = 39500,
     ["Aurora Antlers_None"] = 8,
     ["Aurora Blade_None"] = 0,
