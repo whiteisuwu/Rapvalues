@@ -1706,7 +1706,7 @@ return {
     ["Heavenly Explosion_None"] = 48,
     ["Heavenly Sword_None"] = 56,
     ["Helicopter Blade [DUAL BLACKHOLE SCYTHE]_None"] = 43,
-    ["Hell Dragon Beam_None"] = 15,
+    ["Hell Dragon Beam_None"] = 16,
     ["Hellbound Cleaver_None"] = 15,
     ["Hellchain Blade_None"] = 260,
     ["Hellchain Curse_None"] = 54,
