@@ -2785,7 +2785,7 @@ return {
     ["Shark Blade_None"] = 3,
     ["Shark Feast_None"] = 419,
     ["Shark Sword_None"] = 5,
-    ["Shark_None"] = 2200,
+    ["Shark_None"] = 3300,
     ["Shattered Edge_None"] = 4,
     ["Shattered Sword_None"] = 190,
     ["Shatterflight Bird Emote_None"] = 703,
