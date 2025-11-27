@@ -2204,7 +2204,7 @@ return {
     ["Nightmare's Edge_None"] = 5,
     ["Nightmare's Slash_None"] = 77,
     ["Nightpiercer_None"] = 3,
-    ["Nightshade Edge_None"] = 301,
+    ["Nightshade Edge_None"] = 93,
     ["Nightshade Fang_None"] = 15,
     ["Nightshade Saber_None"] = 0,
     ["Nightshade_None"] = 62,
