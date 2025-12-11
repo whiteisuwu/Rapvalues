@@ -2038,7 +2038,6 @@ return {
     ["Nature Kunai_None"] = 54,
     ["Nature's Fang_None"] = 8,
     ["Naturic Cutlass_None"] = 6,
-    ["Nebula Blade_None"] = 931,
     ["Nebula Blaster_None"] = 135,
     ["Nebula Bow_None"] = 73,
     ["Nebula Burst_None"] = 7,
