@@ -8,5 +8,6 @@ return {
     "Nebula Blade_None",
     "Shadowcleaver_None",
     "Snow Globe_None",
+    "Super Quantum_None",
     "Violet Crusher_None",
 }
