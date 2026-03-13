@@ -4,6 +4,7 @@ return {
     "Corrupt Blossom Bow_None",
     "Cryosting Bloomblade_None",
     "Dual Corrupt Blossom Blade_None",
+    "Dual Gothic Bunny Scythe_None",
     "Event Horizon_None",
     "Iced Dualblade_None",
     "Nebula Blade_None",
