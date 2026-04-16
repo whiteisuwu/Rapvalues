@@ -1,6 +1,5 @@
 return {
     "Blossom Blade_None",
-    "Blossom Katana Explosion_None",
     "Corrupt Blossom Bow_None",
     "Cryosting Bloomblade_None",
     "Dual Corrupt Blossom Blade_None",
