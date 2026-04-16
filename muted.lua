@@ -6,6 +6,7 @@ return {
     "Dual Corrupt Blossom Blade_None",
     "Dual Gothic Bunny Scythe_None",
     "Event Horizon_None",
+    "Giant Egg_None",
     "Gothic Bunny Scythe_None",
     "Iced Dualblade_None",
     "Nebula Blade_None",
