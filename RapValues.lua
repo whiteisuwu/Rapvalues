@@ -2326,7 +2326,7 @@ return {
     ["Heart Corruption_None"] = 237,
     ["Heart Dance_None"] = 4,
     ["Heart Explosion_None"] = 83,
-    ["Heart of Winter_None"] = 1725,
+    ["Heart of Winter_None"] = 100000,
     ["Heart Wand_None"] = 328,
     ["Heartbreak Burst_None"] = 11,
     ["Heartbreaker Blade_None"] = 130,
