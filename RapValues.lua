@@ -988,7 +988,7 @@ return {
     ["Dawnbringer_None"] = 3,
     ["Dawnpiercer_None"] = 43,
     ["Dawnstep Edge_None"] = 18,
-    ["Death Call Blade_None"] = 331,
+    ["Death Call Blade_None"] = 10,
     ["Death Call Scythe_None"] = 53,
     ["Death Call Timer_None"] = 39,
     ["Deathpiercer_None"] = 0,
