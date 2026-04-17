@@ -1901,7 +1901,7 @@ return {
     ["Floral Blaze_None"] = 157,
     ["Floral Bloom_None"] = 5,
     ["Floral Nova_None"] = 0,
-    ["Floral Slicer_None"] = 4262,
+    ["Floral Slicer_None"] = 100,
     ["Floral Tempest Blade_None"] = 10,
     ["Flow Blade_None"] = 5,
     ["Flower Katana_None"] = 145,
