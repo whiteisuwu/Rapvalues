@@ -3315,7 +3315,7 @@ return {
     ["Present Exchange_None"] = 34,
     ["Presentslicer_None"] = 3,
     ["Pressure Implosion_None"] = 21,
-    ["Prince Blade_None"] = 2126,
+    ["Prince Blade_None"] = 1000,
     ["Princess Explosion_None"] = 47,
     ["Princess Katana_None"] = 4732,
     ["Prismatic Explosion_None"] = 24,
