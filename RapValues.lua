@@ -1710,7 +1710,7 @@ return {
     ["Emerald Pixelpiercer_None"] = 6,
     ["Emerald Valor_None"] = 8,
     ["Emerald Warden Blade_None"] = 2,
-    ["Emperor Blade_None"] = 1169,
+    ["Emperor Blade_None"] = 600,
     ["Emperor's Axe_None"] = 11,
     ["Emperor's Collapse_None"] = 0,
     ["Emperor's Lance_None"] = 34,
