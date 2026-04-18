@@ -4668,7 +4668,7 @@ return {
     ["Witch's Broom_None"] = 153,
     ["Witch's Broomstick_None"] = 7,
     ["Witch's Cackle_None"] = 6,
-    ["Witch's Curse_None"] = 2052,
+    ["Witch's Curse_None"] = 1000,
     ["Witch's Set_Finisher"] = 788,
     ["Witch's Set_None"] = 351,
     ["Witchfire Blade_None"] = 0,
