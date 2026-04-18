@@ -499,7 +499,7 @@ return {
     ["Brick Cleaver_None"] = 3,
     ["Bridal Revival_None"] = 1660,
     ["Brine Blade_None"] = 5,
-    ["Bring it Around_None"] = 1257,
+    ["Bring it Around_None"] = 2000,
     ["Bring It!_None"] = 3,
     ["Broken Honor_None"] = 5,
     ["Bronze Blade_None"] = 4,
