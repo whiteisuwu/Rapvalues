@@ -2880,7 +2880,7 @@ return {
     ["Monarch's Star_None"] = 96,
     ["Monkey Taunt_None"] = 16,
     ["Monster Mash_None"] = 3,
-    ["Montagem Miau_None"] = 4300,
+    ["Montagem Miau_None"] = 4400,
     ["Montagem Tomada_None"] = 3242,
     ["Moon Cycle Explosion_None"] = 0,
     ["Moon Cycle Saber_None"] = 0,
