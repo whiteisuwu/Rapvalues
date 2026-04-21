@@ -13,4 +13,5 @@ return {
     "Snow Globe_None",
     "Super Quantum_None",
     "Violet Crusher_None",
+    "Warden of Clouds_None",
 }
