@@ -3556,7 +3556,7 @@ return {
     ["Reindeer Hammer_None"] = 124,
     ["Reindeer Horn Dagger_None"] = 23,
     ["Reindeer Leap_None"] = 8,
-    ["Reindeer_None"] = 29000,
+    ["Reindeer_None"] = 22632,
     ["Reindeer_SwordAccessory"] = 61057,
     ["Rekindled Gladius_None"] = 4,
     ["Rekindled_None"] = 8,
