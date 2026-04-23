@@ -3550,7 +3550,7 @@ return {
     ["Regal  Burst_None"] = 4,
     ["Regalia Blade_None"] = 9,
     ["Regret Blades Explosion_None"] = 469,
-    ["Regret Blades_None"] = 7000,
+    ["Regret Blades_None"] = 350,
     ["Regret_None"] = 0,
     ["Reindeer Blade_None"] = 32,
     ["Reindeer Hammer_None"] = 119,
