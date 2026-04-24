@@ -2571,7 +2571,7 @@ return {
     ["Jester Blade_None"] = 3,
     ["Jester_None"] = 5,
     ["Jeweled Blade_None"] = 18,
-    ["Jiggy_None"] = 54,
+    ["Jiggy_None"] = 8500,
     ["Jingle Blade_None"] = 7,
     ["Jingle Burst_None"] = 3,
     ["Job Application_None"] = 10,
