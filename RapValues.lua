@@ -1236,7 +1236,7 @@ return {
     ["Dual Depths Blaster_None"] = 124,
     ["Dual Desert Blade Emote_None"] = 38,
     ["Dual Desert Blade_None"] = 190,
-    ["Dual Devil Katana_None"] = 4282,
+    ["Dual Devil Katana_None"] = 1000,
     ["Dual Divine Blaster Emote_None"] = 27,
     ["Dual Divine Blaster_None"] = 543,
     ["Dual Divine Sword Emote_None"] = 29,
