@@ -2769,7 +2769,7 @@ return {
     ["Lumen Petal_None"] = 309,
     ["Lumenshell Blade_None"] = 89,
     ["Lumenshell Scythe Emote_None"] = 58,
-    ["Lumenshell Scythe_None"] = 500,
+    ["Lumenshell Scythe_None"] = 9455,
     ["Lumenshell Splash_None"] = 63,
     ["Lumenwing Blade_None"] = 75,
     ["Lumenwing Bow Emote_None"] = 99,
