@@ -24,7 +24,7 @@ return {
     ["Abysspiercer_None"] = 5,
     ["Abysspike_None"] = 8,
     ["Ace Emote_None"] = 288,
-    ["Ace_None"] = 14000,
+    ["Ace_None"] = 2500,
     ["Acoloyte's Kopis_None"] = 11,
     ["Aegis Rapier_None"] = 3,
     ["Aegis Sever_None"] = 13,
