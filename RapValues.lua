@@ -3573,7 +3573,7 @@ return {
     ["Resurrection Scythe Emote_None"] = 196,
     ["Resurrection Scythe_None"] = 169,
     ["Resurrection_None"] = 6,
-    ["Retribution Guitar_None"] = 1800,
+    ["Retribution Guitar_None"] = 2791,
     ["Retro Backblade_None"] = 2212,
     ["Retro Doom_None"] = 21,
     ["Retro Wave_None"] = 54,
