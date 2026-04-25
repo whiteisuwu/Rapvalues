@@ -3565,7 +3565,7 @@ return {
     ["Remastered Linked Sword_None"] = 59,
     ["Remnant Sword_None"] = 4,
     ["Resolution Blade_None"] = 44701,
-    ["Resolution Reaver_None"] = 900,
+    ["Resolution Reaver_None"] = 4011,
     ["Resolution Rumble Champion_None"] = 3500001,
     ["Resolution Rumble Warrior_None"] = 3200000,
     ["Resurrection Blade_None"] = 73,
