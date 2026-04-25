@@ -3443,7 +3443,7 @@ return {
     ["Ranked Season 11 Top 50_None"] = 12373,
     ["Ranked Season 12 Champion_None"] = 8208,
     ["Ranked Season 12 Top 1_None"] = 3000000,
-    ["Ranked Season 12 Top 200_None"] = 5035,
+    ["Ranked Season 12 Top 200_None"] = 1000,
     ["Ranked Season 12 Top 50_None"] = 85002,
     ["Ranked Season 13 Champion_None"] = 8225,
     ["Ranked Season 13 Top 1_None"] = 7000000,
