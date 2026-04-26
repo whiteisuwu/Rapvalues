@@ -2650,7 +2650,7 @@ return {
     ["Kitty Katana_None"] = 7655,
     ["Kitty Launcher Emote_None"] = 2759,
     ["Kitty Launcher_None"] = 17916,
-    ["Kitty Rocket_None"] = 8003,
+    ["Kitty Rocket_None"] = 8500,
     ["Knight's Crest_None"] = 13,
     ["Knightfall Shock_None"] = 4,
     ["Knighthood_None"] = 43,
