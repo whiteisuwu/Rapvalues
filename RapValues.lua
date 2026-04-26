@@ -1033,7 +1033,7 @@ return {
     ["Diamond Dagger_None"] = 0,
     ["Diamond Slicer_None"] = 18,
     ["Diamond Spear_None"] = 86,
-    ["Diamond Starblade_None"] = 9000,
+    ["Diamond Starblade_None"] = 10315,
     ["Diamond Stars_None"] = 55,
     ["Diamond Sword_None"] = 4,
     ["Digital Breakdance_None"] = 28,
