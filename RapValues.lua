@@ -2220,7 +2220,7 @@ return {
     ["Golden Katana_None"] = 1905,
     ["Golden Nova_None"] = 0,
     ["Golden Nunchucks_None"] = 5609,
-    ["Golden Rapier_None"] = 2500,
+    ["Golden Rapier_None"] = 5434,
     ["Golden Reaper_None"] = 4,
     ["Golden Reserve_None"] = 22,
     ["Golden Scatter_None"] = 1361,
