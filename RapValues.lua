@@ -672,7 +672,7 @@ return {
     ["Chroma Cards_Finisher"] = 1500000,
     ["Chroma Cards_None"] = 0,
     ["Chroma Chick Blade_None"] = 7,
-    ["Chroma DJ_None"] = 12791,
+    ["Chroma DJ_None"] = 15000,
     ["Chroma Fortune Cleaver_None"] = 441206,
     ["Chroma Fragment_None"] = 5,
     ["Chroma Ninja Katana Emote_None"] = 762,
