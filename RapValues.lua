@@ -1129,7 +1129,7 @@ return {
     ["Dreadspire Blade_None"] = 47,
     ["Dream Blade_None"] = 175,
     ["Dream Burst_None"] = 6,
-    ["Dream Scythe_None"] = 4419,
+    ["Dream Scythe_None"] = 500,
     ["Driftwood Dagger_None"] = 7,
     ["Dripfang_None"] = 15,
     ["Drive By_None"] = 0,
