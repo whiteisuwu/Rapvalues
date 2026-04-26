@@ -2045,7 +2045,7 @@ return {
     ["Frostreaver_None"] = 0,
     ["Frostshard Blade_None"] = 4000000,
     ["Frostveil Twins_None"] = 0,
-    ["FROSTWALL_None"] = 15000,
+    ["FROSTWALL_None"] = 9834,
     ["Frostwraith_None"] = 7,
     ["Frosty Breath_None"] = 4,
     ["Frosty Clap_None"] = 4,
