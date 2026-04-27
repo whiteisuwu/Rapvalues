@@ -3274,7 +3274,7 @@ return {
     ["Pink Healer_None"] = 61,
     ["Pink Ninja Katana Emote_None"] = 338,
     ["Pink Ninja Katana_Finisher"] = 19901,
-    ["Pink Ninja Katana_None"] = 6208,
+    ["Pink Ninja Katana_None"] = 7000,
     ["Pink Ninja Star Emote_None"] = 113,
     ["Pink Ninja Star Explosion_None"] = 350,
     ["Pink Ninja Star_None"] = 1293,
