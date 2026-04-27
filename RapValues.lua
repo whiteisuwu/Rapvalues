@@ -2459,7 +2459,7 @@ return {
     ["Hydra's Bane_None"] = 36,
     ["Hydro Burst_None"] = 3,
     ["Hydro Crash_None"] = 4,
-    ["Hydrocore Detonation_None"] = 26943,
+    ["Hydrocore Detonation_None"] = 17000,
     ["Hydrocore_None"] = 6,
     ["Hyper Starforge_None"] = 5,
     ["Hyperblade Prototype_None"] = 7,
