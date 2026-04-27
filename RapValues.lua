@@ -3791,7 +3791,7 @@ return {
     ["Sentinel's Fury_None"] = 6,
     ["Seraph's Blade_None"] = 4,
     ["Seraphim Emote_None"] = 2940,
-    ["Seraphim Gate_None"] = 2128,
+    ["Seraphim Gate_None"] = 3500,
     ["Seraphim_Finisher"] = 132540,
     ["Seraphim_None"] = 47096,
     ["Serene Blade_None"] = 227,
