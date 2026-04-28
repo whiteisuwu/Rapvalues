@@ -2839,7 +2839,7 @@ return {
     ["Magma Splitter_None"] = 6,
     ["Make It Snow_None"] = 8,
     ["Malice Beam_None"] = 26,
-    ["Malice Blade_None"] = 6249,
+    ["Malice Blade_None"] = 600,
     ["Malice Flare_None"] = 48,
     ["Malice Parasol Emote_None"] = 131,
     ["Malice Parasol_None"] = 487,
