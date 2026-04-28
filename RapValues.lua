@@ -2350,7 +2350,7 @@ return {
     ["Headless Trix_None"] = 26,
     ["Headspinning_None"] = 4,
     ["Heart Awakening_None"] = 312,
-    ["Heart Blade_None"] = 500,
+    ["Heart Blade_None"] = 1338,
     ["Heart Blast_None"] = 81,
     ["Heart Bow Emote_None"] = 138,
     ["Heart Bow_None"] = 366,
