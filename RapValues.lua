@@ -1106,7 +1106,7 @@ return {
     ["Dragon's Claw_None"] = 15,
     ["Dragon's Fury_None"] = 4,
     ["Dragon's Lunar Requiem_None"] = 23,
-    ["Dragon's Omen_None"] = 2300,
+    ["Dragon's Omen_None"] = 1963,
     ["Dragon's Spine_None"] = 4,
     ["Dragon's Triumph_None"] = 5,
     ["Dragon's Wraith_None"] = 29,
