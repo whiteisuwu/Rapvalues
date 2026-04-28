@@ -2925,7 +2925,7 @@ return {
     ["Moonflower Greatsword_None"] = 3458,
     ["Moonflower Katana Emote_None"] = 203,
     ["Moonflower Katana_Finisher"] = 72576,
-    ["Moonflower Katana_None"] = 16000,
+    ["Moonflower Katana_None"] = 14870,
     ["Moonlight Blade_None"] = 76,
     ["Moonlight Bliss_None"] = 22,
     ["Moonlight Bow_None"] = 60,
