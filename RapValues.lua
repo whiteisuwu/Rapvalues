@@ -2337,7 +2337,7 @@ return {
     ["Haunted Dance_None"] = 10,
     ["Haunted Edge_None"] = 9,
     ["Haunted Ember_None"] = 4,
-    ["Haunted Harvester_None"] = 2844,
+    ["Haunted Harvester_None"] = 800,
     ["Haunted Jiggle_None"] = 8,
     ["Haunted Love_None"] = 172,
     ["Haunting Edge_None"] = 7,
