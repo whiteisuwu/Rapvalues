@@ -1930,7 +1930,7 @@ return {
     ["Flower Katana_None"] = 153,
     ["Flower Sword_None"] = 5,
     ["Flower's Garden_None"] = 89,
-    ["Flowering Sword_None"] = 5742,
+    ["Flowering Sword_None"] = 3000,
     ["Flowing Fists_None"] = 1002,
     ["Flowing Katana_None"] = 2000000,
     ["Flowing Waterblade_None"] = 53,
