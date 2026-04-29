@@ -612,7 +612,7 @@ return {
     ["Celestial Spear_None"] = 13990,
     ["Celestial Staff_None"] = 18350,
     ["Celestial Vanguard_None"] = 7,
-    ["Celestial Whisper_None"] = 17000,
+    ["Celestial Whisper_None"] = 17109,
     ["Cerberus_None"] = 5,
     ["Cerberus' Fang_None"] = 5,
     ["Cha Cha Slide_None"] = 22,
