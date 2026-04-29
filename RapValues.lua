@@ -79,7 +79,7 @@ return {
     ["Amethyst Blade_None"] = 14,
     ["Amethyst Bloomblade_None"] = 1927,
     ["Amethyst Dagger_None"] = 20,
-    ["Amethyst Fireblade_None"] = 1000,
+    ["Amethyst Fireblade_None"] = 800,
     ["Amethyst Greatsword_None"] = 119908,
     ["Amethyst Slicer_None"] = 0,
     ["Amethyst Sunblade_None"] = 3,
