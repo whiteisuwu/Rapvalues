@@ -2810,7 +2810,7 @@ return {
     ["Luna Bala_None"] = 3188,
     ["Lunar Aegis_None"] = 15,
     ["Lunar Blade_None"] = 11,
-    ["Lunar Bloom_None"] = 11706,
+    ["Lunar Bloom_None"] = 13000,
     ["Lunar Burst_None"] = 45,
     ["Lunar Edge_None"] = 5,
     ["Lunar Fan_None"] = 29,
