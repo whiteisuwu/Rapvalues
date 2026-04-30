@@ -4170,7 +4170,7 @@ return {
     ["Starlight Axe_None"] = 574,
     ["Starlight Saber_None"] = 8,
     ["Starlight Scythe Emote_None"] = 53,
-    ["Starlight Scythe_None"] = 400,
+    ["Starlight Scythe_None"] = 1558,
     ["Starlight Shardblade_None"] = 5,
     ["Starlight Spear_None"] = 11,
     ["Starlit Bloom_None"] = 45,
