@@ -3237,7 +3237,7 @@ return {
     ["Phantom Flight_None"] = 33,
     ["Phantom Greatsword_None"] = 5,
     ["Phantom Howl_None"] = 3,
-    ["Phantom Pact_None"] = 12040,
+    ["Phantom Pact_None"] = 11000,
     ["Phantom Reaper_None"] = 72,
     ["Phantom Reaver_None"] = 5,
     ["Phantom Saber_None"] = 6,
