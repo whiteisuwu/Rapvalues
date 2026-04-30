@@ -2251,7 +2251,7 @@ return {
     ["Gravebone Scythe Emote_None"] = 77,
     ["Gravebone Scythe_None"] = 430,
     ["Gravebone Streak_None"] = 112,
-    ["Gravelight_None"] = 3700,
+    ["Gravelight_None"] = 3713,
     ["Gravepiercer_None"] = 2,
     ["Gravestone_None"] = 44,
     ["Gravewatch Edge_None"] = 10,
