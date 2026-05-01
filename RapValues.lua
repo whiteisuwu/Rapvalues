@@ -1086,7 +1086,7 @@ return {
     ["Draconic Slasher_None"] = 5,
     ["Draconic Twinblade_None"] = 174,
     ["Draconis Emerald_None"] = 22,
-    ["Dracula's Bite_None"] = 386,
+    ["Dracula's Bite_None"] = 250,
     ["Dragon Beam_None"] = 1303,
     ["Dragon Beast_None"] = 5,
     ["Dragon Bite_None"] = 5,
