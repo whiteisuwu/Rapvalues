@@ -2542,7 +2542,7 @@ return {
     ["Inferno Lance Emote_None"] = 54,
     ["Inferno Lance_None"] = 360,
     ["Inferno Nova_None"] = 8,
-    ["Inferno Reaver_None"] = 8579,
+    ["Inferno Reaver_None"] = 2000,
     ["Inferno Rebirth_None"] = 7,
     ["Inferno Scythe_None"] = 1000000,
     ["Inferno Stomp_None"] = 6,
