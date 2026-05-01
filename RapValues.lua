@@ -1260,7 +1260,7 @@ return {
     ["Dual Draconic Blade_None"] = 190,
     ["Dual Draconic Twinblade_None"] = 308,
     ["Dual Dragon Blade Emote_None"] = 84,
-    ["Dual Dragon Slayer_None"] = 5924,
+    ["Dual Dragon Slayer_None"] = 1500,
     ["Dual Dragon Twinblade Emote_None"] = 124,
     ["Dual Dreadborn Blade Emote_None"] = 119,
     ["Dual Dreadborn Blade_None"] = 284,
