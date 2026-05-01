@@ -3520,7 +3520,7 @@ return {
     ["Ranked Season 8 Champion_None"] = 909,
     ["Ranked Season 8 Top 1_None"] = 3000000,
     ["Ranked Season 8 Top 200_None"] = 1265,
-    ["Ranked Season 8 Top 50_None"] = 16413,
+    ["Ranked Season 8 Top 50_None"] = 5000,
     ["Ranked Season 9 Champion_None"] = 19847,
     ["Ranked Season 9 Top 1_None"] = 2500000,
     ["Ranked Season 9 Top 200_None"] = 1264,
