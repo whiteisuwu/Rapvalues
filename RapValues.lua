@@ -1307,7 +1307,7 @@ return {
     ["Dual Frigid Blade_None"] = 154,
     ["Dual Frigid Scythe Emote_None"] = 56,
     ["Dual Frigid Scythe_None"] = 225,
-    ["Dual Frog Blasters_None"] = 615,
+    ["Dual Frog Blasters_None"] = 350,
     ["Dual Frost Blasters_None"] = 2974,
     ["Dual Frost Kunai_None"] = 2610,
     ["Dual Frost Saber_None"] = 156,
