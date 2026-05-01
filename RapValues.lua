@@ -3669,7 +3669,7 @@ return {
     ["Rose Twinblade_None"] = 5295,
     ["Rose Wand_None"] = 47,
     ["Rosecrystal Blade_None"] = 0,
-    ["Rosefire Blade_None"] = 600,
+    ["Rosefire Blade_None"] = 4836,
     ["Rosefire Scythe Emote_None"] = 102,
     ["Rosefire Scythe_None"] = 196,
     ["Rosequartz Fang_None"] = 0,
