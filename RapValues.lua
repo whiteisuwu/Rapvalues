@@ -4549,7 +4549,7 @@ return {
     ["Viral Piercer_None"] = 5692,
     ["Virus Meltdown_None"] = 0,
     ["Viscount's Blade_None"] = 5,
-    ["Vishram_None"] = 46306,
+    ["Vishram_None"] = 35000,
     ["Void Beam_None"] = 61,
     ["Void Blade_None"] = 1068,
     ["Void Blast_None"] = 69,
