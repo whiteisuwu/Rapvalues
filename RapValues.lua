@@ -3382,7 +3382,7 @@ return {
     ["Pulseheart Set Emote_None"] = 322,
     ["Pulseheart Set_None"] = 4070,
     ["Pumpin_None"] = 57,
-    ["Pumpkin Blade_None"] = 6674,
+    ["Pumpkin Blade_None"] = 5900,
     ["Pumpkin Burst_None"] = 5,
     ["Pumpkin Cleaver_None"] = 8,
     ["Pumpkin Fan_None"] = 40,
