@@ -4409,7 +4409,7 @@ return {
     ["Titansteel Saber_None"] = 2,
     ["Tokyo Dancing_None"] = 13,
     ["Told You_None"] = 3,
-    ["Tomb of the Nine Kings_None"] = 224,
+    ["Tomb of the Nine Kings_None"] = 50,
     ["Tomb Riser_None"] = 11,
     ["Tombcarver_None"] = 3,
     ["Tombfang_None"] = 3,
