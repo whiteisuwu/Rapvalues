@@ -2309,7 +2309,7 @@ return {
     ["Hakai Scorpion Emote_None"] = 45,
     ["Hakai Scorpion_None"] = 534,
     ["Hakai!_None"] = 97,
-    ["Halberd_None"] = 4400,
+    ["Halberd_None"] = 4091,
     ["Hallow's Blaster_None"] = 54,
     ["Hallow's Edge_None"] = 40,
     ["Hammer of Light_None"] = 10,
