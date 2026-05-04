@@ -1085,7 +1085,7 @@ return {
     ["Downtown Dancer_None"] = 2,
     ["Draconic Blade_None"] = 106,
     ["Draconic Bow_None"] = 60,
-    ["Draconic Greatsword_None"] = 5715,
+    ["Draconic Greatsword_None"] = 2500,
     ["Draconic Slasher_None"] = 5,
     ["Draconic Twinblade_None"] = 175,
     ["Draconis Emerald_None"] = 22,
