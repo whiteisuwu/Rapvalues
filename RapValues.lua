@@ -2876,7 +2876,7 @@ return {
     ["Medusa's Wraith_None"] = 22,
     ["Megatooth Relic_None"] = 121,
     ["Mellow Rain_None"] = 3,
-    ["Melody of Ruin_None"] = 11000,
+    ["Melody of Ruin_None"] = 15650,
     ["Melon Slice_None"] = 2,
     ["Meltinglight_None"] = 7,
     ["Meme Destroyer_None"] = 46,
