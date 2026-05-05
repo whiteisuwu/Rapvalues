@@ -2658,7 +2658,7 @@ return {
     ["Kitsune_None"] = 69324,
     ["Kitty Katana Emote_None"] = 524,
     ["Kitty Katana Explosion_None"] = 2113,
-    ["Kitty Katana_None"] = 8754,
+    ["Kitty Katana_None"] = 8900,
     ["Kitty Launcher Emote_None"] = 2455,
     ["Kitty Launcher_None"] = 17736,
     ["Kitty Rocket_None"] = 9072,
