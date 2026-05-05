@@ -684,7 +684,7 @@ return {
     ["Chroma Ninja Star_None"] = 3446,
     ["Chroma Oni Katana Emote_None"] = 731,
     ["Chroma Oni Katana Explosion_None"] = 1135,
-    ["Chroma Oni Katana_None"] = 7400,
+    ["Chroma Oni Katana_None"] = 6638,
     ["Chroma Pearlblade_None"] = 650,
     ["Chroma Scythe Emote_None"] = 1087,
     ["Chroma Scythe Explosion_None"] = 608,
