@@ -3238,7 +3238,7 @@ return {
     ["Petalblade_None"] = 4,
     ["Petalflare Burst_None"] = 969761,
     ["Petty Clap_None"] = 4,
-    ["Phantom Blade_None"] = 914,
+    ["Phantom Blade_None"] = 100,
     ["Phantom Burst_None"] = 7,
     ["Phantom Chase_None"] = 100,
     ["Phantom Cleaver_None"] = 6,
