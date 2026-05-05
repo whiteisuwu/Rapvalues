@@ -45,7 +45,7 @@ return {
     ["Aetherial Gate_None"] = 54,
     ["Aetherial Kunai_None"] = 193,
     ["Aetherial Lance Emote_None"] = 82,
-    ["Aetherial Lance_None"] = 5956,
+    ["Aetherial Lance_None"] = 500,
     ["Aetherion_None"] = 2033,
     ["Aethertech Blade_None"] = 83110,
     ["Aetherwatch Blade_None"] = 178,
