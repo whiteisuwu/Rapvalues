@@ -2593,7 +2593,7 @@ return {
     ["Jack Triumph_None"] = 0,
     ["Jack-O-Lantern Blast_None"] = 10,
     ["Jack's Grin_None"] = 10,
-    ["Jackolantern_Finisher"] = 19771,
+    ["Jackolantern_Finisher"] = 21400,
     ["Jackolantern_None"] = 14400,
     ["Jackpot Dance_None"] = 20,
     ["Jackpot Detonation_None"] = 7,
