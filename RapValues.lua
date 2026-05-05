@@ -2594,7 +2594,7 @@ return {
     ["Jack-O-Lantern Blast_None"] = 10,
     ["Jack's Grin_None"] = 10,
     ["Jackolantern_Finisher"] = 19771,
-    ["Jackolantern_None"] = 13693,
+    ["Jackolantern_None"] = 14400,
     ["Jackpot Dance_None"] = 20,
     ["Jackpot Detonation_None"] = 7,
     ["Jade Branch Sword_None"] = 0,
