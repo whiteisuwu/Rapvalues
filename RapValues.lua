@@ -4056,7 +4056,7 @@ return {
     ["Sonic Boom_None"] = 7,
     ["SorceryRig_None"] = 0,
     ["Soul Blade_None"] = 6,
-    ["Soul Counter_None"] = 2728,
+    ["Soul Counter_None"] = 2000,
     ["Soul Dance_None"] = 8,
     ["Soul Drain_None"] = 20,
     ["Soul Lantern_None"] = 300,
