@@ -3043,7 +3043,7 @@ return {
     ["New Years Greatsword_None"] = 668272,
     ["New Years Slicer_None"] = 4876,
     ["New Years Staff_None"] = 12,
-    ["Nifty's Blade_None"] = 1200,
+    ["Nifty's Blade_None"] = 7725,
     ["Night Raver_None"] = 1306,
     ["Nightblade_None"] = 3,
     ["Nightclaw Blade_None"] = 63,
