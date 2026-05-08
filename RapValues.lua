@@ -2643,7 +2643,7 @@ return {
     ["Kimchi Bulgogi_None"] = 41,
     ["King and Queen_None"] = 119,
     ["King Blade_Finisher"] = 33253,
-    ["King Blade_None"] = 10812,
+    ["King Blade_None"] = 12000,
     ["King Explosion_None"] = 472,
     ["King Throne_None"] = 3341,
     ["King's Catalyst_None"] = 25,
