@@ -4396,7 +4396,7 @@ return {
     ["Thor's Hammer_None"] = 0,
     ["Thornblade_None"] = 4,
     ["Thorned Coilblade_None"] = 2555555,
-    ["Thorned Sovereign_None"] = 1776,
+    ["Thorned Sovereign_None"] = 2000,
     ["Thornling Dagger_None"] = 3,
     ["Thronebreaker_None"] = 5,
     ["Thunder Blade_None"] = 37,
