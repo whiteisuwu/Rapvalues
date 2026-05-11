@@ -1102,7 +1102,7 @@ return {
     ["Dragon Katana_None"] = 1751,
     ["Dragon Runes_None"] = 68,
     ["Dragon Scythe_None"] = 461,
-    ["Dragon Slayer_None"] = 1600,
+    ["Dragon Slayer_None"] = 7191,
     ["Dragon Spirit Spear_None"] = 6,
     ["Dragon Spirit Sword_None"] = 6,
     ["Dragon Sword_None"] = 4,
