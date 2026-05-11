@@ -1810,7 +1810,7 @@ return {
     ["Evergreen Greatblade_None"] = 13,
     ["Everything is Amazing!_None"] = 3,
     ["Evil Blast_None"] = 4,
-    ["Evil Cyborg Blade_None"] = 1000,
+    ["Evil Cyborg Blade_None"] = 1827,
     ["Evil Deal_None"] = 2389,
     ["Evil Slicer_None"] = 3,
     ["Evil Spike Pit_None"] = 3,
