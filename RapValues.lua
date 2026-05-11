@@ -3689,7 +3689,7 @@ return {
     ["Rose Bow Emote_None"] = 88,
     ["Rose Bow_None"] = 371,
     ["Rose Gas_None"] = 79,
-    ["Rose Gift_None"] = 8800,
+    ["Rose Gift_None"] = 8655,
     ["Rose Greatsword_None"] = 1000000,
     ["Rose Mirage Bloom_None"] = 46,
     ["Rose Petal Rupture_None"] = 11,
