@@ -1403,7 +1403,7 @@ return {
     ["Dual Lily Blade_None"] = 358,
     ["Dual Love Blade_None"] = 290,
     ["Dual Love Sickle Emote_None"] = 15,
-    ["Dual Love Sickle_Finisher"] = 937,
+    ["Dual Love Sickle_Finisher"] = 1250,
     ["Dual Love Sickle_None"] = 317,
     ["Dual Loveclaw Blade Emote_None"] = 104,
     ["Dual Loveclaw Blade_None"] = 373,
