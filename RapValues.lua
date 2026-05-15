@@ -2764,7 +2764,7 @@ return {
     ["Lilies Bloom_None"] = 61,
     ["Lily Blade_None"] = 132,
     ["Lily Katana Emote_None"] = 246,
-    ["Lily Katana_None"] = 4367,
+    ["Lily Katana_None"] = 4600,
     ["Lily Parasol Emote_None"] = 102,
     ["Lily Parasol_None"] = 974,
     ["LIly Strike_None"] = 401,
