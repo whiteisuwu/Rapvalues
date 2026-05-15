@@ -1759,7 +1759,7 @@ return {
     ["Enchanted Cleaver_None"] = 22,
     ["Enchanted Demise_None"] = 6,
     ["Enchanted Explosion_None"] = 0,
-    ["Enchanted Greatsword_None"] = 16009,
+    ["Enchanted Greatsword_None"] = 3000,
     ["Enchanted Roseblade_None"] = 21,
     ["Encrypted Dagger_None"] = 2,
     ["Encrypted Grenade_None"] = 5,
