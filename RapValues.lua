@@ -4276,7 +4276,7 @@ return {
     ["Sunburst Axe_None"] = 32,
     ["Sundown Blade_None"] = 35,
     ["Sundrop's Edge_None"] = 10,
-    ["Sundue Slash_None"] = 16000,
+    ["Sundue Slash_None"] = 25095,
     ["Sunfire Sword_None"] = 5,
     ["Sunfire's Flare_None"] = 8,
     ["Sunflare Blade_None"] = 5,
