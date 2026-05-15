@@ -2230,7 +2230,7 @@ return {
     ["Golden Egg Implosion_None"] = 4,
     ["Golden Eggsmite_None"] = 4,
     ["Golden Eruption_None"] = 4,
-    ["Golden Fang_None"] = 1342,
+    ["Golden Fang_None"] = 500,
     ["Golden Flare_None"] = 10,
     ["Golden Gauntlets_None"] = 38,
     ["Golden Harvest_None"] = 39,
