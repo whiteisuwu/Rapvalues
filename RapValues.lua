@@ -1691,7 +1691,7 @@ return {
     ["Eggshell Shardblade_None"] = 5,
     ["Eggsplitter Blade_None"] = 3,
     ["Eggsplosive Confidence_None"] = 46,
-    ["Eggsplosive Exit_None"] = 913,
+    ["Eggsplosive Exit_None"] = 600,
     ["Eggstorm Swarm_None"] = 4,
     ["Eggtastrophe_None"] = 12,
     ["EGO_None"] = 32,
