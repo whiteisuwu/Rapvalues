@@ -530,7 +530,7 @@ return {
     ["Bunny Byte_None"] = 3,
     ["Bunny Conga_None"] = 81,
     ["Bunny Imitation_None"] = 162,
-    ["Bunny Staff_None"] = 100,
+    ["Bunny Staff_None"] = 1704,
     ["Bunny_Finisher"] = 251407,
     ["Bunny_None"] = 72579,
     ["Bunny's Apprenticeblade_None"] = 27,
