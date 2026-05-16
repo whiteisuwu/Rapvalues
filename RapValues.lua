@@ -146,7 +146,7 @@ return {
     ["Ashen Crescent_None"] = 3,
     ["Ashen Edge_None"] = 5,
     ["Ashen Fang_None"] = 8,
-    ["Ashfall_None"] = 4,
+    ["Ashfall_None"] = 340,
     ["Assassins Regime_None"] = 35,
     ["Assumptions_None"] = 86,
     ["Asteroid Burst_None"] = 7,
