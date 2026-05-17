@@ -3759,7 +3759,7 @@ return {
     ["Sakura Fan_None"] = 181,
     ["Sakura Katana_None"] = 2229,
     ["Sakura Parasol Emote_None"] = 272,
-    ["Sakura Parasol_None"] = 1960,
+    ["Sakura Parasol_None"] = 1400,
     ["Sakura Scythe_None"] = 111,
     ["Sakura Season_None"] = 145,
     ["Sakura_None"] = 2,
