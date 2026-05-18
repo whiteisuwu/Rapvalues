@@ -4689,7 +4689,7 @@ return {
     ["Waterplosion_None"] = 18977,
     ["Wave Rider_None"] = 10,
     ["Wavelight Greatblade_None"] = 74,
-    ["Wavelight_None"] = 400,
+    ["Wavelight_None"] = 739,
     ["We're Doomed_None"] = 3,
     ["Wealth Cutter_None"] = 2,
     ["Web Slinger_None"] = 22,
