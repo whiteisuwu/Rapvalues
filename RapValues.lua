@@ -4144,7 +4144,7 @@ return {
     ["Spiked Club_None"] = 5,
     ["Spinalis Emote_None"] = 1104,
     ["Spinalis Explosion_None"] = 2393,
-    ["Spinalis_None"] = 4458,
+    ["Spinalis_None"] = 10000,
     ["Spine Chiller_None"] = 3,
     ["Spinjitzu [DUAL YIN YANG KATANA]_None"] = 24,
     ["Spinjitzu!_None"] = 24,
