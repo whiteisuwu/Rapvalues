@@ -3465,7 +3465,7 @@ return {
     ["Quasar Piercer_None"] = 6,
     ["Quasar Sparkblade_None"] = 5,
     ["Queen Blade_Finisher"] = 54568,
-    ["Queen Blade_None"] = 21463,
+    ["Queen Blade_None"] = 29000,
     ["Queen Explosion_None"] = 706,
     ["Queen Throne_None"] = 5243,
     ["Quick Spin_None"] = 3,
