@@ -821,7 +821,7 @@ return {
     ["Cosmic Storm_None"] = 54,
     ["Cosmic Stride_None"] = 6,
     ["Cosmic Wraithclaws_None"] = 73,
-    ["Cosmic Wrath_None"] = 45930,
+    ["Cosmic Wrath_None"] = 38000,
     ["Countdown Cutter_None"] = 12,
     ["Countdown Edge_None"] = 6,
     ["Countdown Spark_None"] = 4,
