@@ -181,7 +181,7 @@ return {
     ["Augmented Saber_None"] = 7,
     ["Aura Farming_None"] = 10,
     ["Aurelfrost Fang_None"] = 6,
-    ["Aurelius_None"] = 61938,
+    ["Aurelius_None"] = 65000,
     ["Aurora Antlers_None"] = 7,
     ["Aurora Blade_None"] = 12,
     ["Aurora Bow_None"] = 227,
