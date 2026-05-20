@@ -3776,7 +3776,7 @@ return {
     ["Samurai Katana_None"] = 452,
     ["Samurai Rampage_None"] = 151,
     ["Samurai Tsujigiri_None"] = 58,
-    ["Samurai's Backblade_None"] = 20000,
+    ["Samurai's Backblade_None"] = 24775,
     ["Samurai's Set Emote_None"] = 31,
     ["Samurai's Set_Finisher"] = 837,
     ["Samurai's Set_None"] = 465,
