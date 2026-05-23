@@ -3398,7 +3398,7 @@ return {
     ["Prince Blade_None"] = 2126,
     ["Princess Explosion_None"] = 49,
     ["Princess Katana_None"] = 1519,
-    ["Prismatic Cloud Rain_None"] = 3706,
+    ["Prismatic Cloud Rain_None"] = 1500,
     ["Prismatic Explosion_None"] = 23,
     ["Prismatic Harvester Emote_None"] = 21,
     ["Prismatic Harvester_None"] = 107,
