@@ -2899,7 +2899,7 @@ return {
     ["Melon Slice_None"] = 2,
     ["Meltinglight_None"] = 5,
     ["Meme Destroyer_None"] = 41,
-    ["Menacing_None"] = 644,
+    ["Menacing_None"] = 300,
     ["Meowplosion_None"] = 1250,
     ["Meowstruck_None"] = 1185,
     ["Mermaid's Blessing_None"] = 13,
