@@ -2977,7 +2977,7 @@ return {
     ["Mortal's Demise_None"] = 63365,
     ["Mother Nature_None"] = 5,
     ["Mothyx Awakening_None"] = 61,
-    ["Mothyx Blade_None"] = 5021,
+    ["Mothyx Blade_None"] = 400,
     ["Mothyx Guard_None"] = 47,
     ["Mothyx Scissors Emote_None"] = 77,
     ["Mothyx Scissors_None"] = 489,
