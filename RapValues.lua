@@ -75,7 +75,7 @@ return {
     ["Amber Edge Emote_None"] = 123,
     ["Amber Edge_None"] = 72,
     ["Amber Saber_None"] = 9,
-    ["Amethyst Backblade_None"] = 2693,
+    ["Amethyst Backblade_None"] = 2000,
     ["Amethyst Blade_None"] = 518,
     ["Amethyst Bloomblade_None"] = 1927,
     ["Amethyst Dagger_None"] = 15,
