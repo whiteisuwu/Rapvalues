@@ -2422,7 +2422,7 @@ return {
     ["Hellfire Blade Level 2_None"] = 9,
     ["Hellfire Blade Level 3_None"] = 29,
     ["Hellfire Burst_None"] = 7,
-    ["Hellfire King_None"] = 3525,
+    ["Hellfire King_None"] = 2200,
     ["Hellfire Shadowslicer_None"] = 5,
     ["Hellfire Surge_None"] = 7,
     ["Hellish Landscape_None"] = 57,
