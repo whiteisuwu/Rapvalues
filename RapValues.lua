@@ -3032,7 +3032,7 @@ return {
     ["Necrotic Ruler_None"] = 426,
     ["Needle Connection Explosion_None"] = 114,
     ["Nemesis Blade_None"] = 5,
-    ["Neo-Neko Katana_None"] = 403,
+    ["Neo-Neko Katana_None"] = 250,
     ["Neo-Neko Needle_None"] = 136,
     ["Neon Burst_None"] = 6,
     ["Neon Cutter_None"] = 3,
