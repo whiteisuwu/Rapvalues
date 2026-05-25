@@ -3405,7 +3405,7 @@ return {
     ["Prince Blade_None"] = 2153,
     ["Princess Explosion_None"] = 49,
     ["Princess Katana_None"] = 1907,
-    ["Prismatic Cloud Rain_None"] = 900,
+    ["Prismatic Cloud Rain_None"] = 2346,
     ["Prismatic Explosion_None"] = 23,
     ["Prismatic Gem Blade_None"] = 0,
     ["Prismatic Gem Scythe_None"] = 0,
