@@ -1007,7 +1007,7 @@ return {
     ["Dawnstep Edge_None"] = 14,
     ["Deadeye Glacier_None"] = 7,
     ["Deadman's Edge_None"] = 7,
-    ["Death Call Blade_None"] = 350,
+    ["Death Call Blade_None"] = 502,
     ["Death Call Scythe_None"] = 52,
     ["Death Call Timer_None"] = 39,
     ["Deathpiercer_None"] = 0,
