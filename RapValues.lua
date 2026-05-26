@@ -735,7 +735,7 @@ return {
     ["Clockwork Cutter_None"] = 10,
     ["Closer_None"] = 20,
     ["Cloud 9_None"] = 163,
-    ["Cloud Emote_None"] = 900,
+    ["Cloud Emote_None"] = 1694,
     ["Cloud Puff_None"] = 7,
     ["Cloud Rapier_None"] = 3,
     ["Cloud Summon_None"] = 125375,
