@@ -680,7 +680,7 @@ return {
     ["Chroma Fragment_None"] = 4,
     ["Chroma Ninja Katana Emote_None"] = 730,
     ["Chroma Ninja Katana_Finisher"] = 51386,
-    ["Chroma Ninja Katana_None"] = 25000,
+    ["Chroma Ninja Katana_None"] = 15124,
     ["Chroma Ninja Star Emote_None"] = 286,
     ["Chroma Ninja Star Explosion_None"] = 860,
     ["Chroma Ninja Star_None"] = 3441,
