@@ -3023,7 +3023,7 @@ return {
     ["Nebula Staff_None"] = 24,
     ["Nebula Sword_None"] = 4,
     ["Nebula Warrior_None"] = 2516,
-    ["Nebula Yoru_None"] = 7380,
+    ["Nebula Yoru_None"] = 200,
     ["Nebula's Lightning_None"] = 126,
     ["Necro Detonation_None"] = 3,
     ["Necro Fang_None"] = 2,
