@@ -2673,7 +2673,7 @@ return {
     ["King's Catalyst_None"] = 33,
     ["King's Judgement_None"] = 7,
     ["King's Valor_None"] = 8,
-    ["Kingdom's Blade_None"] = 13000,
+    ["Kingdom's Blade_None"] = 21586,
     ["Kings Call_None"] = 0,
     ["Kingsguard's Edge_None"] = 94,
     ["Kitchen Knife_None"] = 2,
