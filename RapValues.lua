@@ -3046,7 +3046,7 @@ return {
     ["Neon Shard_None"] = 5,
     ["Neon Slasher_None"] = 6,
     ["Neon Slicer_None"] = 3,
-    ["Neon Tempest_None"] = 1500,
+    ["Neon Tempest_None"] = 1718,
     ["Neon Viper_None"] = 738,
     ["Netherfang_None"] = 34,
     ["Neural Error_None"] = 2,
