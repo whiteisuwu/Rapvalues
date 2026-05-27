@@ -4757,7 +4757,7 @@ return {
     ["Winter Warrior Emote_None"] = 581,
     ["Winter Warrior_None"] = 218,
     ["Winter Wizard_None"] = 9,
-    ["Winter Wolf Emote_None"] = 5047,
+    ["Winter Wolf Emote_None"] = 1000,
     ["Winter Wolf Explosion_None"] = 2060,
     ["Winter Wolf_None"] = 18864,
     ["Winter Wolf_SwordAccessory"] = 53879,
