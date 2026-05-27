@@ -4007,7 +4007,7 @@ return {
     ["Slime Pop_None"] = 3,
     ["Slime Splash_None"] = 4,
     ["Slime Sword_None"] = 8,
-    ["Slime_None"] = 6391,
+    ["Slime_None"] = 7300,
     ["Slipstream Collapse_None"] = 6,
     ["Slow Clap_None"] = 0,
     ["Smelted Slice_None"] = 48,
