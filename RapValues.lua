@@ -1664,7 +1664,7 @@ return {
     ["Eclipse Desire_None"] = 58,
     ["Eclipse Edge_None"] = 33,
     ["Eclipse Fang_None"] = 0,
-    ["Eclipse Gleam_None"] = 267,
+    ["Eclipse Gleam_None"] = 150,
     ["Eclipse Monarch_None"] = 0,
     ["Eclipse Reaver_None"] = 5248,
     ["Eclipse Ritual_None"] = 7,
