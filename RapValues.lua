@@ -754,7 +754,7 @@ return {
     ["Coffin Emote_None"] = 1364,
     ["Coffin Eruption_None"] = 4,
     ["Coffin Explosion_None"] = 6500,
-    ["Coffin_None"] = 7775,
+    ["Coffin_None"] = 9000,
     ["Coiled Blade_None"] = 272,
     ["Coin Toss_None"] = 18,
     ["Cold Breeze_None"] = 4,
