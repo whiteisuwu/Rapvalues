@@ -2925,7 +2925,7 @@ return {
     ["Midnight Starburst_None"] = 0,
     ["Midsummer Blade_None"] = 11,
     ["Mighty Ninja's Racket_None"] = 0,
-    ["Milk & Cookies_None"] = 2716,
+    ["Milk & Cookies_None"] = 3000,
     ["Mini Glitch_None"] = 2,
     ["Mini Pal_None"] = 27,
     ["Mirage's Edge_None"] = 3,
