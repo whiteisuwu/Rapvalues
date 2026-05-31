@@ -2373,7 +2373,7 @@ return {
     ["Haunted Love_None"] = 152,
     ["Haunting Edge_None"] = 6,
     ["Hazardous Omen_None"] = 8,
-    ["Hazy Katana_None"] = 382,
+    ["Hazy Katana_None"] = 140,
     ["Hazy Scythe_None"] = 923,
     ["Hazy Smile Explosion_None"] = 58,
     ["Head Spin_None"] = 5,
