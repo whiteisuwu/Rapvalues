@@ -4449,7 +4449,7 @@ return {
     ["Tidepiercer_None"] = 4,
     ["Tidewither_None"] = 1500000,
     ["Tiger FR_None"] = 0,
-    ["Tiger Katana Explosion_None"] = 310,
+    ["Tiger Katana Explosion_None"] = 582,
     ["Tiger Shark_None"] = 3,
     ["Tiger_None"] = 0,
     ["Tiger's Katana Emote_None"] = 585,
