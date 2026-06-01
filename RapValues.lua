@@ -3931,7 +3931,7 @@ return {
     ["Shattered Sword_None"] = 262,
     ["Shatterflight Bird Emote_None"] = 455,
     ["Shatterflight Bird Explosion_None"] = 2252,
-    ["Shatterflight Bird_None"] = 4166,
+    ["Shatterflight Bird_None"] = 6500,
     ["Shatterstorm_None"] = 7,
     ["Shatterthorn_None"] = 7,
     ["Shell Pop_None"] = 4,
