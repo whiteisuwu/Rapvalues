@@ -3075,7 +3075,7 @@ return {
     ["New Years Slicer_None"] = 9775,
     ["New Years Staff_None"] = 12,
     ["Nifty's Blade_None"] = 301,
-    ["Night Raver_None"] = 1400,
+    ["Night Raver_None"] = 1793,
     ["Nightblade_None"] = 2,
     ["Nightclaw Blade_None"] = 70,
     ["Nightclaw Hole_None"] = 45,
