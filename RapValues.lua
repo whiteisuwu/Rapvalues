@@ -3246,7 +3246,7 @@ return {
     ["Peachborne Fan_None"] = 955,
     ["Pearl Angel Katana Emote_None"] = 223,
     ["Pearl Angel Katana Explosion_None"] = 334,
-    ["Pearl Angel Katana_None"] = 2789,
+    ["Pearl Angel Katana_None"] = 2400,
     ["Pearl Dagger_None"] = 8,
     ["Pearl Shard_None"] = 100,
     ["Pearl Trident_None"] = 28,
