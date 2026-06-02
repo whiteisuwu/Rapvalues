@@ -692,7 +692,7 @@ return {
     ["Chroma Pearlblade_None"] = 652,
     ["Chroma Scythe Emote_None"] = 1520,
     ["Chroma Scythe Explosion_None"] = 612,
-    ["Chroma Scythe_None"] = 7600,
+    ["Chroma Scythe_None"] = 7334,
     ["Chroma Seal_None"] = 30262,
     ["Chroma Shortaxe_None"] = 504,
     ["Chroma Shuriken_Finisher"] = 1077,
