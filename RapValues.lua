@@ -3371,7 +3371,7 @@ return {
     ["Poison Strike_None"] = 6,
     ["Poisoned Bunny Emote_None"] = 469,
     ["Poisoned Bunny Explosion_None"] = 566,
-    ["Poisoned Bunny_None"] = 3655,
+    ["Poisoned Bunny_None"] = 4000,
     ["Poisoned_None"] = 93,
     ["Polar Bear Emote_None"] = 2442,
     ["Polar Bear Pop_None"] = 15705,
