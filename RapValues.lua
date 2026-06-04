@@ -1932,7 +1932,7 @@ return {
     ["Flame Sword_None"] = 4,
     ["Flamechip Blade_None"] = 4,
     ["Flaming Heart Sparks_None"] = 5,
-    ["Flaming Sword_None"] = 3000,
+    ["Flaming Sword_None"] = 2878,
     ["Flamingo Slayer_None"] = 1000005,
     ["Flashback Butterfly Blade_None"] = 140,
     ["Flashback Butterfly Scythe_None"] = 27,
