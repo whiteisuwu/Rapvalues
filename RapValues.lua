@@ -434,7 +434,7 @@ return {
     ["Bloom Shuriken_None"] = 61802,
     ["Bloomfire_None"] = 45,
     ["Blooming Flower_None"] = 11,
-    ["Blooming Katana_None"] = 11123,
+    ["Blooming Katana_None"] = 7500,
     ["Bloomlight Greatscythe_None"] = 0,
     ["Bloomveil Burst_None"] = 366,
     ["Bloomveil Kunai_None"] = 405,
