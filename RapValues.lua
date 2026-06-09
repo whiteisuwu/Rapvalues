@@ -832,7 +832,7 @@ return {
     ["Court Dominator_None"] = 4,
     ["Court Justice_None"] = 47,
     ["Cowboy's Capture_None"] = 4,
-    ["Crab Rave_None"] = 3819,
+    ["Crab Rave_None"] = 3000,
     ["Crab's Cutlass_None"] = 11,
     ["Crane Wing_None"] = 9,
     ["Crazy Crazy_None"] = 6,
