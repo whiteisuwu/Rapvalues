@@ -4776,7 +4776,7 @@ return {
     ["Winter Wizard_None"] = 8,
     ["Winter Wolf Emote_None"] = 420,
     ["Winter Wolf Explosion_None"] = 1996,
-    ["Winter Wolf_None"] = 11475,
+    ["Winter Wolf_None"] = 17000,
     ["Winter Wolf_SwordAccessory"] = 46673,
     ["Winter Wreath Toss_None"] = 4,
     ["Winter's Aurora_None"] = 13,
