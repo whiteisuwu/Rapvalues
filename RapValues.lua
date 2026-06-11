@@ -3315,7 +3315,7 @@ return {
     ["Photon Wave_None"] = 3,
     ["Pickaxe_None"] = 2,
     ["Piggy Back Ride_None"] = 51,
-    ["Pillow_None"] = 1200,
+    ["Pillow_None"] = 1950,
     ["Pine Blade_None"] = 3,
     ["Pine Shard_None"] = 4,
     ["Pine Spirit_None"] = 6,
