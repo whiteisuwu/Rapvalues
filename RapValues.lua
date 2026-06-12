@@ -2490,7 +2490,7 @@ return {
     ["Hot Feet_None"] = 10,
     ["Hot Hands_None"] = 5,
     ["Hotdog Sword_None"] = 7,
-    ["Hug_None"] = 15848,
+    ["Hug_None"] = 17000,
     ["Hula Hoop_None"] = 120,
     ["Hungry Shadows_None"] = 4,
     ["Hunter's Hands_None"] = 6,
