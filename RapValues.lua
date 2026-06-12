@@ -3620,7 +3620,7 @@ return {
     ["Red Moon Katana_None"] = 0,
     ["Red Ninja Katana Emote_None"] = 229,
     ["Red Ninja Katana_Finisher"] = 16419,
-    ["Red Ninja Katana_None"] = 5307,
+    ["Red Ninja Katana_None"] = 5600,
     ["Red Ninja Star Emote_None"] = 140,
     ["Red Ninja Star Explosion_None"] = 306,
     ["Red Ninja Star_None"] = 1547,
