@@ -1790,7 +1790,7 @@ return {
     ["Eternal Edge_None"] = 6,
     ["Eternal Ice_None"] = 11,
     ["Eternal Nightmare_None"] = 1162,
-    ["Eternal Piercer_None"] = 22000,
+    ["Eternal Piercer_None"] = 13991,
     ["Eternal Rupture_None"] = 7,
     ["Eternal Scythe_Finisher"] = 44432,
     ["Eternal Scythe_None"] = 2688,
