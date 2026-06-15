@@ -2757,7 +2757,7 @@ return {
     ["LEGO® Spear_None"] = 7,
     ["LEGO® Staff_None"] = 10,
     ["LEGO® Sword_None"] = 8,
-    ["Legs Kickin'_None"] = 7800,
+    ["Legs Kickin'_None"] = 7379,
     ["Lemonade Slicer_None"] = 16382,
     ["Lemonade Stand_None"] = 29,
     ["Let it Snow_None"] = 6,
