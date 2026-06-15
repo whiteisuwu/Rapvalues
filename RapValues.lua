@@ -106,7 +106,7 @@ return {
     ["Angel Greatsword Emote_None"] = 351,
     ["Angel Greatsword_None"] = 3096,
     ["Angelic Blaster_None"] = 107,
-    ["Angelic Cleaver_None"] = 91442,
+    ["Angelic Cleaver_None"] = 38000,
     ["Angelic Extraction_None"] = 23,
     ["Anger Management_None"] = 12,
     ["Angry Canaries Racket_None"] = 0,
