@@ -104,7 +104,7 @@ return {
     ["Andromeda Slice_None"] = 0,
     ["Angel Blasters Emote_None"] = 24,
     ["Angel Greatsword Emote_None"] = 350,
-    ["Angel Greatsword_None"] = 3000,
+    ["Angel Greatsword_None"] = 3039,
     ["Angelic Blaster_None"] = 107,
     ["Angelic Cleaver_None"] = 45000,
     ["Angelic Extraction_None"] = 24,
