@@ -491,7 +491,7 @@ return {
     ["Boom Shaka Laka_None"] = 7,
     ["Boost Me Up!_None"] = 10,
     ["Boreal Frostreaver_None"] = 1088,
-    ["Borealis_Finisher"] = 21191,
+    ["Borealis_Finisher"] = 40000,
     ["Borealis_None"] = 26089,
     ["Boundless Reaver_None"] = 5,
     ["Bounty Claimed_None"] = 200,
