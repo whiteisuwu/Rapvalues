@@ -943,7 +943,7 @@ return {
     ["Cursed Inferno_None"] = 25,
     ["Cursed Ink_None"] = 7,
     ["Cursed Levitation_None"] = 8,
-    ["Cursed Obsession_None"] = 12000,
+    ["Cursed Obsession_None"] = 23479,
     ["Cursed Pact_None"] = 8,
     ["Cursed Pop_None"] = 4,
     ["Cursed Relic Greatblade_None"] = 7100000,
