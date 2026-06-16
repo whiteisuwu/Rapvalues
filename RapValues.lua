@@ -802,7 +802,7 @@ return {
     ["Corrupted Duality_None"] = 8,
     ["Corrupted Fan Emote_None"] = 118,
     ["Corrupted Fan_None"] = 1231,
-    ["Corrupted Frostblade_None"] = 23000,
+    ["Corrupted Frostblade_None"] = 51203,
     ["Corrupted Garden_None"] = 73,
     ["Corrupted Halberd_None"] = 5,
     ["Corrupted Heartbreaker_None"] = 4,
