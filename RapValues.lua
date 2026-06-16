@@ -1827,7 +1827,7 @@ return {
     ["Everything is Amazing!_None"] = 4,
     ["Evil Blast_None"] = 4,
     ["Evil Cyborg Blade_None"] = 768,
-    ["Evil Deal_None"] = 2207,
+    ["Evil Deal_None"] = 2600,
     ["Evil Runics Blade_None"] = 0,
     ["Evil Slicer_None"] = 5,
     ["Evil Spike Pit_None"] = 5,
