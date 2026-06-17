@@ -1083,7 +1083,7 @@ return {
     ["Domino Dancing_None"] = 6,
     ["Doodle_None"] = 10,
     ["Doom's Whisper_None"] = 560,
-    ["Doomflare_None"] = 18000,
+    ["Doomflare_None"] = 10,
     ["Door Dance_None"] = 120,
     ["Doryu's Blade_None"] = 6,
     ["Double Dab_None"] = 6,
