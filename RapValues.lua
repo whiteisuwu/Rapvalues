@@ -492,7 +492,7 @@ return {
     ["Boost Me Up!_None"] = 11,
     ["Boreal Frostreaver_None"] = 1291,
     ["Borealis_Finisher"] = 30867,
-    ["Borealis_None"] = 25000,
+    ["Borealis_None"] = 25282,
     ["Boundless Reaver_None"] = 5,
     ["Bounty Claimed_None"] = 195,
     ["Bowtie Blade_None"] = 4,
