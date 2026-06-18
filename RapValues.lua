@@ -672,7 +672,7 @@ return {
     ["Chroma Ban Hammer_None"] = 0,
     ["Chroma Blade Emote_None"] = 499,
     ["Chroma Blade Explosion_None"] = 1157,
-    ["Chroma Blade_Finisher"] = 44471,
+    ["Chroma Blade_Finisher"] = 50000,
     ["Chroma Blade_None"] = 14200,
     ["Chroma Blaster_None"] = 160,
     ["Chroma Blossom_None"] = 15,
