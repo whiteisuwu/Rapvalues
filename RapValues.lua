@@ -1853,7 +1853,7 @@ return {
     ["Falcon Crest_None"] = 9,
     ["Fallen Angel Emote_None"] = 484,
     ["Fallen Angel Explosion_None"] = 993,
-    ["Fallen Angel_None"] = 19754,
+    ["Fallen Angel_None"] = 19000,
     ["Fallen Cherub's Blade_None"] = 46226,
     ["Fallen Echoes_None"] = 22,
     ["Fallen Sword_None"] = 3,
