@@ -2330,7 +2330,7 @@ return {
     ["guitar lim_None"] = 0,
     ["Gull Wing_None"] = 3,
     ["Gummy Pop_None"] = 4,
-    ["Gyaru Katana_None"] = 200,
+    ["Gyaru Katana_None"] = 206,
     ["Gyaru's Selfie_None"] = 311,
     ["Gymanstic Failure_None"] = 188,
     ["Hacker Explosion_None"] = 5,
