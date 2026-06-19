@@ -4004,7 +4004,7 @@ return {
     ["Sitting_None"] = 2420,
     ["Skeletal Slicer_None"] = 3,
     ["Skeleton Bride Emote_None"] = 523,
-    ["Skeleton Bride_None"] = 5500,
+    ["Skeleton Bride_None"] = 5094,
     ["Skeleton Dance_None"] = 6392,
     ["Skeleton Groove_None"] = 0,
     ["Skeleton Juggle_None"] = 2000000,
