@@ -4297,7 +4297,7 @@ return {
     ["Stormveil_None"] = 4,
     ["Strange Juggling_None"] = 5,
     ["Stratus Blade_None"] = 4,
-    ["Strawberry Cake Blade_None"] = 1609,
+    ["Strawberry Cake Blade_None"] = 300,
     ["Strawberry Cake Lance_None"] = 104,
     ["Streamblade_None"] = 16,
     ["Strings of Fire_None"] = 44,
