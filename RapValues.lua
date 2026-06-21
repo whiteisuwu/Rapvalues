@@ -4235,7 +4235,7 @@ return {
     ["Star Shower_None"] = 9,
     ["Star Wand Emote_None"] = 229,
     ["Star Wand Explosion_None"] = 460,
-    ["Star Wand_None"] = 2741,
+    ["Star Wand_None"] = 3100,
     ["Star-Crossed Waltz_None"] = 11,
     ["Starbloom Blade_None"] = 102,
     ["Starbloom Scythe Emote_None"] = 102,
