@@ -4581,7 +4581,7 @@ return {
     ["Unlikely Foe_None"] = 8,
     ["Unstable Blade_None"] = 6,
     ["Uptown Downtown_None"] = 6,
-    ["Valentine Hearts_None"] = 7330,
+    ["Valentine Hearts_None"] = 8000,
     ["Valentine Love_None"] = 0,
     ["Valkyrien Blade_None"] = 98,
     ["Valkyrien Eyes_None"] = 33,
