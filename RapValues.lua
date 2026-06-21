@@ -1039,7 +1039,7 @@ return {
     ["Destination Beacon_None"] = 68,
     ["Destruction Star_None"] = 60,
     ["Devil Greatsword Emote_None"] = 2928,
-    ["Devil Greatsword_None"] = 3459,
+    ["Devil Greatsword_None"] = 4200,
     ["Devil Hornblade_None"] = 63,
     ["Devil Katana_None"] = 101,
     ["Devil's Curse_None"] = 1152,
