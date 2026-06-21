@@ -539,7 +539,7 @@ return {
     ["Bunny Imitation_None"] = 236,
     ["Bunny Staff_None"] = 68,
     ["Bunny_Finisher"] = 256818,
-    ["Bunny_None"] = 127998,
+    ["Bunny_None"] = 145000,
     ["Bunny's Apprenticeblade_None"] = 20,
     ["Bunny's Edge_None"] = 84,
     ["bunnylimdaggerold_None"] = 0,
