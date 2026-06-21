@@ -745,7 +745,7 @@ return {
     ["Cloud Rapier_None"] = 3,
     ["Cloud Summon_None"] = 86695,
     ["Cloud Sword_None"] = 130,
-    ["Cloud_None"] = 13730,
+    ["Cloud_None"] = 18000,
     ["CloudRig_None"] = 0,
     ["CLOUDSTARS_None"] = 0,
     ["Coal_None"] = 3,
