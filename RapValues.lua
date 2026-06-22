@@ -2715,7 +2715,7 @@ return {
     ["Kraken Scythe Emote_None"] = 113,
     ["Kraken Scythe_None"] = 212,
     ["Kraken Sighting_None"] = 56,
-    ["Kraken_None"] = 7172,
+    ["Kraken_None"] = 7100,
     ["Kraken's Dominion_None"] = 9,
     ["Kraken's Embrace_None"] = 44,
     ["Kraken's Fury_None"] = 62,
