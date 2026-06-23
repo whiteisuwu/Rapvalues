@@ -2817,7 +2817,7 @@ return {
     ["Lotus Meditation_None"] = 19,
     ["Love Blade_None"] = 171,
     ["Love Bow_None"] = 111,
-    ["Love For You_None"] = 9991,
+    ["Love For You_None"] = 9300,
     ["Love Letter_None"] = 11,
     ["Love Pop_None"] = 62,
     ["Love Sickle_None"] = 144,
