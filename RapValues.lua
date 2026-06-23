@@ -3426,7 +3426,7 @@ return {
     ["Present Exchange_None"] = 32,
     ["Presentslicer_None"] = 3,
     ["Pressure Implosion_None"] = 16,
-    ["Prince Blade_None"] = 2192,
+    ["Prince Blade_None"] = 5000,
     ["Princess Explosion_None"] = 55,
     ["Princess Katana_None"] = 272,
     ["Prismatic Cloud Rain_None"] = 1291,
