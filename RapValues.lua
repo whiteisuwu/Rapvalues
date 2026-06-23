@@ -3698,7 +3698,7 @@ return {
     ["Rich Girl_None"] = 0,
     ["Ridin Dancing_None"] = 21,
     ["Ridin' the Scythe [BLACKHOLE SCYTHE]_None"] = 33,
-    ["Rifle_None"] = 2,
+    ["Rifle_None"] = 5000,
     ["Riftflare Blade_None"] = 5260,
     ["Riftflare Curse_None"] = 79,
     ["Riftflare Katana Emote_None"] = 154,
