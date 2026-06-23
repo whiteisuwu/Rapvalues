@@ -3465,7 +3465,7 @@ return {
     ["Pumpkin Throw_None"] = 8,
     ["Pumpkin Toss_None"] = 4,
     ["Pumpkin VineCrusher_None"] = 6,
-    ["Puppy_None"] = 30000,
+    ["Puppy_None"] = 27000,
     ["Puppy_Plushie_Rig2_None"] = 0,
     ["Pure Power_None"] = 81,
     ["Pure Silk Explosion_None"] = 81,
