@@ -2316,7 +2316,7 @@ return {
     ["Green Lightning_None"] = 2,
     ["Green Ninja Katana Emote_None"] = 232,
     ["Green Ninja Katana_Finisher"] = 14593,
-    ["Green Ninja Katana_None"] = 4113,
+    ["Green Ninja Katana_None"] = 4700,
     ["Green Ninja Star Emote_None"] = 117,
     ["Green Ninja Star Explosion_None"] = 328,
     ["Green Ninja Star_None"] = 1564,
