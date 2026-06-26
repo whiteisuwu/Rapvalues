@@ -4919,7 +4919,7 @@ return {
     ["Zombie Movement_None"] = 0,
     ["Zombie Run_None"] = 6,
     ["Zombie Shake_None"] = 6,
-    ["Zombie Slide_None"] = 96873,
+    ["Zombie Slide_None"] = 115000,
     ["Zombie Sword_None"] = 4,
     ["Zombie Walk_None"] = 11,
     ["Zoru_None"] = 5,
