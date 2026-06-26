@@ -1,17 +1,3 @@
 return {
-    "Blossom Blade_None",
-    "Corrupt Blossom Bow_None",
-    "Cryosting Bloomblade_None",
-    "Dual Corrupt Blossom Blade_None",
-    "Dual Gothic Bunny Scythe_None",
-    "Event Horizon_None",
-    "Giant Egg_None",
-    "Gothic Bunny Scythe_None",
-    "Iced Dualblade_None",
-    "Nebula Blade_None",
-    "Shadowcleaver_None",
-    "Snow Globe_None",
-    "Super Quantum_None",
-    "Violet Crusher_None",
-    "Warden of Clouds_None",
+
 }
