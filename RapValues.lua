@@ -481,7 +481,7 @@ return {
     ["Blushing Gesture_None"] = 294,
     ["Bone Rattle_None"] = 3,
     ["Bone Shredder_None"] = 12,
-    ["Bone_None"] = 2,
+    ["Bone_None"] = 9500,
     ["Boneblast_None"] = 0,
     ["Bonebreaker_None"] = 7,
     ["Bonecrusher_None"] = 5,
