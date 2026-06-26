@@ -1081,7 +1081,7 @@ return {
     ["Cloud Summon_None"] = 86695,
     ["Cloud Sword_None"] = 119,
     ["Cloud Sword_Sword_None_Cloud Sword"] = 119,
-    ["Cloud_None"] = 18969,
+    ["Cloud_None"] = 18500,
     ["Cloud_Sword_None_Cloud"] = 18969,
     ["CloudRig_None"] = 0,
     ["CLOUDSTARS_None"] = 0,
