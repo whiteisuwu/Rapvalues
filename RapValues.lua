@@ -905,7 +905,7 @@ return {
     ["Celestial Staff_Sword_None_Celestial Staff"] = 6331,
     ["Celestial Vanguard_None"] = 7,
     ["Celestial Vanguard_Sword_None_Celestial Vanguard"] = 7,
-    ["Celestial Whisper_None"] = 19180,
+    ["Celestial Whisper_None"] = 20000,
     ["Celestial Whisper_Sword_None_Celestial Whisper"] = 19180,
     ["Cerberus_None"] = 5,
     ["Cerberus_Sword_None_Cerberus"] = 5,
