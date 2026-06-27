@@ -3707,7 +3707,7 @@ return {
     ["Red Lightning_Explosion_None_Lightning Red"] = 2,
     ["Red Moon Katana Explosion_Explosion_None_Red Moon Katana Explosion"] = 0,
     ["Red Moon Katana_Emote_None_1225"] = 5862,
-    ["Red Moon Katana_Sword_None_Red Moon Katana"] = 13182,
+    ["Red Moon Katana_Sword_None_Red Moon Katana"] = 3500,
     ["Red Ninja Katana Emote_Emote_None_450"] = 237,
     ["Red Ninja Katana_Sword_Finisher_Red Ninja Katana"] = 16586,
     ["Red Ninja Katana_Sword_None_Red Ninja Katana"] = 5486,
