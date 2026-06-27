@@ -2943,7 +2943,7 @@ return {
     ["Lunaris Fang_Sword_None_Lunaris Fang"] = 5,
     ["Lush_Emote_None_1164"] = 30,
     ["Lustrous Fang_Sword_None_Lustrous Fang"] = 5,
-    ["Luv4Pain Blade_Sword_None_Luv4Pain Blade"] = 4081,
+    ["Luv4Pain Blade_Sword_None_Luv4Pain Blade"] = 300,
     ["Luv4Pain Explosion_Explosion_None_Luv4Pain Explosion"] = 96,
     ["Luv4Pain Quote_Explosion_None_Luv4Pain Quote"] = 0,
     ["Luv4Pain Scythe_Emote_None_1230"] = 199,
