@@ -3949,7 +3949,7 @@ return {
     ["Seraphim Emote_Emote_None_555"] = 2292,
     ["Seraphim Gate_Explosion_None_Seraphim Gate"] = 4659,
     ["Seraphim_Sword_Finisher_Seraphim"] = 112887,
-    ["Seraphim_Sword_None_Seraphim"] = 13399,
+    ["Seraphim_Sword_None_Seraphim"] = 40000,
     ["Serene Blade_Sword_None_Serene Blade"] = 113,
     ["Serene Scythe Emote_Emote_None_303"] = 80,
     ["Serene Scythe_Sword_None_Serene Scythe"] = 258,
