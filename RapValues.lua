@@ -755,7 +755,7 @@ return {
     ["Cloud Rapier_Sword_None_Cloud Rapier"] = 3,
     ["Cloud Summon_Emote_None_249"] = 86695,
     ["Cloud Sword_Sword_None_Cloud Sword"] = 115,
-    ["Cloud_Sword_None_Cloud"] = 18500,
+    ["Cloud_Sword_None_Cloud"] = 19125,
     ["CloudRig_None"] = 0,
     ["CLOUDSTARS_Sword_None_CLOUDSTARS"] = 0,
     ["Coal_Explosion_None_Coal"] = 3,
