@@ -48,7 +48,7 @@ return {
     ["Aetherial Lance Emote_Emote_None_411"] = 70,
     ["Aetherial Lance_Sword_None_Aetherial Lance"] = 361,
     ["Aetherion_Sword_None_Aetherion"] = 1769,
-    ["Aethertech Blade_Sword_None_Aethertech Blade"] = 93000,
+    ["Aethertech Blade_Sword_None_Aethertech Blade"] = 90000,
     ["Aetherwatch Blade_Sword_None_Aetherwatch Blade"] = 173,
     ["Aetherwatch Scythe Emote_Emote_None_1065"] = 205,
     ["Aetherwatch Scythe_Sword_None_Aetherwatch Scythe"] = 2241,
