@@ -632,7 +632,7 @@ return {
     ["Celestial Spear_Sword_None_Celestial Spear"] = 20155,
     ["Celestial Staff_Sword_None_Celestial Staff"] = 6014,
     ["Celestial Vanguard_Sword_None_Celestial Vanguard"] = 7,
-    ["Celestial Whisper_Sword_None_Celestial Whisper"] = 12709,
+    ["Celestial Whisper_Sword_None_Celestial Whisper"] = 20000,
     ["Cerberus_Sword_None_Cerberus"] = 5,
     ["Cerberus' Fang_Sword_None_Cerberus' Fang"] = 4,
     ["Cha Cha Slide_Emote_None_945"] = 17,
