@@ -3924,7 +3924,7 @@ return {
     ["Sand Dust_Explosion_None_Sand Dust"] = 42,
     ["Sands of Time_Explosion_None_Sands of Time"] = 3,
     ["Sandstorm Pop_Explosion_None_Sandstorm Pop"] = 7,
-    ["Sandstorm Slasher_Sword_None_Sandstorm Slasher"] = 70000,
+    ["Sandstorm Slasher_Sword_None_Sandstorm Slasher"] = 90579,
     ["Sandstorm's Edge_Sword_None_Sandstorm's Edge"] = 5,
     ["Santa Beam_Explosion_None_Santa Beam"] = 17,
     ["Santa's Greatplosion_Explosion_None_Santa's Greatplosion"] = 278,
