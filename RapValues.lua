@@ -3561,7 +3561,7 @@ return {
     ["Pumpkin Toss_Emote_None_566"] = 5,
     ["Pumpkin VineCrusher_Sword_None_Pumpkin VineCrusher"] = 6,
     ["Puppy_Plushie_Rig2_None"] = 0,
-    ["Puppy_Sword_None_Puppy"] = 20587,
+    ["Puppy_Sword_None_Puppy"] = 22000,
     ["Pure Power_Explosion_None_Pure Power"] = 79,
     ["Pure Silk Explosion_Explosion_None_Pure Silk Explosion"] = 72,
     ["Purgatory Flames_Explosion_None_Purgatory Flames"] = 7,
