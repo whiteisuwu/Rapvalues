@@ -2093,7 +2093,7 @@ return {
     ["Frost Breath_Emote_None_371"] = 5,
     ["Frost Dragon Beam_Explosion_None_Frost Dragon Beam"] = 153,
     ["Frost Dragon_Sword_Finisher_Frost Dragon"] = 1190810,
-    ["Frost Dragon_Sword_None_Frost Dragon"] = 440082,
+    ["Frost Dragon_Sword_None_Frost Dragon"] = 260000,
     ["Frost Flare_Explosion_None_Frost Flare"] = 4,
     ["Frost Flurry_Explosion_None_Frost Flurry"] = 2,
     ["Frost Hammer_Sword_None_Frost Hammer"] = 9,
