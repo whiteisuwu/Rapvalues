@@ -551,7 +551,7 @@ return {
     ["Bunny Imitation_Emote_None_231"] = 236,
     ["Bunny Staff_Sword_None_Bunny Staff"] = 1756,
     ["Bunny_Sword_Finisher_Bunny"] = 218735,
-    ["Bunny_Sword_None_Bunny"] = 137000,
+    ["Bunny_Sword_None_Bunny"] = 98695,
     ["Bunny's Apprenticeblade_Sword_None_Bunny's Apprenticeblade"] = 16,
     ["Bunny's Edge_Sword_None_Bunny's Edge"] = 84,
     ["bunnylimdaggerold_None"] = 0,
