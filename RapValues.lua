@@ -3545,7 +3545,7 @@ return {
     ["Present Exchange_Emote_None_669"] = 34,
     ["Presentslicer_Sword_None_Presentslicer"] = 2,
     ["Pressure Implosion_Explosion_None_Pressure Implosion"] = 17,
-    ["Prince Blade_Sword_None_Prince Blade"] = 2200,
+    ["Prince Blade_Sword_None_Prince Blade"] = 2110,
     ["Princess Explosion_Explosion_None_Princess Explosion"] = 63,
     ["Princess Katana_Sword_None_Princess Katana"] = 258,
     ["Prismatic Cloud Rain_Explosion_None_Prismatic Cloud Rain"] = 1416,
