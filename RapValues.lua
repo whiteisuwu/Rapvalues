@@ -1129,7 +1129,7 @@ return {
     ["DoubleSpear_None"] = 0,
     ["Dove Scatter_Explosion_None_Dove Scatter"] = 193,
     ["Downtown Dancer_Emote_None_1031"] = 3,
-    ["Draconic Blade_Sword_None_Draconic Blade"] = 4994,
+    ["Draconic Blade_Sword_None_Draconic Blade"] = 900,
     ["Draconic Bow_Sword_None_Draconic Bow"] = 62,
     ["Draconic Greatsword_Sword_None_Draconic Greatsword"] = 1571,
     ["Draconic Slasher_Sword_None_Draconic Slasher"] = 5,
