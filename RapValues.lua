@@ -1619,7 +1619,7 @@ return {
     ["Dual Shadow Mirage Emote_Emote_None_153"] = 109,
     ["Dual Shadow Mirage_Sword_None_Dual Shadow Mirage"] = 803,
     ["Dual Shadow Monarch Blade Emote_Emote_None_898"] = 54,
-    ["Dual Shadow Monarch Blade_Sword_None_Dual Shadow Monarch Blade"] = 274,
+    ["Dual Shadow Monarch Blade_Sword_None_Dual Shadow Monarch Blade"] = 500,
     ["Dual Sheriff Revolver_Sword_Finisher_Dual Sheriff Revolver"] = 168,
     ["Dual Sheriff Revolver_Sword_None_Dual Sheriff Revolver"] = 75,
     ["Dual Silk Divinity Blade_Emote_None_1224"] = 95,
