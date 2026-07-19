@@ -4736,7 +4736,7 @@ return {
     ["Valkyrien Scythe_Sword_None_Valkyrien Scythe"] = 4315,
     ["Valor's Rage_Sword_None_Valor's Rage"] = 9943,
     ["Vampire Light_Explosion_None_Vampire Light"] = 484,
-    ["Vampire Saw_Sword_None_Vampire Saw"] = 800,
+    ["Vampire Saw_Sword_None_Vampire Saw"] = 5359,
     ["Vampire Sickle Emote_Emote_None_580"] = 50,
     ["Vampire Sickle_Sword_None_Vampire Sickle"] = 6995,
     ["Vampire Sword_Sword_None_Vampire Sword"] = 5,
