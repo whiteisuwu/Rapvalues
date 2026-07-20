@@ -4931,7 +4931,7 @@ return {
     ["Wicked Crow Explosion_Explosion_None_Wicked Crow Explosion"] = 511,
     ["Wicked Crow_Sword_None_Wicked Crow"] = 8211,
     ["Wicked Fang_Sword_None_Wicked Fang"] = 4,
-    ["Wicked Reaper_Sword_None_Wicked Reaper"] = 500,
+    ["Wicked Reaper_Sword_None_Wicked Reaper"] = 4648,
     ["Wicked Thorn_Sword_None_Wicked Thorn"] = 4,
     ["WiFi Pop Explosion_Explosion_None_WiFi Pop Explosion"] = 129,
     ["Wildheart_Sword_None_Wildheart"] = 55075,
