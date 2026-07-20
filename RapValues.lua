@@ -2347,7 +2347,7 @@ return {
     ["Golden Ban Hammer_Sword_None_Golden Ban Hammer"] = 0,
     ["Golden Blade_Sword_None_Golden Blade"] = 6,
     ["Golden Boot_Sword_None_Golden Boot"] = 0,
-    ["Golden Champion_Sword_None_Golden Champion"] = 2928,
+    ["Golden Champion_Sword_None_Golden Champion"] = 2000,
     ["Golden Crescent Bow_Sword_None_Golden Crescent Bow"] = 886,
     ["Golden Dominion_Sword_None_Golden Dominion"] = 4,
     ["Golden Dualblade_Sword_None_Golden Dualblade"] = 8,
