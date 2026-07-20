@@ -2800,7 +2800,7 @@ return {
     ["Kimchi Bulgogi_Emote_None_832"] = 38,
     ["King and Queen_Emote_None_994"] = 107,
     ["King Blade_Sword_Finisher_King Blade"] = 33873,
-    ["King Blade_Sword_None_King Blade"] = 34507,
+    ["King Blade_Sword_None_King Blade"] = 11847,
     ["King Explosion_Explosion_None_King Explosion"] = 420,
     ["King Throne_Emote_None_214"] = 3250,
     ["King's Catalyst_Explosion_None_King's Catalyst"] = 32,
