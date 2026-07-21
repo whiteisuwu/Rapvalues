@@ -1080,7 +1080,7 @@ return {
     ["Diamond Dagger_Sword_None_Diamond Dagger"] = 3,
     ["Diamond Slicer_Sword_None_Diamond Slicer"] = 9,
     ["Diamond Spear_Sword_None_Diamond Spear"] = 112,
-    ["Diamond Starblade_Sword_None_Diamond Starblade"] = 4300,
+    ["Diamond Starblade_Sword_None_Diamond Starblade"] = 4741,
     ["Diamond Stars_Explosion_None_Diamond Stars"] = 70,
     ["Diamond Sword_Sword_None_Diamond Sword"] = 3,
     ["Digital Breakdance_Emote_None_475"] = 22,
