@@ -766,7 +766,7 @@ return {
     ["Cloud Rapier_Sword_None_Cloud Rapier"] = 4,
     ["Cloud Summon_Emote_None_249"] = 25037,
     ["Cloud Sword_Sword_None_Cloud Sword"] = 702,
-    ["Cloud_Sword_None_Cloud"] = 18000,
+    ["Cloud_Sword_None_Cloud"] = 13179,
     ["CloudNoFX_Sword_None_CloudNoFX"] = 0,
     ["CloudOld_Sword_None_CloudOld"] = 0,
     ["CloudRig_None"] = 0,
