@@ -2807,7 +2807,7 @@ return {
     ["King's Catalyst_Explosion_None_King's Catalyst"] = 32,
     ["King's Judgement_Sword_None_King's Judgement"] = 8,
     ["King's Valor_Sword_None_King's Valor"] = 9,
-    ["Kingdom's Blade_Sword_None_Kingdom's Blade"] = 15262,
+    ["Kingdom's Blade_Sword_None_Kingdom's Blade"] = 11000,
     ["Kings Call_Emote_None_805"] = 0,
     ["Kingsguard's Edge_Sword_None_Kingsguard's Edge"] = 71,
     ["Kitchen Knife_Sword_None_Kitchen Knife"] = 2,
