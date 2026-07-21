@@ -1882,7 +1882,7 @@ return {
     ["Eternal Edge_Sword_None_Eternal Edge"] = 8,
     ["Eternal Ice_Sword_None_Eternal Ice"] = 10,
     ["Eternal Nightmare_Sword_None_Eternal Nightmare"] = 932,
-    ["Eternal Piercer_Sword_None_Eternal Piercer"] = 22747,
+    ["Eternal Piercer_Sword_None_Eternal Piercer"] = 23000,
     ["Eternal Rupture_Explosion_None_Eternal Rupture"] = 7,
     ["Eternal Scythe_Sword_Finisher_Eternal Scythe"] = 47035,
     ["Eternal Scythe_Sword_None_Eternal Scythe"] = 2680,
