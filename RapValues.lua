@@ -20,7 +20,7 @@ return {
     ["Abyssal Shield Emote_Emote_None_376"] = 77,
     ["Abyssal Shield_Sword_None_Abyssal Shield"] = 408,
     ["Abyssal Slicer_Sword_None_Abyssal Slicer"] = 52,
-    ["Abyssal Sovereign_Sword_None_Abyssal Sovereign"] = 3872,
+    ["Abyssal Sovereign_Sword_None_Abyssal Sovereign"] = 4500,
     ["Abyssal Spike_Sword_None_Abyssal Spike"] = 5,
     ["Abyssal Wave_Sword_None_Abyssal Wave"] = 285,
     ["Abyssed Venomfang_Sword_None_Abyssed Venomfang"] = 26,
