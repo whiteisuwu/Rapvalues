@@ -4030,7 +4030,7 @@ return {
     ["Serpent Dance_Emote_None_762"] = 13,
     ["Serpent Emote_Emote_None_755"] = 6536,
     ["Serpent of Neith_Sword_None_Serpent of Neith"] = 6,
-    ["Serpent_Sword_None_Serpent"] = 16000,
+    ["Serpent_Sword_None_Serpent"] = 19080,
     ["Serpent's Aura_Emote_None_35"] = 20,
     ["Serpent's Cataclysm_Explosion_None_Serpent's Cataclysm"] = 1000005,
     ["Serpent's Chosen_Emote_None_307"] = 8,
