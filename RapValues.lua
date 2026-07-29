@@ -2490,7 +2490,7 @@ return {
     ["Haunted Dance_Emote_None_541"] = 9,
     ["Haunted Edge_Sword_None_Haunted Edge"] = 13,
     ["Haunted Ember_Explosion_None_Haunted Ember"] = 3,
-    ["Haunted Harvester_Sword_None_Haunted Harvester"] = 149,
+    ["Haunted Harvester_Sword_None_Haunted Harvester"] = 160,
     ["Haunted Jiggle_Emote_None_546"] = 8,
     ["Haunted Love_Explosion_None_Haunted Love"] = 148,
     ["Haunting Edge_Sword_None_Haunting Edge"] = 5,
