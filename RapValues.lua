@@ -3573,7 +3573,7 @@ return {
     ["Present Exchange_Emote_None_669"] = 30,
     ["Presentslicer_Sword_None_Presentslicer"] = 3,
     ["Pressure Implosion_Explosion_None_Pressure Implosion"] = 17,
-    ["Prince Blade_Sword_None_Prince Blade"] = 2244,
+    ["Prince Blade_Sword_None_Prince Blade"] = 2100,
     ["Prince Landing Explosion_Explosion_None_Prince Landing Explosion"] = 609,
     ["Prince Legacy Blade_Sword_None_Prince Legacy Blade"] = 184,
     ["Prince Legacy Explosion_Explosion_None_Prince Legacy Explosion"] = 944,
