@@ -2763,7 +2763,7 @@ return {
     ["Jack-O-Lantern Blast_Explosion_None_Jack-O-Lantern Blast"] = 8,
     ["Jack's Grin_Sword_None_Jack's Grin"] = 9,
     ["Jackolantern_Sword_Finisher_Jackolantern"] = 20817,
-    ["Jackolantern_Sword_None_Jackolantern"] = 13375,
+    ["Jackolantern_Sword_None_Jackolantern"] = 14000,
     ["Jackpot Dance_Emote_None_366"] = 16,
     ["Jackpot Detonation_Explosion_None_Jackpot Detonation"] = 6,
     ["JACKPOT!_Emote_None_1249"] = 3066,
