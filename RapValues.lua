@@ -1735,7 +1735,7 @@ return {
     ["Dual Yin Yang Greatsword Explosion_Explosion_None_Dual Yin Yang Greatsword Explosion"] = 1869,
     ["Dual Yin Yang Greatsword_Sword_None_Dual Yin Yang Greatsword"] = 4550,
     ["Dual Yin Yang Katana_Sword_None_Dual Yin Yang Katana"] = 182,
-    ["Dual Yin Yang Scythe_Sword_None_Dual Yin Yang Scythe"] = 400,
+    ["Dual Yin Yang Scythe_Sword_None_Dual Yin Yang Scythe"] = 258,
     ["Dual Zephyr Blade Emote_Emote_None_807"] = 38,
     ["Dual Zephyr Blade_Sword_None_Dual Zephyr Blade"] = 199,
     ["Dual Zephyr Scythe Emote_Emote_None_809"] = 100,
