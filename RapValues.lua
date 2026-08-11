@@ -4453,7 +4453,7 @@ return {
     ["Starlit Candle_Explosion_None_Starlit Candle"] = 39,
     ["Starlit Halo Wings Explosion_Explosion_None_Starlit Halo Wings Explosion"] = 434,
     ["Starlit Halo Wings_Emote_None_1247"] = 742,
-    ["Starlit Halo Wings_Sword_None_Starlit Halo Wings"] = 14964,
+    ["Starlit Halo Wings_Sword_None_Starlit Halo Wings"] = 15000,
     ["Starlit Halo WingsOld_Sword_None_Starlit Halo WingsOld"] = 0,
     ["Starlit Splash_Explosion_None_Starlit Splash"] = 5,
     ["Starry Sword_Sword_None_Starry Sword"] = 4,
