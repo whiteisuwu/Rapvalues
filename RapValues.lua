@@ -756,7 +756,7 @@ return {
     ["Clan Ascendancy_Sword_None_Clan Ascendancy"] = 465,
     ["Clan Reliquary_Explosion_None_Clan Reliquary"] = 0,
     ["Clans King_Sword_None_Clans King"] = 0,
-    ["Clans Warrior_Sword_None_Clans Warrior"] = 5500,
+    ["Clans Warrior_Sword_None_Clans Warrior"] = 5745,
     ["Clap_Emote_None_187"] = 4,
     ["Cliffside Echo_Explosion_None_Cliffside Echo"] = 6,
     ["Clockwise_Explosion_None_Clockwise"] = 10,
