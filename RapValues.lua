@@ -3845,7 +3845,7 @@ return {
     ["Regalia Blade_Sword_None_Regalia Blade"] = 8,
     ["Regret Blades Explosion_Explosion_None_Regret Blades Explosion"] = 1152,
     ["Regret Blades_Emote_None_1197"] = 464,
-    ["Regret Blades_Sword_None_Regret Blades"] = 18635,
+    ["Regret Blades_Sword_None_Regret Blades"] = 20000,
     ["Regret_Sword_None_Regret"] = 0,
     ["Reindeer Blade_Sword_None_Reindeer Blade"] = 32,
     ["Reindeer Hammer_Sword_None_Reindeer Hammer"] = 51,
