@@ -5018,7 +5018,7 @@ return {
     ["Winter Wolf Emote_Emote_None_1116"] = 1016,
     ["Winter Wolf Explosion_Explosion_None_Winter Wolf Explosion"] = 2324,
     ["Winter Wolf_Sword_None_Winter Wolf"] = 19319,
-    ["Winter Wolf_Sword_SwordAccessory_Winter Wolf"] = 60000,
+    ["Winter Wolf_Sword_SwordAccessory_Winter Wolf"] = 52500,
     ["Winter Wreath Toss_Emote_None_685"] = 4,
     ["Winter's Aurora_Sword_None_Winter's Aurora"] = 23,
     ["Winter's Bite_Sword_None_Winter's Bite"] = 3,
