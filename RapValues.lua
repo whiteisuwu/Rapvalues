@@ -3464,7 +3464,7 @@ return {
     ["Phantom Howl_Explosion_None_Phantom Howl"] = 6,
     ["Phantom Pact_Emote_None_1175"] = 604,
     ["Phantom Pact_Explosion_None_Phantom Pact"] = 474,
-    ["Phantom Pact_Sword_None_Phantom Pact"] = 8547,
+    ["Phantom Pact_Sword_None_Phantom Pact"] = 8600,
     ["Phantom Reaper_Sword_None_Phantom Reaper"] = 45,
     ["Phantom Reaver_Sword_None_Phantom Reaver"] = 6,
     ["Phantom Saber_Sword_None_Phantom Saber"] = 5,
