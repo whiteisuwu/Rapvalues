@@ -537,7 +537,7 @@ return {
     ["Bronze Sword_Sword_None_Bronze Sword"] = 4,
     ["BRR BRR PATAPIMPLOSION_Explosion_None_BRR BRR PATAPIMPLOSION"] = 5,
     ["Brutality Affection Bat Emote_Emote_None_1222"] = 480,
-    ["Brutality Affection Bat_Sword_None_Brutality Affection Bat"] = 5840,
+    ["Brutality Affection Bat_Sword_None_Brutality Affection Bat"] = 6078,
     ["Brutality Affection Explosion_Explosion_None_Brutality Affection Explosion"] = 625,
     ["Bubble Blade_Sword_None_Bubble Blade"] = 393,
     ["Bubble Blaster Emote_Emote_None_639"] = 116,
