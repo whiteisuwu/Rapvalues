@@ -2593,7 +2593,7 @@ return {
     ["Hidden Beast Scythe_Sword_None_Hidden Beast Scythe"] = 0,
     ["Higanbana Explosion_Explosion_None_Higanbana Explosion"] = 445,
     ["Higanbana Katana_Emote_None_1194"] = 325,
-    ["Higanbana Katana_Sword_None_Higanbana Katana"] = 3600,
+    ["Higanbana Katana_Sword_None_Higanbana Katana"] = 3271,
     ["High Elven Flare_Explosion_None_High Elven Flare"] = 10,
     ["High Five_Emote_None_164"] = 94,
     ["High Noon_Emote_None_357"] = 11,
