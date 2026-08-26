@@ -1548,7 +1548,7 @@ return {
     ["Dual Nebula Yoru_Sword_None_Dual Nebula Yoru"] = 306,
     ["Dual Nebula's Lightning_Sword_None_Dual Nebula's Lightning"] = 257,
     ["Dual Neo-Neko Katana_Emote_None_1212"] = 164,
-    ["Dual Neo-Neko Katana_Sword_None_Dual Neo-Neko Katana"] = 730,
+    ["Dual Neo-Neko Katana_Sword_None_Dual Neo-Neko Katana"] = 500,
     ["Dual Neon Vipers_Sword_None_Dual Neon Vipers"] = 5481,
     ["Dual New Years Fan_Sword_None_Dual New Years Fan"] = 13149,
     ["Dual Nightclaw Blade Emote_Emote_None_878"] = 51,
