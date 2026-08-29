@@ -2157,7 +2157,7 @@ return {
     ["Frostbite Shard_Sword_None_Frostbite Shard"] = 6,
     ["Frostbite Slash_Sword_None_Frostbite Slash"] = 8,
     ["Frostbite Sword_Sword_None_Frostbite Sword"] = 2,
-    ["Frostblade_Sword_None_Frostblade"] = 3022,
+    ["Frostblade_Sword_None_Frostblade"] = 500,
     ["Frostbloom Lance_Sword_None_Frostbloom Lance"] = 24074,
     ["Frostbound Cataclysm_Explosion_None_Frostbound Cataclysm"] = 3,
     ["Frostbound Enlightenment_Explosion_None_Frostbound Enlightenment"] = 1400,
