@@ -3211,7 +3211,7 @@ return {
     ["Necrotic Ruler_Emote_None_696"] = 289,
     ["Needle Connection Explosion_Explosion_None_Needle Connection Explosion"] = 112,
     ["Nemesis Blade_Sword_None_Nemesis Blade"] = 4,
-    ["Neo-Neko Katana_Sword_None_Neo-Neko Katana"] = 500,
+    ["Neo-Neko Katana_Sword_None_Neo-Neko Katana"] = 980,
     ["Neo-Neko Needle_Emote_None_1213"] = 132,
     ["Neo-Neko Needle_Sword_None_Neo-Neko Needle"] = 523,
     ["Neon Burst_Explosion_None_Neon Burst"] = 3,
