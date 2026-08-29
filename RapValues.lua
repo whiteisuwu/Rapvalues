@@ -3953,7 +3953,7 @@ return {
     ["Rotblade_Sword_None_Rotblade"] = 5,
     ["Royal Crescent_Sword_None_Royal Crescent"] = 2,
     ["Royal Delivery_Explosion_None_Royal Delivery"] = 4,
-    ["Royal Duality_Sword_None_Royal Duality"] = 25633,
+    ["Royal Duality_Sword_None_Royal Duality"] = 48000,
     ["Royal Explosion_Explosion_None_Royal Explosion"] = 346,
     ["Royal Pixelblade_Sword_None_Royal Pixelblade"] = 28,
     ["Royal Salute_Emote_None_641"] = 54,
