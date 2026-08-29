@@ -3360,7 +3360,7 @@ return {
     ["Ominous Blade_Sword_None_Ominous Blade"] = 10,
     ["On Beat_Emote_None_860"] = 7,
     ["One Arm Push-up_Emote_None_156"] = 11,
-    ["Oni Claws_Sword_None_Oni Claws"] = 500,
+    ["Oni Claws_Sword_None_Oni Claws"] = 8243,
     ["Oni Ghost Emote_Emote_None_1018"] = 716,
     ["Oni Ghost Explosion_Explosion_None_Oni Ghost Explosion"] = 673,
     ["Oni Ghost_Sword_None_Oni Ghost"] = 7795,
