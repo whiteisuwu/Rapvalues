@@ -1871,7 +1871,7 @@ return {
     ["Emerald Cyclone_Sword_None_Emerald Cyclone"] = 5,
     ["Emerald Edge_Sword_None_Emerald Edge"] = 11,
     ["Emerald Eggblade_Sword_None_Emerald Eggblade"] = 12,
-    ["Emerald Greatsword_Sword_None_Emerald Greatsword"] = 11902,
+    ["Emerald Greatsword_Sword_None_Emerald Greatsword"] = 1500,
     ["Emerald Halo_Explosion_None_Emerald Halo"] = 55,
     ["Emerald Katana_Sword_None_Emerald Katana"] = 35,
     ["Emerald Parasol Emote_Emote_None_896"] = 64,
