@@ -1455,7 +1455,7 @@ return {
     ["Dual Hero of Hope Scythe Emote_Emote_None_1170"] = 61,
     ["Dual Hero of Hope Scythe_Sword_None_Dual Hero of Hope Scythe"] = 357,
     ["Dual Hidden Beast Blade_Emote_None_1262"] = 182,
-    ["Dual Hidden Beast Blade_Sword_None_Dual Hidden Beast Blade"] = 100,
+    ["Dual Hidden Beast Blade_Sword_None_Dual Hidden Beast Blade"] = 150,
     ["Dual Hidden Beast Scythe_Emote_None_1264"] = 154,
     ["Dual Hidden Beast Scythe_Sword_None_Dual Hidden Beast Scythe"] = 351,
     ["Dual Holo Fan_Sword_None_Dual Holo Fan"] = 2016,
