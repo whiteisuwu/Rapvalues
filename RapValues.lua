@@ -1927,7 +1927,7 @@ return {
     ["Eternal Waveblade_Sword_None_Eternal Waveblade"] = 75,
     ["Eternal Winter_Sword_None_Eternal Winter"] = 8,
     ["Eternal_Explosion_None_Eternal"] = 1088,
-    ["Eternum Galepiercer_Sword_None_Eternum Galepiercer"] = 9000,
+    ["Eternum Galepiercer_Sword_None_Eternum Galepiercer"] = 5328,
     ["Ether Blade_Sword_None_Ether Blade"] = 77,
     ["Ethereal Bombardment Emote_Emote_None_1133"] = 161,
     ["Ethereal Bombardment_Explosion_None_Ethereal Bombardment Explosion"] = 386,
