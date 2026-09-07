@@ -5117,7 +5117,7 @@ return {
     ["Wrath of the Sun Disk_Explosion_None_Wrath of the Sun Disk"] = 78,
     ["Wreath Shot_Emote_None_702"] = 78,
     ["Wukong's Wrath_Sword_None_Wukong's Wrath"] = 5,
-    ["Y2K Blade_Sword_None_Y2K Blade"] = 931,
+    ["Y2K Blade_Sword_None_Y2K Blade"] = 500,
     ["Y2K Bling Explosion_Explosion_None_Y2K Bling Explosion"] = 413,
     ["Y2K Bow_Emote_None_1233"] = 134,
     ["Y2K Bow_Sword_None_Y2K Bow"] = 535,
