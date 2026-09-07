@@ -5030,7 +5030,7 @@ return {
     ["Wind Master_Emote_None_866"] = 16,
     ["Wind Shield_Emote_None_670"] = 4,
     ["Wind Slicer_Sword_None_Wind Slicer"] = 5,
-    ["Wind Thorn_Sword_None_Wind Thorn"] = 800,
+    ["Wind Thorn_Sword_None_Wind Thorn"] = 1449,
     ["Wind's Breath_Sword_None_Wind's Breath"] = 4,
     ["Windforce_Sword_None_Windforce"] = 6,
     ["Winged Blade_Sword_None_Winged Blade"] = 6,
