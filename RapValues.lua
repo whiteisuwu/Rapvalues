@@ -2348,7 +2348,7 @@ return {
     ["Gleaming Blade_Sword_None_Gleaming Blade"] = 12,
     ["Gleaming Bloom_Explosion_None_Gleaming Bloom"] = 239,
     ["Gleaming Glitter_Explosion_None_Gleaming Glitter"] = 121,
-    ["Gleaming Katana_Sword_None_Gleaming Katana"] = 2388,
+    ["Gleaming Katana_Sword_None_Gleaming Katana"] = 200,
     ["Gleaming Sakura_Sword_None_Gleaming Sakura"] = 150672,
     ["Gleaming Scythe Emote_Emote_None_905"] = 124,
     ["Gleaming Scythe_Sword_None_Gleaming Scythe"] = 342,
