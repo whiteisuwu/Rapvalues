@@ -443,7 +443,7 @@ return {
     ["Bloodthirster_Sword_None_Bloodthirster"] = 9,
     ["Bloodthirster's Embrace_Explosion_None_Bloodthirster's Embrace"] = 5,
     ["Bloom Awakening_Explosion_None_Bloom Awakening"] = 386,
-    ["Bloom Katana_Sword_None_Bloom Katana"] = 3353,
+    ["Bloom Katana_Sword_None_Bloom Katana"] = 300,
     ["Bloom Shuriken_Sword_Finisher_Bloom Shuriken"] = 87674,
     ["Bloom Shuriken_Sword_None_Bloom Shuriken"] = 63749,
     ["Bloomfire_Explosion_None_Bloomfire"] = 33,
