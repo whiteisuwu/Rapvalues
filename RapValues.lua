@@ -3986,7 +3986,7 @@ return {
     ["Royal Sharpened Sword_Sword_None_Royal Sharpened Sword"] = 12,
     ["Royal Sovereign_Sword_None_Royal Sovereign"] = 10,
     ["Royal Sword_Sword_None_Royal Sword"] = 11,
-    ["Royal Throne_Emote_None_215"] = 800,
+    ["Royal Throne_Emote_None_215"] = 5036,
     ["Royal Toast_Emote_None_677"] = 17,
     ["Rubber Chicken_Sword_None_Rubber Chicken"] = 15,
     ["Ruby Cutter_Sword_None_Ruby Cutter"] = 3049104,
