@@ -5085,7 +5085,7 @@ return {
     ["Witch fury_Explosion_None_Witch's Fury"] = 97,
     ["Witch Ride_Emote_None_18"] = 63,
     ["Witch's Brew_Emote_None_571"] = 96,
-    ["Witch's Broom_Sword_None_Witch's Broom"] = 150,
+    ["Witch's Broom_Sword_None_Witch's Broom"] = 789,
     ["Witch's Broomstick_Sword_None_Witch's Broomstick"] = 7,
     ["Witch's Cackle_Explosion_None_Witch's Cackle"] = 7,
     ["Witch's Curse_Sword_None_Witch's Curse"] = 3100,
