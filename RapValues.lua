@@ -3388,7 +3388,7 @@ return {
     ["Opal Leviathan_Sword_None_Opal Leviathan"] = 17,
     ["Opal Staff_Sword_None_Opal Staff"] = 37,
     ["Orange Phoenixblade_Sword_None_Orange Phoenixblade"] = 4,
-    ["Orbit Spear_Sword_None_Orbit Spear"] = 200,
+    ["Orbit Spear_Sword_None_Orbit Spear"] = 593,
     ["Orbital [NEBULA YORU]_Emote_None_83"] = 1767,
     ["Orbital Dance_Emote_None_752"] = 10,
     ["Orbital Fusion_Emote_None_815"] = 21,
