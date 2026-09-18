@@ -369,7 +369,7 @@ return {
     ["Black Ninja Star_Sword_None_Black Ninja Star"] = 1948,
     ["Black Oni Katana Emote_Emote_None_971"] = 197,
     ["Black Oni Katana Explosion_Explosion_None_Black Oni Katana Explosion"] = 496,
-    ["Black Oni Katana_Sword_None_Black Oni Katana"] = 3400,
+    ["Black Oni Katana_Sword_None_Black Oni Katana"] = 14206,
     ["Black Splash_Explosion_None_Waterblast Black"] = 3,
     ["Blackhole Burst_Explosion_None_Blackhole Burst"] = 11,
     ["Blackhole Gauntlets_Sword_None_Blackhole Gauntlets"] = 592,
