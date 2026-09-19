@@ -4045,7 +4045,7 @@ return {
     ["Samurai Tsujigiri_Explosion_None_Samurai Tsujigiri"] = 55,
     ["Samurai's Backblade_Sword_None_Samurai's Backblade"] = 17680,
     ["Samurai's Set Emote_Emote_None_937"] = 49,
-    ["Samurai's Set_Sword_Finisher_Samurai's Set"] = 1600,
+    ["Samurai's Set_Sword_Finisher_Samurai's Set"] = 2314,
     ["Samurai's Set_Sword_None_Samurai's Set"] = 671,
     ["Samurai's Sickle_Sword_None_Samurai's Sickle"] = 68,
     ["Sand Dagger_Sword_None_Sand Dagger"] = 3,
