@@ -172,7 +172,7 @@ return {
     ["Astral Fang_Sword_None_Astral Fang"] = 3,
     ["Astral Moon_Explosion_None_Astral Moon"] = 96,
     ["Astral Riftblade_Sword_None_Astral Riftblade"] = 18,
-    ["Astral Ruinblade_Sword_None_Astral Ruinblade"] = 133,
+    ["Astral Ruinblade_Sword_None_Astral Ruinblade"] = 300,
     ["Astral Seraph Blade_Emote_None_1250"] = 175,
     ["Astral Seraph Blade_Sword_None_Astral Seraph Blade"] = 3523,
     ["Astral Seraph Explosion_Explosion_None_Astral Seraph Explosion"] = 219,
