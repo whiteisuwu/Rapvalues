@@ -1057,7 +1057,7 @@ return {
     ["Deathpiercer_Sword_None_Deathpiercer"] = 0,
     ["Deathrider Explosion_Explosion_None_Deathrider Explosion"] = 1301,
     ["Deathrider_Emote_None_1269"] = 876,
-    ["Deathrider_Sword_None_Deathrider"] = 17000,
+    ["Deathrider_Sword_None_Deathrider"] = 16750,
     ["Deathscar Core_Explosion_None_Deathscar Core"] = 240,
     ["Deathscar Eye_Explosion_None_Deathscar Eye"] = 56,
     ["Deathwarden Blade_Sword_None_Deathwarden Blade"] = 166,
