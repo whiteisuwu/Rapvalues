@@ -4465,7 +4465,7 @@ return {
     ["Spring Saber_Sword_None_Spring Saber"] = 177,
     ["Spring Scythe_Emote_None_1177"] = 59,
     ["Spring Scythe_Sword_None_Spring Scythe"] = 269,
-    ["Spring Slicer_Sword_None_Spring Slicer"] = 1000,
+    ["Spring Slicer_Sword_None_Spring Slicer"] = 13856,
     ["Spring Sun Bow_Sword_None_Spring Sun Bow"] = 419,
     ["Spring Sun Scythe_Sword_None_Spring Sun Scythe"] = 625,
     ["Spring's Guardian_Sword_None_Spring's Guardian"] = 3,
