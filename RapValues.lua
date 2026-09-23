@@ -3710,7 +3710,7 @@ return {
     ["Quasar Piercer_Sword_None_Quasar Piercer"] = 9,
     ["Quasar Sparkblade_Sword_None_Quasar Sparkblade"] = 5,
     ["Queen Blade_Sword_Finisher_Queen Blade"] = 53084,
-    ["Queen Blade_Sword_None_Queen Blade"] = 29536,
+    ["Queen Blade_Sword_None_Queen Blade"] = 30000,
     ["Queen Explosion_Explosion_None_Queen Explosion"] = 742,
     ["Queen Throne_Emote_None_213"] = 4694,
     ["Quick Spin_Emote_None_719"] = 4,
