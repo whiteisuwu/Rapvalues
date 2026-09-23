@@ -4256,7 +4256,7 @@ return {
     ["Skeletal Slicer_Sword_None_Skeletal Slicer"] = 3,
     ["Skeleton Bride Emote_Emote_None_1062"] = 486,
     ["Skeleton Bride_Sword_None_Skeleton Bride"] = 6536,
-    ["Skeleton Dance_Emote_None_10"] = 8830,
+    ["Skeleton Dance_Emote_None_10"] = 3000,
     ["Skeleton Groove_Emote_None_1073"] = 0,
     ["Skeleton Juggle_Emote_None_226"] = 5000000,
     ["Skeleton Phantom_Explosion_None_Skeleton Phantom"] = 5000000,
