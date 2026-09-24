@@ -2866,7 +2866,7 @@ return {
     ["Kingsguard's Edge_Sword_None_Kingsguard's Edge"] = 472,
     ["Kitchen Knife_Sword_None_Kitchen Knife"] = 2,
     ["Kitsune Blade_Sword_None_Kitsune Blade"] = 90,
-    ["Kitsune_Sword_Finisher_Kitsune"] = 75000,
+    ["Kitsune_Sword_Finisher_Kitsune"] = 89672,
     ["Kitsune_Sword_None_Kitsune"] = 56433,
     ["Kitty Katana Emote_Emote_None_1117"] = 571,
     ["Kitty Katana Explosion_Explosion_None_Kitty Katana Explosion"] = 2227,
