@@ -4847,7 +4847,7 @@ return {
     ["USA Explosion_Explosion_None_USA Explosion"] = 611,
     ["USA Football_Sword_None_USA Football"] = 8711,
     ["USA Supporter_Emote_None_1237"] = 34,
-    ["Valentine Hearts_Emote_None_145"] = 9800,
+    ["Valentine Hearts_Emote_None_145"] = 9818,
     ["Valentine Love_Explosion_None_Valentine Love"] = 0,
     ["Valkyrien Blade_Sword_None_Valkyrien Blade"] = 127,
     ["Valkyrien Eyes_Explosion_None_Valkyrien Eyes"] = 29,
