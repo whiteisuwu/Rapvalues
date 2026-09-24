@@ -3586,7 +3586,7 @@ return {
     ["Poisoned_Emote_None_372"] = 102,
     ["Polar Bear Emote_Emote_None_711"] = 2243,
     ["Polar Bear Pop_Explosion_None_Polar Bear Pop"] = 16079,
-    ["Polar Bear_Sword_None_Polar Bear"] = 90000,
+    ["Polar Bear_Sword_None_Polar Bear"] = 91971,
     ["Polar Bear_Sword_SwordAccessory_Polar Bear"] = 145833,
     ["Polar Cleaver_Sword_None_Polar Cleaver"] = 4,
     ["Polar Cutter_Sword_None_Polar Cutter"] = 5,
