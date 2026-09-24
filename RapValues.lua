@@ -5144,7 +5144,7 @@ return {
     ["Y2K Bow_Sword_None_Y2K Bow"] = 603,
     ["Y2K Star Explosion_Explosion_None_Y2K Star Explosion"] = 183,
     ["Yawn_Emote_None_242"] = 12,
-    ["Year of the Serpent_Explosion_None_Year of the Serpent"] = 3431,
+    ["Year of the Serpent_Explosion_None_Year of the Serpent"] = 4500,
     ["Yellow Blackhole_Explosion_None_Blackhole Yellow"] = 3,
     ["Yellow Lightning_Explosion_None_Lightning Yellow"] = 2,
     ["Yellow Sakura_Explosion_None_Sakura Yellow"] = 3,
