@@ -4220,7 +4220,7 @@ return {
     ["Shrug_Emote_None_246"] = 7,
     ["Shuffle Dance_Emote_None_286"] = 4,
     ["Siam Ember Axe_Sword_None_Siam Ember Axe"] = 108685,
-    ["Siamese Edgeblade_Sword_None_Siamese Edgeblade"] = 190679,
+    ["Siamese Edgeblade_Sword_None_Siamese Edgeblade"] = 200000,
     ["Side Stepper_Emote_None_165"] = 5,
     ["Sidewinder_Emote_None_1098"] = 4,
     ["Sigil Burst_Explosion_None_Sigil Burst"] = 2,
