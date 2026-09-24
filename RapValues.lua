@@ -108,7 +108,7 @@ return {
     ["Angel Greatsword_Sword_None_Angel Greatsword"] = 3351,
     ["Angel Katana_Sword_None_Angel Katana"] = 0,
     ["Angelic Blaster_Sword_None_Angelic Blaster"] = 207,
-    ["Angelic Cleaver_Sword_None_Angelic Cleaver"] = 30000,
+    ["Angelic Cleaver_Sword_None_Angelic Cleaver"] = 16544,
     ["Angelic Extraction_Explosion_None_Angelic Extraction"] = 32,
     ["Anger Management_Emote_None_329"] = 15,
     ["Angry Canaries Racket_Sword_None_Angry Canaries Racket"] = 0,
