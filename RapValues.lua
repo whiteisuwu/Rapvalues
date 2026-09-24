@@ -721,7 +721,7 @@ return {
     ["Chroma Scythe Emote_Emote_None_349"] = 1726,
     ["Chroma Scythe Explosion_Explosion_None_Chroma Scythe Explosion"] = 707,
     ["Chroma Scythe_Sword_None_Chroma Scythe"] = 7990,
-    ["Chroma Seal_Sword_None_Chroma Seal"] = 32500,
+    ["Chroma Seal_Sword_None_Chroma Seal"] = 31811,
     ["Chroma Shortaxe_Sword_None_Chroma Shortaxe"] = 442,
     ["Chroma Shuriken_Sword_Finisher_Chroma Shuriken"] = 1298,
     ["Chroma Shuriken_Sword_None_Chroma Shuriken"] = 648,
