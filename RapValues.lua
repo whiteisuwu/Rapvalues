@@ -2703,7 +2703,7 @@ return {
     ["Ice Storm_Explosion_None_Ice Storm"] = 9,
     ["Ice Warrior_Sword_None_Ice Warrior"] = 18933,
     ["Iceberg Monarch_Sword_None_Iceberg Monarch"] = 6,
-    ["Icebound Dominus_Sword_None_Icebound Dominus"] = 34435,
+    ["Icebound Dominus_Sword_None_Icebound Dominus"] = 37000,
     ["Icebound Saber_Sword_None_Icebound Saber"] = 4,
     ["Iced Avenger_Sword_None_Iced Avenger"] = 173,
     ["Iced Dualblade_Sword_None_Iced Dualblade"] = 4,
