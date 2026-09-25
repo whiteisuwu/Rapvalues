@@ -761,7 +761,7 @@ return {
     ["Clap_Emote_None_187"] = 4,
     ["Cliffside Echo_Explosion_None_Cliffside Echo"] = 6,
     ["Clockwise_Explosion_None_Clockwise"] = 10,
-    ["Clockwork Blueblade_Sword_None_Clockwork Blueblade"] = 30000,
+    ["Clockwork Blueblade_Sword_None_Clockwork Blueblade"] = 28225,
     ["Clockwork Cutlass_Sword_None_Clockwork Cutlass"] = 3,
     ["Clockwork Cutter_Sword_None_Clockwork Cutter"] = 11,
     ["Closer_Emote_None_335"] = 18,
