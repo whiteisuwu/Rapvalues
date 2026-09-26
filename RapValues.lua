@@ -4145,7 +4145,7 @@ return {
     ["Serpents Fan_Sword_None_Serpents Fan"] = 0,
     ["Serpents Staff_Sword_None_Serpents Staff"] = 12,
     ["Servant's Dagger_Sword_None_Servant's Dagger"] = 11,
-    ["Shackled Celestial_Sword_None_Shackled Celestial"] = 500,
+    ["Shackled Celestial_Sword_None_Shackled Celestial"] = 269,
     ["Shadepiercer_Sword_None_Shadepiercer"] = 45,
     ["Shadow Blade_Sword_None_Shadow Blade"] = 6,
     ["Shadow Boxing_Emote_None_267"] = 20,
