@@ -2489,7 +2489,7 @@ return {
     ["Gull Wing_Sword_None_Gull Wing"] = 6,
     ["Gummy Pop_Explosion_None_Gummy Pop"] = 3,
     ["Gyaru Katana_Emote_None_1179"] = 269,
-    ["Gyaru Katana_Sword_None_Gyaru Katana"] = 4841,
+    ["Gyaru Katana_Sword_None_Gyaru Katana"] = 4700,
     ["Gyaru's Selfie_Explosion_None_Gyaru's Selfie"] = 364,
     ["Gymanstic Failure_Emote_None_320"] = 222,
     ["Hacker Explosion_Explosion_None_Hacker Explosion"] = 5,
