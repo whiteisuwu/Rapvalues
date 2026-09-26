@@ -2092,7 +2092,7 @@ return {
     ["Flood Serpent_Sword_None_Flood Serpent"] = 539996,
     ["Floppy Chicken Emote_Emote_None_853"] = 338,
     ["Floppy Chicken Explosion_Explosion_None_Floppy Chicken Explosion"] = 1811,
-    ["Floppy Chicken_Sword_None_Floppy Chicken"] = 3300,
+    ["Floppy Chicken_Sword_None_Floppy Chicken"] = 2869,
     ["Floral Blaze_Explosion_None_Floral Blaze"] = 173,
     ["Floral Bloom_Explosion_None_Floral Bloom"] = 5,
     ["Floral Nova_Explosion_None_Floral Nova"] = 0,
