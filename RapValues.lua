@@ -5157,7 +5157,7 @@ return {
     ["Withered Tentacle_Sword_None_Withered Tentacle"] = 4,
     ["Wolf Gladius_Sword_None_Wolf Gladius"] = 3,
     ["Wolf Greatsword Explosion_Explosion_None_Wolf Greatsword Explosion"] = 847,
-    ["Wolf Greatsword_Emote_None_1198"] = 1408,
+    ["Wolf Greatsword_Emote_None_1198"] = 900,
     ["Wolf Greatsword_Sword_None_Wolf Greatsword"] = 14881,
     ["Wolf_Sword_None_Wolf"] = 0,
     ["Wolf's Beam_Explosion_None_Wolf's Beam"] = 10,
