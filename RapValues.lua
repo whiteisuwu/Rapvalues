@@ -2651,7 +2651,7 @@ return {
     ["Hollow Fang_Sword_None_Hollow Fang"] = 6,
     ["Hollow Oath Katana Emote_Emote_None_910"] = 278,
     ["Hollow Oath Katana_Sword_None_Hollow Oath Katana"] = 3494,
-    ["Hollow Oath_Explosion_None_Hollow Oath Explosion"] = 662,
+    ["Hollow Oath_Explosion_None_Hollow Oath Explosion"] = 3238,
     ["Hollow Wind Katana_Sword_None_Hollow Wind Katana"] = 5,
     ["Holly Branch Saber_Sword_None_Holly Branch Saber"] = 0,
     ["Holly Edge_Sword_None_Holly Edge"] = 0,
