@@ -1976,7 +1976,7 @@ return {
     ["Everything is Amazing!_Emote_None_897"] = 3,
     ["Evil Blast_Explosion_None_Evil Blast"] = 6,
     ["Evil Cyborg Blade_Sword_None_Evil Cyborg Blade"] = 1017,
-    ["Evil Deal_Explosion_None_Evil Deal"] = 3300,
+    ["Evil Deal_Explosion_None_Evil Deal"] = 3203,
     ["Evil Runics Blade_Sword_None_Evil Runics Blade"] = 22101,
     ["Evil Slicer_Sword_None_Evil Slicer"] = 4,
     ["Evil Spike Pit_Explosion_None_Evil Spike Pit"] = 4,
