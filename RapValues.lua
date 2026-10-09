@@ -346,7 +346,7 @@ return {
     ["Beach Bonfire_Emote_None_425"] = 13,
     ["Beach Bounce_Emote_None_391"] = 17,
     ["Beach Party_Explosion_None_Beach Party"] = 2601,
-    ["Beach Relax_Emote_None_423"] = 700,
+    ["Beach Relax_Emote_None_423"] = 1165,
     ["Beachball Duel_Emote_None_401"] = 66,
     ["Beachcomber's Blade_Sword_None_Beachcomber's Blade"] = 22,
     ["Beached Sword_Sword_None_Beached Sword"] = 31,
