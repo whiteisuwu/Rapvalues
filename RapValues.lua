@@ -3787,7 +3787,7 @@ return {
     ["Ranked Season 12 Top 50_Sword_None_Ranked Season 12 Top 50"] = 59473,
     ["Ranked Season 13 Champion_Sword_None_Ranked Season 13 Champion"] = 2521,
     ["Ranked Season 13 Top 1_Sword_None_Ranked Season 13 Top 1"] = 7000000,
-    ["Ranked Season 13 Top 200_Sword_None_Ranked Season 13 Top 200"] = 5000,
+    ["Ranked Season 13 Top 200_Sword_None_Ranked Season 13 Top 200"] = 6046,
     ["Ranked Season 13 Top 50_Sword_None_Ranked Season 13 Top 50"] = 37631,
     ["Ranked Season 14 Champion_Sword_None_Ranked Season 14 Champion"] = 23871,
     ["Ranked Season 14 Top 1_Sword_None_Ranked Season 14 Top 1"] = 8000000,
