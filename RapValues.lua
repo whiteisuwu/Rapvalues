@@ -3143,7 +3143,7 @@ return {
     ["Midnight Starburst_Explosion_None_Midnight Starburst"] = 75,
     ["Midsummer Blade_Sword_None_Midsummer Blade"] = 6,
     ["Mighty Ninja's Racket_Sword_None_Mighty Ninja's Racket"] = 0,
-    ["Milk & Cookies_Emote_None_54"] = 2746,
+    ["Milk & Cookies_Emote_None_54"] = 3000,
     ["Mini Glitch_Explosion_None_Mini Glitch"] = 3,
     ["Mini Pal_Emote_None_701"] = 16,
     ["Mirage's Edge_Sword_None_Mirage's Edge"] = 3,
