@@ -903,7 +903,7 @@ return {
     ["Crimson Kagune Explosion_Explosion_None_Crimson Kagune Explosion"] = 228,
     ["Crimson Kagune_Emote_None_1268"] = 178,
     ["Crimson Kagune_Sword_None_Crimson Kagune"] = 8375,
-    ["Crimson Katana_Sword_None_Crimson Katana"] = 5000,
+    ["Crimson Katana_Sword_None_Crimson Katana"] = 141,
     ["Crimson Love Eruption_Explosion_None_Crimson Love Eruption"] = 4,
     ["Crimson Monolith_Sword_None_Crimson Monolith"] = 0,
     ["Crimson Regent_Sword_None_Crimson Regent"] = 11,
