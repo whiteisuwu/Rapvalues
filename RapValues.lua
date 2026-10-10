@@ -4426,7 +4426,7 @@ return {
     ["Soulreaper Blade_Sword_None_Soulreaper Blade"] = 7,
     ["Soulreaper's Scythe_Sword_None_Soulreaper's Scythe"] = 197462,
     ["Soulrender Scythe Emote_Emote_None_553"] = 149,
-    ["Soulrender Scythe_Sword_None_Soulrender Scythe"] = 2600,
+    ["Soulrender Scythe_Sword_None_Soulrender Scythe"] = 2315,
     ["Souls Capture_Explosion_None_Souls Capture"] = 90,
     ["Soulshard Saber_Sword_None_Soulshard Saber"] = 6,
     ["Soulshredder_Sword_None_Soulshredder"] = 3,
