@@ -366,7 +366,7 @@ return {
     ["Black Ninja Katana_Sword_None_Black Ninja Katana"] = 9076,
     ["Black Ninja Star Emote_Emote_None_512"] = 147,
     ["Black Ninja Star Explosion_Explosion_None_Black Ninja Star Explosion"] = 584,
-    ["Black Ninja Star_Sword_None_Black Ninja Star"] = 2000,
+    ["Black Ninja Star_Sword_None_Black Ninja Star"] = 6813,
     ["Black Oni Katana Emote_Emote_None_971"] = 213,
     ["Black Oni Katana Explosion_Explosion_None_Black Oni Katana Explosion"] = 477,
     ["Black Oni Katana_Sword_None_Black Oni Katana"] = 3542,
