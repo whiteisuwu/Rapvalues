@@ -5167,7 +5167,7 @@ return {
     ["Womp Womp Duo_Emote_None_1034"] = 14,
     ["WOMP WOMP_Emote_None_1033"] = 15,
     ["Wonderwisp Greatsword Emote_Emote_None_514"] = 517,
-    ["Wonderwisp Greatsword_Sword_None_Wonderwisp Greatsword"] = 1895,
+    ["Wonderwisp Greatsword_Sword_None_Wonderwisp Greatsword"] = 2000,
     ["Wooden Club_Sword_None_Wooden Club"] = 4,
     ["Wooden Fang_Sword_None_Wooden Fang"] = 4,
     ["Wooden Hammer_Sword_None_Wooden Hammer"] = 2,
