@@ -4065,7 +4065,7 @@ return {
     ["Rusty Saber_Sword_None_Rusty Saber"] = 3,
     ["Ryuzakura Katana Emote_Emote_None_1288"] = 693,
     ["Ryuzakura Katana Explosion_Explosion_None_Ryuzakura Katana Explosion"] = 486,
-    ["Ryuzakura Katana_Sword_None_Ryuzakura Katana"] = 5119,
+    ["Ryuzakura Katana_Sword_None_Ryuzakura Katana"] = 3500,
     ["Sabrina's Sword of Healing_Sword_None_Sabrina's Sword of Healing"] = 8,
     ["Sailor's Saber_Sword_None_Sailor's Saber"] = 4,
     ["Sakura Fan_Sword_None_Sakura Fan"] = 367,
