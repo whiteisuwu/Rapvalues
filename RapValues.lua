@@ -680,7 +680,7 @@ return {
     ["Cherry Blossom Spear_Sword_None_Cherry Blossom Spear"] = 698,
     ["Cherry Blossom Tree_Explosion_None_Cherry Blossom Tree"] = 601,
     ["Cherub Emote_Emote_None_1287"] = 2228,
-    ["Cherub_Sword_None_Cherub"] = 11665,
+    ["Cherub_Sword_None_Cherub"] = 12000,
     ["Chest Beat_Emote_None_219"] = 4,
     ["Chestnut Emberbrand_Sword_None_Chestnut Emberbrand"] = 4,
     ["Chic Pop_Explosion_None_Chick Pop"] = 7,
