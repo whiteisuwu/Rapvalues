@@ -4304,7 +4304,7 @@ return {
     ["Sinister Smurk_Explosion_None_Sinister Smurk"] = 55,
     ["Sinkcleaver_Sword_None_Sinkcleaver"] = 5,
     ["Siren's Whisper_Sword_None_Siren's Whisper"] = 7,
-    ["Sitting_Emote_None_26"] = 2400,
+    ["Sitting_Emote_None_26"] = 2480,
     ["Skeletal Slicer_Sword_None_Skeletal Slicer"] = 3,
     ["Skeleton Bride Emote_Emote_None_1062"] = 466,
     ["Skeleton Bride_Sword_None_Skeleton Bride"] = 6358,
