@@ -4141,7 +4141,7 @@ return {
     ["Sea Rover's Saber_Sword_None_Sea Rover's Saber"] = 7,
     ["Sea Sovereign_Sword_None_Sea Sovereign"] = 30,
     ["Sea Turtle Explosion_Explosion_None_Sea Turtle Explosion"] = 1672,
-    ["Sea Turtle_Emote_None_1226"] = 1593,
+    ["Sea Turtle_Emote_None_1226"] = 1000,
     ["Sea Turtle_Sword_None_Sea Turtle"] = 11409,
     ["Sea Warden_Sword_None_Sea Warden"] = 4,
     ["Seafloor Fracture_Explosion_None_Seafloor Fracture"] = 63,
