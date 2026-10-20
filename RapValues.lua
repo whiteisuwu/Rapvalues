@@ -67,7 +67,7 @@ return {
     ["Alienated Backblade_Sword_None_Alienated Backblade"] = 187819,
     ["Alienated Backscythe_Sword_None_Alienated Backscythe"] = 1032764,
     ["Alienated Portal_Explosion_None_Alienated Portal"] = 36,
-    ["Aligned Constellation_Sword_None_Aligned Constellation"] = 2863,
+    ["Aligned Constellation_Sword_None_Aligned Constellation"] = 4200,
     ["All-Star Striker_Sword_None_All-Star Striker"] = 1335,
     ["Allseeing Seer_Sword_None_Allseeing Seer"] = 5000001,
     ["Allseeing Spear_Sword_None_Allseeing Spear"] = 88983,
