@@ -3816,7 +3816,7 @@ return {
     ["Ranked Season 14 Top 50_Sword_None_Ranked Season 14 Top 50"] = 7710,
     ["Ranked Season 15 Champion_Sword_None_Ranked Season 15 Champion"] = 1574,
     ["Ranked Season 15 Top 1_Sword_None_Ranked Season 15 Top 1"] = 0,
-    ["Ranked Season 15 Top 200_Sword_None_Ranked Season 15 Top 200"] = 7245,
+    ["Ranked Season 15 Top 200_Sword_None_Ranked Season 15 Top 200"] = 3999,
     ["Ranked Season 15 Top 50_Sword_None_Ranked Season 15 Top 50"] = 37362,
     ["Ranked Season 16 Champion_Sword_None_Ranked Season 16 Champion"] = 1255,
     ["Ranked Season 16 Top 1_Sword_None_Ranked Season 16 Top 1"] = 3000000,
