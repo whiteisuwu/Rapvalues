@@ -3291,7 +3291,7 @@ return {
     ["Neon Shard_Sword_None_Neon Shard"] = 2,
     ["Neon Slasher_Sword_None_Neon Slasher"] = 5,
     ["Neon Slicer_Sword_None_Neon Slicer"] = 2,
-    ["Neon Tempest_Sword_None_Neon Tempest"] = 2412,
+    ["Neon Tempest_Sword_None_Neon Tempest"] = 1599,
     ["Neon Viper_Sword_None_Neon Viper"] = 58,
     ["Netherfang_Sword_None_Netherfang"] = 19,
     ["Neural Error_Sword_None_Neural Error"] = 4,
