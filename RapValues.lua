@@ -3536,7 +3536,7 @@ return {
     ["Phantom Ops_Sword_None_Phantom Ops"] = 4967,
     ["Phantom Pact_Emote_None_1175"] = 566,
     ["Phantom Pact_Explosion_None_Phantom Pact"] = 554,
-    ["Phantom Pact_Sword_None_Phantom Pact"] = 11000,
+    ["Phantom Pact_Sword_None_Phantom Pact"] = 10260,
     ["Phantom Reaper_Sword_None_Phantom Reaper"] = 67,
     ["Phantom Reaver_Sword_None_Phantom Reaver"] = 5,
     ["Phantom Saber_Sword_None_Phantom Saber"] = 6,
