@@ -2382,7 +2382,7 @@ return {
     ["Glacial Spike_Sword_None_Glacial Spike"] = 9,
     ["Glacial Strike_Sword_None_Glacial Strike"] = 10,
     ["Glacial Tyrant_Sword_None_Glacial Tyrant"] = 71623,
-    ["Glacialis Requiem_Sword_None_Glacialis Requiem"] = 800,
+    ["Glacialis Requiem_Sword_None_Glacialis Requiem"] = 1400,
     ["Glacier Blade_Sword_None_Glacier Blade"] = 5,
     ["Glacier Carver_Sword_None_Glacier Carver"] = 5,
     ["Glacier Fang_Sword_None_Glacier Fang"] = 4,
