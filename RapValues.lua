@@ -4083,7 +4083,7 @@ return {
     ["Sabrina's Sword of Healing_Sword_None_Sabrina's Sword of Healing"] = 7,
     ["Sailor's Saber_Sword_None_Sailor's Saber"] = 4,
     ["Sakura Fan_Sword_None_Sakura Fan"] = 379,
-    ["Sakura Katana_Sword_None_Sakura Katana"] = 500,
+    ["Sakura Katana_Sword_None_Sakura Katana"] = 6950,
     ["Sakura Parasol Emote_Emote_None_507"] = 348,
     ["Sakura Parasol_Sword_None_Sakura Parasol"] = 1532,
     ["Sakura Scythe_Sword_None_Sakura Scythe"] = 137,
