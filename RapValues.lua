@@ -551,7 +551,7 @@ return {
     ["Brutality Affection Explosion_Explosion_None_Brutality Affection Explosion"] = 887,
     ["Bubble Blade_Sword_None_Bubble Blade"] = 347,
     ["Bubble Blaster Emote_Emote_None_639"] = 121,
-    ["Bubble Blaster_Sword_None_Bubble Blaster"] = 12170,
+    ["Bubble Blaster_Sword_None_Bubble Blaster"] = 1500,
     ["Bubble Bomb_Explosion_None_Bubble Bomb"] = 4,
     ["Bubble Magic_Explosion_None_Bubble Magic"] = 192,
     ["Bubble Wand_Sword_None_Bubble Wand"] = 5,
