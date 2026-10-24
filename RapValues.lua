@@ -712,7 +712,7 @@ return {
     ["Christmas Tree_Explosion_None_Christmas Tree"] = 9,
     ["Christmas Wreath_Emote_None_672"] = 7,
     ["Chroma Ban Hammer_Sword_None_Chroma Ban Hammer"] = 0,
-    ["Chroma Blade Emote_Emote_None_348"] = 3912,
+    ["Chroma Blade Emote_Emote_None_348"] = 600,
     ["Chroma Blade Explosion_Explosion_None_Chroma Blade Explosion"] = 1368,
     ["Chroma Blade_Sword_Finisher_Chroma Blade"] = 50751,
     ["Chroma Blade_Sword_None_Chroma Blade"] = 12102,
