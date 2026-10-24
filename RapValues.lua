@@ -2913,7 +2913,7 @@ return {
     ["Kitty Launcher_Sword_None_Kitty Launcher"] = 18682,
     ["Kitty Rocket_Explosion_None_Kitty Rocket"] = 9690,
     ["Kitty_Plushie_2_Sword_None_Kitty_Plushie_2"] = 0,
-    ["Kitty's Big Hug_Explosion_None_Kitty's Big Hug"] = 5149,
+    ["Kitty's Big Hug_Explosion_None_Kitty's Big Hug"] = 2000,
     ["Knee Slide_Emote_None_1241"] = 11,
     ["Knight's Crest_Sword_None_Knight's Crest"] = 15,
     ["Knightfall Shock_Explosion_None_Knightfall Shock"] = 6,
