@@ -4695,7 +4695,7 @@ return {
     ["Surge Step_Emote_None_955"] = 0,
     ["Surrender_Emote_None_346"] = 4,
     ["Survivor's Fang_Sword_None_Survivor's Fang"] = 3,
-    ["Swan of Love Explosion_Explosion_None_Swan of Love Explosion"] = 4874,
+    ["Swan of Love Explosion_Explosion_None_Swan of Love Explosion"] = 1000,
     ["Swan Serenity Emote_Emote_None_1286"] = 451,
     ["Swan Serenity_Sword_None_Swan Serenity"] = 13652,
     ["Swan_Limited_Rig_12_Sword_None_Swan_Limited_Rig_12"] = 0,
