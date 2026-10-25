@@ -5261,7 +5261,7 @@ return {
     ["Zombie Movement_Emote_None_567"] = 0,
     ["Zombie Run_Emote_None_107"] = 6,
     ["Zombie Shake_Emote_None_106"] = 8,
-    ["Zombie Slide_Emote_None_12"] = 135000,
+    ["Zombie Slide_Emote_None_12"] = 134137,
     ["Zombie Sword_Sword_None_Zombie Sword"] = 5,
     ["Zombie Walk_Emote_None_39"] = 18,
     ["Zoru_Sword_None_Zoru"] = 4,
