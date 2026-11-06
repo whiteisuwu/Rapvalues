@@ -3,23 +3,23 @@
 
 std = "roblox"
 
-# Disable checks that are noisy in Roblox code
-disable = [
-  "global_usage",      # Roblox globals are expected
-  "unused_variable",   # Often intentional in event handlers
-  "shadowing",         # Common in Roblox callbacks
-  "empty_if",          # Placeholder patterns
-  "unscoped_variables" # Luau type annotations handle this
-]
-
-# Only error on actual problems
-error = [
+# Lint configuration
+[lints]
+# Errors (deny)
+deny = [
   "incorrect_standard_library_use",
   "invalid_loop_variable",
   "mismatched_arg_count",
   "multiple_statements",
-  "shadowing",
   "unbalanced_assignments",
-  "unreachable_code",
-  "unused_variable"
+  "unreachable_code"
+]
+
+# Warnings (allow = don't error on these)
+allow = [
+  "global_usage",
+  "unused_variable",
+  "shadowing",
+  "empty_if",
+  "unscoped_variables"
 ]
