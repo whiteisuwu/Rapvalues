@@ -2,24 +2,3 @@
 # https://github.com/Kampfkarren/selene
 
 std = "roblox"
-
-# Lint configuration
-[lints]
-# Errors (deny)
-deny = [
-  "incorrect_standard_library_use",
-  "invalid_loop_variable",
-  "mismatched_arg_count",
-  "multiple_statements",
-  "unbalanced_assignments",
-  "unreachable_code"
-]
-
-# Warnings (allow = don't error on these)
-allow = [
-  "global_usage",
-  "unused_variable",
-  "shadowing",
-  "empty_if",
-  "unscoped_variables"
-]
