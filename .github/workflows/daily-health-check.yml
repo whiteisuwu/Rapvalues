@@ -1,0 +1,103 @@
+# Daily Infrastructure Health Check
+# Runs on schedule via GitHub Actions (requires self-hosted runner with monitoring label)
+
+name: Daily Health Check
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 06:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  security-events: write
+
+jobs:
+  health-check:
+    name: Daily Health Check
+    runs-on: [self-hosted, monitoring]  # Requires monitoring runner
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # ============================================================
+      # CONTAINER REGISTRY SCANS (Trivy)
+      # ============================================================
+      - name: Scan GHCR images with Trivy
+        if: ${{ github.repository_owner == 'whiteisuwu' }}
+        run: |
+          # Scan all images in GHCR for this org
+          for repo in $(gh api /orgs/whiteisuwu/packages?package_type=container --jq '.[].name'); do
+            echo "Scanning $repo..."
+            trivy image --severity HIGH,CRITICAL --exit-code 1 --ignore-unfixed ghcr.io/whiteisuwu/$repo:latest || true
+          done
+
+      # ============================================================
+      # KUBERNETES HEALTH
+      # ============================================================
+      - name: Check K8s pod health
+        run: |
+          # Pod restarts >5 in last hour
+          kubectl get pods -A --field-selector=status.phase!=Running -o json | jq -r '.items[] | "\(.metadata.namespace)/\(.metadata.name) \(.status.containerStatuses[0].restartCount // 0)"' | awk '$2 > 5 {print "HIGH RESTARTS: " $1}'
+          
+          # OOMKilled pods
+          kubectl get pods -A -o json | jq -r '.items[] | select(.status.containerStatuses[].state.terminated.reason == "OOMKilled") | "\(.metadata.namespace)/\(.metadata.name) OOMKilled"'
+          
+          # CrashLoopBackOff
+          kubectl get pods -A -o json | jq -r '.items[] | select(.status.containerStatuses[].state.waiting.reason == "CrashLoopBackOff") | "\(.metadata.namespace)/\(.metadata.name) CrashLoopBackOff"'
+
+      # ============================================================
+      # TLS CERTIFICATES (cert-manager)
+      # ============================================================
+      - name: Check cert expiry
+        run: |
+          # Requires cert-manager + cert-exporter
+          # Alert if any cert expires < 30 days
+          curl -s http://cert-exporter:9117/metrics | grep 'cert_exporter_cert_not_after_timestamp' | while read line; do
+            expiry=$(echo $line | grep -o '[0-9.]*$')
+            days=$(( (expiry - $(date +%s)) / 86400 ))
+            if [ $days -lt 30 ]; then
+              echo "CERT EXPIRING SOON: $line ($days days)"
+            fi
+          done
+
+      # ============================================================
+      # SECRETS ROTATION
+      # ============================================================
+      - name: Audit secrets rotation
+        run: |
+          # Check Vault/ESO for secrets past rotation threshold
+          # This is a placeholder - implement based on your secrets backend
+          echo "Secrets rotation audit: implement per backend (Vault/ESO/1Password)"
+
+      # ============================================================
+      # BACKUPS (Velero)
+      # ============================================================
+      - name: Verify Velero backups
+        run: |
+          # Check last successful backup timestamp
+          LAST_BACKUP=$(velero backup get -o json | jq -r '.items[] | select(.status.phase=="Completed") | .status.completionTimestamp' | sort -r | head -1)
+          if [ -z "$LAST_BACKUP" ]; then
+            echo "NO SUCCESSFUL BACKUPS FOUND"
+            exit 1
+          fi
+          AGE_HOURS=$(( ($(date +%s) - $(date -d "$LAST_BACKUP" +%s)) / 3600 ))
+          if [ $AGE_HOURS -gt 26 ]; then
+            echo "BACKUP STALE: last success $AGE_HOURS hours ago"
+            exit 1
+          fi
+          echo "Backup OK: last success $AGE_HOURS hours ago"
+
+      # ============================================================
+      # ALERT ON FAILURE
+      # ============================================================
+      - name: Send alert on failure
+        if: failure()
+        run: |
+          # Webhook to Alertmanager/PagerDuty/Slack
+          curl -X POST "$ALERT_WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d "{\"text\": \"Daily health check failed for ${{ github.repository }}\", \"severity\": \"critical\"}"
+        env:
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
