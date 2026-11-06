@@ -30,9 +30,9 @@ jobs:
       - name: Install selene
         run: |
           # Use specific known-working version (update periodically)
-          SELENE_VERSION="0.29.0"
-          curl -L -o selene.tar.gz "https://github.com/Kampfkarren/selene/releases/download/${SELENE_VERSION}/selene_linux.tar.gz"
-          tar -xzf selene.tar.gz
+          SELENE_VERSION="0.32.0"
+          curl -L -o selene.zip "https://github.com/Kampfkarren/selene/releases/download/${SELENE_VERSION}/selene-${SELENE_VERSION}-linux.zip"
+          unzip -o selene.zip
           chmod +x selene
           sudo mv selene /usr/local/bin/
 
