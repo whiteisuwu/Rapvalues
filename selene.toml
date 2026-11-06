@@ -1,4 +1,0 @@
-# selene.toml - Lua linter config for Roblox/Luau (selene v0.32+)
-# https://github.com/Kampfkarren/selene
-
-std = "roblox"
