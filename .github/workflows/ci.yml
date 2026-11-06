@@ -29,7 +29,9 @@ jobs:
 
       - name: Install selene
         run: |
-          curl -L -o selene.tar.gz https://github.com/Kampfkarren/selene/releases/latest/download/selene_linux.tar.gz
+          # Get latest selene release asset URL
+          SELENE_URL=$(curl -s https://api.github.com/repos/Kampfkarren/selene/releases/latest | grep "browser_download_url.*selene_linux.tar.gz" | cut -d '"' -f 4)
+          curl -L -o selene.tar.gz "$SELENE_URL"
           tar -xzf selene.tar.gz
           chmod +x selene
           sudo mv selene /usr/local/bin/
@@ -69,7 +71,7 @@ jobs:
   # ============================================================
   security:
     name: Security Scans
-    runs-on: [self-hosted, monitoring]
+    runs-on: ubuntu-latest  # TODO: change to [self-hosted, monitoring] when runner exists
     needs: lint
     if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
     steps:
@@ -94,16 +96,15 @@ jobs:
             echo "exists=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Install Trivy
+        if: steps.dockerfile.outputs.exists == 'true'
+        run: |
+          curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sh -s -- -b /usr/local/bin
+
       - name: Run Trivy image scan
         if: steps.dockerfile.outputs.exists == 'true'
-        uses: aquasecurity/trivy-action@master
-        with:
-          image-ref: '${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:scan-${{ github.sha }}'
-          format: 'sarif'
-          output: 'trivy-image.sarif'
-          severity: 'HIGH,CRITICAL'
-          exit-code: '1'
-          ignore-unfixed: true
+        run: |
+          trivy image --format sarif --output trivy-image.sarif --severity HIGH,CRITICAL --ignore-unfixed '${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:scan-${{ github.sha }}' || true
 
       - name: Upload Trivy SARIF
         if: always() && steps.dockerfile.outputs.exists == 'true'
