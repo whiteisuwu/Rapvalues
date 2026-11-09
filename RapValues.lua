@@ -372,7 +372,7 @@ return {
     ["Black Hole Edge_Sword_None_Black Hole Edge"] = 12,
     ["Black Ninja Katana Emote_Emote_None_449"] = 311,
     ["Black Ninja Katana_Sword_Finisher_Black Ninja Katana"] = 28942,
-    ["Black Ninja Katana_Sword_None_Black Ninja Katana"] = 9000,
+    ["Black Ninja Katana_Sword_None_Black Ninja Katana"] = 8201,
     ["Black Ninja Star Emote_Emote_None_512"] = 134,
     ["Black Ninja Star Explosion_Explosion_None_Black Ninja Star Explosion"] = 569,
     ["Black Ninja Star_Sword_None_Black Ninja Star"] = 1840,
