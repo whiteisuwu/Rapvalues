@@ -3699,7 +3699,7 @@ return {
     ["Prince Legacy Scythe_Sword_None_Prince Legacy Scythe"] = 308,
     ["Prince Legacy ScytheInv_Sword_None_Prince Legacy ScytheInv"] = 0,
     ["Princess Explosion_Explosion_None_Princess Explosion"] = 61,
-    ["Princess Katana_Sword_None_Princess Katana"] = 6786,
+    ["Princess Katana_Sword_None_Princess Katana"] = 500,
     ["Prismatic Cloud Rain_Explosion_None_Prismatic Cloud Rain"] = 2056,
     ["Prismatic Explosion_Explosion_None_Prismatic Explosion"] = 35,
     ["Prismatic Gem Blade_Sword_None_Prismatic Gem Blade"] = 168,
