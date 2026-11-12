@@ -1977,7 +1977,7 @@ return {
     ["Eternal Piercer_Sword_None_Eternal Piercer"] = 31780,
     ["Eternal Rupture_Explosion_None_Eternal Rupture"] = 5,
     ["Eternal Scythe_Sword_Finisher_Eternal Scythe"] = 45647,
-    ["Eternal Scythe_Sword_None_Eternal Scythe"] = 2500,
+    ["Eternal Scythe_Sword_None_Eternal Scythe"] = 8043,
     ["Eternal Shield_Sword_None_Eternal Shield"] = 474,
     ["Eternal Slasher_Sword_None_Eternal Slasher"] = 5,
     ["Eternal Solstice_Explosion_None_Eternal Solstice"] = 14,
