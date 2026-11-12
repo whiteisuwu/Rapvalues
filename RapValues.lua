@@ -3052,7 +3052,7 @@ return {
     ["Lotus Meditation_Emote_None_136"] = 18,
     ["Love Blade_Sword_None_Love Blade"] = 242,
     ["Love Bow_Explosion_None_Love Bow"] = 151,
-    ["Love For You_Emote_None_1167"] = 15477,
+    ["Love For You_Emote_None_1167"] = 16000,
     ["Love Letter_Emote_None_778"] = 15,
     ["Love Pop_Explosion_None_Love Pop"] = 74,
     ["Love Sickle_Sword_None_Love Sickle"] = 202,
