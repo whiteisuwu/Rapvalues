@@ -620,7 +620,7 @@ return {
     ["Cascade Break_Explosion_None_Cascade Break"] = 8,
     ["Casual Failure_Emote_None_465"] = 541,
     ["Cat Paw Emote_Emote_None_909"] = 1041,
-    ["Cat Paw_Sword_None_Cat Paw"] = 9255,
+    ["Cat Paw_Sword_None_Cat Paw"] = 11000,
     ["Catalyzer_Explosion_None_Catalyzer"] = 325,
     ["Catfight_Emote_None_828"] = 6,
     ["Cavern Cutter_Sword_None_Cavern Cutter"] = 3,
