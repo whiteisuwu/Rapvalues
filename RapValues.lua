@@ -3903,7 +3903,7 @@ return {
     ["Rat Dance_Emote_None_825"] = 15,
     ["Raven Blast_Explosion_None_Raven Blast"] = 31,
     ["Raven Greatsword_Sword_None_Raven Greatsword"] = 94,
-    ["Raven Scythe_Sword_None_Raven Scythe"] = 3535,
+    ["Raven Scythe_Sword_None_Raven Scythe"] = 500,
     ["Razamel's Lightning_Explosion_None_Razamel's Lightning"] = 10,
     ["RC Car_Emote_None_60"] = 38,
     ["Reach_Emote_None_1140"] = 5,
