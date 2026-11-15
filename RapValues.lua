@@ -3776,7 +3776,7 @@ return {
     ["Pyrelance_Sword_None_Pyrelance"] = 0,
     ["Pyromaniac_Emote_None_294"] = 12,
     ["Python Explosion_Explosion_None_Python Explosion"] = 1041,
-    ["Python_Emote_None_1298"] = 1845,
+    ["Python_Emote_None_1298"] = 500,
     ["Python_Sword_None_Python"] = 10809,
     ["Quantum Blade_Sword_None_Quantum Blade"] = 4,
     ["Quantum Break_Explosion_None_Quantum Break"] = 25,
