@@ -1052,7 +1052,7 @@ return {
     ["Dark Matter Explosion_Explosion_None_Dark Matter Explosion"] = 123,
     ["Dark Prince Guardian_Explosion_None_Dark Prince Guardian"] = 1168,
     ["Dark Prince_Emote_None_1297"] = 421,
-    ["Dark Prince_Sword_None_Dark Prince"] = 12898,
+    ["Dark Prince_Sword_None_Dark Prince"] = 11000,
     ["Dark Requiem_Explosion_None_Dark Requiem"] = 22,
     ["Darkened Blade_Sword_None_Darkened Blade"] = 4,
     ["Darkflare_Explosion_None_Darkflare"] = 5,
