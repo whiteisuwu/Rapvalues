@@ -4763,7 +4763,7 @@ return {
     ["T-Rex_Sword_None_T-Rex"] = 11676,
     ["T-Tornado_Emote_None_844"] = 4,
     ["Tai Chai_Emote_None_137"] = 7,
-    ["Tailwhip_Emote_None_1296"] = 600,
+    ["Tailwhip_Emote_None_1296"] = 200,
     ["Tailwhip_Sword_None_Tailwhip"] = 8787,
     ["Take a Nap_Emote_None_858"] = 135,
     ["Talking To You_Emote_None_1143"] = 5,
