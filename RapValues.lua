@@ -2190,7 +2190,7 @@ return {
     ["Fortune Seeker_Sword_None_Fortune Seeker"] = 104,
     ["Fortune Splitter_Sword_None_Fortune Splitter"] = 13,
     ["Foul Play_Emote_None_333"] = 34,
-    ["Fox Katana Emote_Emote_None_1119"] = 321,
+    ["Fox Katana Emote_Emote_None_1119"] = 5900,
     ["Fox Katana Explosion_Explosion_None_Fox Katana Explosion"] = 512,
     ["Fox Katana_Sword_None_Fox Katana"] = 4486,
     ["Foxfang Dagger_Sword_None_Foxfang Dagger"] = 6,
