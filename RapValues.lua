@@ -2192,7 +2192,7 @@ return {
     ["Foul Play_Emote_None_333"] = 36,
     ["Fox Katana Emote_Emote_None_1119"] = 308,
     ["Fox Katana Explosion_Explosion_None_Fox Katana Explosion"] = 512,
-    ["Fox Katana_Sword_None_Fox Katana"] = 5107,
+    ["Fox Katana_Sword_None_Fox Katana"] = 5900,
     ["Foxfang Dagger_Sword_None_Foxfang Dagger"] = 5,
     ["Foxfire Ritual_Emote_None_793"] = 5,
     ["Fracture Blade_Sword_None_Fracture Blade"] = 5,
