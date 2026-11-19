@@ -4059,7 +4059,7 @@ return {
     ["Rose Greatsword_Sword_None_Rose Greatsword"] = 4000000,
     ["Rose Mirage Bloom_Explosion_None_Rose Mirage Bloom"] = 57,
     ["Rose Petal Rupture_Explosion_None_Rose Petal Rupture"] = 13,
-    ["Rose Piercer_Sword_None_Rose Piercer"] = 6000000,
+    ["Rose Piercer_Sword_None_Rose Piercer"] = 50000,
     ["Rose Pinksaber_Sword_None_Rose Pinksaber"] = 7,
     ["Rose Quartz Warrior_Sword_None_Rose Quartz Warrior"] = 4,
     ["Rose Quartz_Emote_None_501"] = 31,
