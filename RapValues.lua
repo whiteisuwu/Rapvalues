@@ -2002,7 +2002,7 @@ return {
     ["Eternal Web Snare_Explosion_None_Eternal Web Snare"] = 0,
     ["Eternal Winter_Sword_None_Eternal Winter"] = 9,
     ["Eternal_Explosion_None_Eternal"] = 1103,
-    ["Eternum Galepiercer_Sword_None_Eternum Galepiercer"] = 5405,
+    ["Eternum Galepiercer_Sword_None_Eternum Galepiercer"] = 9000,
     ["Ether Blade_Sword_None_Ether Blade"] = 2289,
     ["Ethereal Bombardment Emote_Emote_None_1133"] = 155,
     ["Ethereal Bombardment_Explosion_None_Ethereal Bombardment Explosion"] = 364,
