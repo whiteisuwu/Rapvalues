@@ -3383,7 +3383,7 @@ return {
     ["Ninja Shuriken_Sword_None_Ninja Shuriken"] = 335,
     ["Ninja Training_Emote_None_942"] = 5,
     ["Ninja Wall Flip_Emote_None_939"] = 4,
-    ["NO BATIDÃO_Emote_None_1272"] = 4514,
+    ["NO BATIDÃO_Emote_None_1272"] = 3700,
     ["NOBATJUSTPLUSH_Sword_None_NOBATJUSTPLUSH"] = 0,
     ["Noble Fang_Sword_None_Noble Fang"] = 4,
     ["Noise Maker_Emote_None_65"] = 54,
