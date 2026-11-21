@@ -884,7 +884,7 @@ return {
     ["Cosmic Storm_Explosion_None_Cosmic Storm"] = 76,
     ["Cosmic Stride_Emote_None_816"] = 6,
     ["Cosmic Wraithclaws_Sword_None_Cosmic Wraithclaws"] = 80,
-    ["Cosmic Wrath_Sword_None_Cosmic Wrath"] = 35991,
+    ["Cosmic Wrath_Sword_None_Cosmic Wrath"] = 40000,
     ["Countdown Cutter_Sword_None_Countdown Cutter"] = 6,
     ["Countdown Edge_Sword_None_Countdown Edge"] = 3,
     ["Countdown Spark_Emote_None_740"] = 5,
