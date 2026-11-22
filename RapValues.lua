@@ -5130,7 +5130,7 @@ return {
     ["Waterburst Saber_Sword_None_Waterburst Saber"] = 3,
     ["Waterplosion_Explosion_None_Waterplosion"] = 32201,
     ["Wave Rider_Emote_None_22"] = 10,
-    ["Wavelight Greatblade_Sword_None_Wavelight Greatblade"] = 200,
+    ["Wavelight Greatblade_Sword_None_Wavelight Greatblade"] = 804,
     ["Wavelight_Emote_None_9"] = 355,
     ["We're Doomed_Emote_None_801"] = 4,
     ["Wealth Cutter_Sword_None_Wealth Cutter"] = 3,
