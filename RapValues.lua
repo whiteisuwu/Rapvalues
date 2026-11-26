@@ -4862,7 +4862,7 @@ return {
     ["TigerFX_Sword_None_TigerFX"] = 0,
     ["Tigershadow Blade_Sword_None_Tigershadow Blade"] = 4,
     ["Time Stopper_Sword_None_Time Stopper"] = 4,
-    ["Timeless Greatsword_Sword_None_Timeless Greatsword"] = 11743,
+    ["Timeless Greatsword_Sword_None_Timeless Greatsword"] = 2000,
     ["Tinsel Cutter_Sword_None_Tinsel Cutter"] = 3,
     ["Tinsel Dance_Emote_None_684"] = 9,
     ["Tinsel Edge_Sword_None_Tinsel Edge"] = 7,
